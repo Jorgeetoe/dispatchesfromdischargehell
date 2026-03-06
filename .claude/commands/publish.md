@@ -1,54 +1,70 @@
-# /publish — Deploy to Hostinger
+# /publish — Publish New Post to Cloudflare Pages
 
-Deploy the site to Hostinger via FTP.
+Publish a new blog post to dispatchesfromdischargehell.com via GitHub + Cloudflare Pages.
 
-## Steps
+## Workflow
 
-**1. Check FTP credentials**
-Verify these environment variables are set:
-- `DISPATCHES_FTP_HOST`
-- `DISPATCHES_FTP_USER`
-- `DISPATCHES_FTP_PASS`
+When you paste a draft article, I will:
 
-If any are missing, show how to set them and stop.
-
-**2. Show changes**
-List files in `site/` that were modified today or since the last deploy. Give a quick summary of what's going out.
-
-**3. Confirm**
-Ask Jorge to confirm before deploying.
-
-**4. Deploy**
-Run `config/deploy.sh` to mirror `site/` to `/public_html/` via lftp.
-
-**5. Report**
-Show the deploy result — files uploaded, any errors, and the live URL of the most recently staged post.
+1. **Parse the draft** — Extract title, date, category, keywords, description
+2. **Create Markdown file** — Generate `hugo/content/blog/posts/YYYY-MM-DD-slug.md` with YAML front matter
+3. **Verify locally** — Build with Hugo to check for errors
+4. **Commit and push** — Commit to git and push to GitHub
+5. **Auto-deploy** — Cloudflare Pages builds and deploys (2-3 minutes)
+6. **Report** — Show you the live URL
 
 ## Example Flow
 
 ```
 $ /publish
+[Paste article content with metadata]
 
-Checking FTP credentials... ✓
-Credentials found.
+Processing: "She Knew and She Didn't Say Anything"
+Category: Dispatches
+Date: February 26, 2026
+Keywords: insurance silence, case management, system design
 
-Changes to deploy (since last deploy):
-  ✓ site/blog/posts/2026-02-26-she-knew-and-she-didnt-say-anything.html (modified)
-  ✓ site/blog/index.html (modified)
-  ✓ site/feed.xml (regenerated)
+Creating: hugo/content/blog/posts/2026-02-26-she-knew-and-she-didnt-say-anything.md
+✓ File created with front matter
 
-Ready to deploy 3 files to dispatchesfromdischargehell.com?
-Confirm? [y/n]
+Building locally...
+✓ Hugo build successful (71 pages)
 
-Deploying...
-================================================
-Transferring file `blog/posts/2026-02-26-she-knew-and-she-didnt-say-anything.html'
-Transferring file `blog/index.html`
-Transferring file `feed.xml`
-================================================
-DEPLOYED ✓
+Committing to git...
+✓ Commit: "Publish: She Knew and She Didn't Say Anything"
+✓ Pushed to GitHub
 
-Live URLs:
-  Homepage: https://dispatchesfromdischargehell.com
-  Latest post: https://dispatchesfromdischargehell.com/blog/posts/2026-02-26-she-knew-and-she-didnt-say-anything.html
+Cloudflare Pages is now building...
+✓ Build started
+
+Live in ~2-3 minutes at:
+https://dispatchesfromdischargehell.com/blog/posts/2026-02-26-she-knew-and-she-didnt-say-anything/
 ```
+
+## What You Need to Provide
+
+When pasting a draft, include:
+- **Full article text** (finished, ready to publish)
+- **Title** (SEO optimized, under 60 chars)
+- **Category** (Dispatches, Field Notes, The Machine, Case Files, or Persona)
+- **Date** (publication date)
+- **Meta description** (150-160 chars, keyword-rich)
+- **Keywords** (2-4 main topics)
+
+Example:
+```
+Title: She Knew and She Didn't Say Anything
+Date: 2026-02-26
+Category: Dispatches
+Description: When insurance case managers know the family's plan won't be covered but stay silent anyway.
+Keywords: insurance silence, system design, case management
+
+[Article text here...]
+```
+
+## No Manual Steps
+
+- ✅ No FTP passwords
+- ✅ No manual HTML generation
+- ✅ No blog listing updates
+- ✅ Fully automated: git → Cloudflare Pages → live

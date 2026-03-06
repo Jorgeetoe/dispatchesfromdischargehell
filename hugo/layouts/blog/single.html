@@ -1,0 +1,68 @@
+{{ define "main" }}
+<div class="container">
+  <article class="post"{{ if .Params.series }} data-series="{{ .Params.series }}" data-series-part="{{ .Params.series_order }}"{{ end }}>
+    <header class="post-header">
+      {{- if .Params.categories }}
+      <span class="category-tag" data-category="{{ index .Params.categories 0 | lower | replace " " "-" }}">
+        {{- index .Params.categories 0 -}}
+      </span>
+      {{- end }}
+      <h1>{{ .Title }}</h1>
+      {{- partial "post-meta.html" . }}
+    </header>
+
+    {{- if .Params.disclaimer }}
+    <p class="medical-disclaimer">
+      <strong>Disclaimer:</strong> {{ .Params.disclaimer }}
+    </p>
+    {{- else }}
+    <p class="medical-disclaimer">
+      <strong>Disclaimer:</strong> This content is educational and based on 20+ years in neurorehabilitation case management. It reflects current practice patterns and is not professional medical or legal advice.
+    </p>
+    {{- end }}
+
+    <div class="article-content">
+      {{ .Content }}
+    </div>
+
+    <p class="byline">Written by {{ .Site.Params.author }}, {{ .Site.Params.author_credentials }}</p>
+
+    <!-- Support CTA -->
+    <div class="support-cta">
+      <script src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-id="jorgearenivar" data-description="Support quality healthcare writing" data-message="Thanks for the support!" data-color="#FFDD00"></script>
+    </div>
+  </article>
+
+  <!-- Post Navigation -->
+  {{ $posts := (where .Site.RegularPages "Section" "blog") }}
+  {{ $currentIndex := 0 }}
+  {{ range $index, $post := $posts }}
+    {{ if eq $post.RelPermalink $.RelPermalink }}
+      {{ $currentIndex = $index }}
+    {{ end }}
+  {{ end }}
+
+  {{ if or (gt $currentIndex 0) (lt $currentIndex (sub (len $posts) 1)) }}
+  <nav class="post-nav">
+    {{ if lt $currentIndex (sub (len $posts) 1) }}
+      {{ $prevPost := index $posts (add $currentIndex 1) }}
+      <a href="{{ $prevPost.RelPermalink }}" class="prev">&larr; {{ $prevPost.Title }}</a>
+    {{ end }}
+    {{ if gt $currentIndex 0 }}
+      {{ $nextPost := index $posts (sub $currentIndex 1) }}
+      <a href="{{ $nextPost.RelPermalink }}" class="next">{{ $nextPost.Title }} &rarr;</a>
+    {{ end }}
+  </nav>
+  {{ end }}
+
+  <!-- Newsletter CTA -->
+  <section class="newsletter-cta">
+    <h3>Get dispatches in your inbox</h3>
+    <p>Subscribe to receive new posts weekly, plus occasional deeper analysis.</p>
+    <form class="inline-form" action="#" method="POST">
+      <input type="email" name="email" placeholder="you@example.com" required>
+      <button type="submit">Subscribe</button>
+    </form>
+  </section>
+</div>
+{{ end }}

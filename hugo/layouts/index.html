@@ -1,0 +1,66 @@
+{{ define "main" }}
+<div class="container">
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>{{ .Site.Title }}</h1>
+    <p class="tagline">{{ .Site.Params.description }}</p>
+    <p class="author-credentials">{{ .Site.Params.author }}, {{ .Site.Params.author_credentials }}</p>
+  </section>
+
+  <!-- New Here Banner -->
+  <section class="featured-banner">
+    <h2>New here?</h2>
+    <p>Start with <a href="/start-here/">Where to begin</a> to understand the different content categories.</p>
+  </section>
+
+  <!-- Recent Dispatches -->
+  <section class="recent-posts">
+    <h2>Recent Dispatches</h2>
+
+    {{ $posts := (where .Site.RegularPages "Section" "blog") | first 7 }}
+    {{ if $posts }}
+    <ul class="post-list">
+      {{- range $posts }}
+      <li data-category="{{ index .Params.categories 0 | lower | replace " " "-" }}">
+        {{- if .Params.pinned }}
+        <span class="pinned-badge">📌 Start Here</span>
+        {{- end }}
+        <span class="category-tag" data-category="{{ index .Params.categories 0 | lower | replace " " "-" }}">
+          {{- index .Params.categories 0 -}}
+        </span>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p class="post-meta">
+          <time datetime="{{ .PublishDate.Format "2006-01-02" }}">{{ .PublishDate.Format "January 2, 2006" }}</time>
+          {{- if .ReadingTime }}
+          <span class="reading-time">· {{ .ReadingTime }} min read</span>
+          {{- end }}
+        </p>
+        {{- if .Summary }}
+        <p class="post-excerpt">{{ .Summary | plainify }}</p>
+        {{- end }}
+      </li>
+      {{- end }}
+    </ul>
+    {{ end }}
+
+    <p class="browse-more"><a href="/blog/">Browse all posts →</a></p>
+  </section>
+
+  <!-- Newsletter CTA -->
+  <section class="newsletter-cta">
+    <h3>Get dispatches in your inbox</h3>
+    <p>Subscribe to receive new posts weekly, plus occasional deeper analysis.</p>
+    <form class="inline-form" action="#" method="POST">
+      <input type="email" name="email" placeholder="you@example.com" required>
+      <button type="submit">Subscribe</button>
+    </form>
+  </section>
+
+  <!-- Support CTA -->
+  <section class="support-cta">
+    <h3>Support this work</h3>
+    <p>If these dispatches have been helpful, consider buying me a coffee.</p>
+    <script src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-id="jorgearenivar" data-description="Support quality healthcare writing" data-message="Thanks for the support!" data-color="#FFDD00"></script>
+  </section>
+</div>
+{{ end }}

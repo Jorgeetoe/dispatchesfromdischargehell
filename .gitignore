@@ -1,0 +1,28 @@
+# Hugo
+/hugo/public/
+/hugo/resources/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Old site (backup)
+/site/
+
+# Archive directories
+/drafts/
+/raw/
+/processed/
+/published/
+/logs/
+
+# Environment
+.env
+*.key

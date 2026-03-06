@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  {{- if .Description }}
+  <meta name="description" content="{{ .Description }}">
+  {{- else }}
+  <meta name="description" content="{{ .Site.Params.description }}">
+  {{- end }}
+
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+
+  {{- /* Open Graph tags */ -}}
+  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="og:image" content="{{ .Site.BaseURL }}assets/social-share.png">
+
+  {{- /* Twitter Card */ -}}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="twitter:image" content="{{ .Site.BaseURL }}assets/social-share.png">
+  <meta name="twitter:site" content="@JorgeArenivar">
+
+  {{- /* Canonical */ -}}
+  <link rel="canonical" href="{{ .Permalink }}">
+
+  {{- /* Favicon */ -}}
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+
+  {{- /* Fonts */ -}}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400&family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+
+  {{- /* CSS */ -}}
+  <link rel="stylesheet" href="/css/style.css">
+
+  {{- /* Article Schema Markup */ -}}
+  {{- if .IsPage }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ .Title }}",
+    "description": "{{ .Description }}",
+    "datePublished": "{{ .PublishDate.Format "2006-01-02" }}",
+    "dateModified": "{{ .Date.Format "2006-01-02" }}",
+    {{- if .Params.categories }}
+    "keywords": "{{ delimit .Params.categories ", " }}",
+    {{- end }}
+    "author": {
+      "@type": "Person",
+      "name": "{{ .Site.Params.author }}",
+      "url": "{{ .Site.BaseURL }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ .Site.Title }}",
+      "url": "{{ .Site.BaseURL }}"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}"
+    }
+  }
+  </script>
+  {{- end }}
+
+  {{- /* Homepage Schema Markup */ -}}
+  {{- if .IsHome }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "description": "{{ .Site.Params.description }}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ .Site.Params.author }}",
+      "jobTitle": "Registered Nurse, Case Manager",
+      "url": "{{ .Site.BaseURL }}"
+    }
+  }
+  </script>
+  {{- end }}
+</head>
+<body>
+  <div class="progress-bar" id="progressBar"></div>
+
+  {{- partial "header.html" . }}
+
+  <main>
+    {{- block "main" . }}{{- end }}
+  </main>
+
+  {{- partial "footer.html" . }}
+
+  <script src="/js/main.js"></script>
+</body>
+</html>

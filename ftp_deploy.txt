@@ -1,0 +1,18 @@
+open $DISPATCHES_FTP_HOST
+$DISPATCHES_FTP_USER
+$DISPATCHES_FTP_PASS
+cd public_html
+lcd site
+mput index.html
+mput robots.txt
+mput sitemap.xml
+mkdir -p blog/posts
+cd blog/posts
+mput *.html
+cd ../../../css
+mkdir -p css
+mput style.css
+cd ../js
+mkdir -p js
+mput main.js
+quit

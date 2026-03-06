@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:dispatchesfromdischargehell.com)",
+      "Bash(curl:*)",
+      "Bash(lftp:*)",
+      "Bash(bash:*)"
+    ]
+  }
+}

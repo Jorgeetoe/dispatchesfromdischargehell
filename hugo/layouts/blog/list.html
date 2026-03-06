@@ -1,0 +1,73 @@
+{{ define "main" }}
+<div class="container">
+  <div class="blog-header">
+    <h1>Blog / Writing</h1>
+    <p>Dispatches from the neurorehabilitation trenches.</p>
+  </div>
+
+  <!-- Content Categories Info -->
+  <div class="categories-info">
+    <h2>Content Categories</h2>
+    <ul>
+      <li><strong>Dispatches</strong> — Dark humor, satire about system absurdity</li>
+      <li><strong>Field Notes</strong> — Practical guidance for families and clinicians</li>
+      <li><strong>The Machine</strong> — Institutional mechanics, payer games, system analysis</li>
+      <li><strong>Case Files</strong> — De-identified pattern stories from 20 years</li>
+      <li><strong>Persona</strong> — Off-duty reflections</li>
+    </ul>
+  </div>
+
+  <!-- Search Box (populated by JavaScript) -->
+  <div class="search-box" id="searchBox" style="display: none;">
+    <input type="text" id="searchInput" placeholder="Search posts...">
+    <div class="search-results" id="searchResults"></div>
+  </div>
+
+  <!-- Category Filters -->
+  <div class="category-filters">
+    <button class="filter-btn active" data-category="all">All</button>
+    <button class="filter-btn" data-category="dispatches">Dispatches</button>
+    <button class="filter-btn" data-category="field-notes">Field Notes</button>
+    <button class="filter-btn" data-category="the-machine">The Machine</button>
+    <button class="filter-btn" data-category="case-files">Case Files</button>
+    <button class="filter-btn" data-category="persona">Persona</button>
+  </div>
+
+  <!-- Post Listing -->
+  {{ $posts := (where .Site.RegularPages "Section" "blog") }}
+  {{ if $posts }}
+  <ul class="post-list">
+    {{- range $posts }}
+    <li data-category="{{ index .Params.categories 0 | lower | replace " " "-" }}">
+      {{- if .Params.pinned }}
+      <span class="pinned-badge">📌 Start Here</span>
+      {{- end }}
+      <span class="category-tag" data-category="{{ index .Params.categories 0 | lower | replace " " "-" }}">
+        {{- index .Params.categories 0 -}}
+      </span>
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p class="post-meta">
+        <time datetime="{{ .PublishDate.Format "2006-01-02" }}">{{ .PublishDate.Format "January 2, 2006" }}</time>
+        {{- if .ReadingTime }}
+        <span class="reading-time">· {{ .ReadingTime }} min read</span>
+        {{- end }}
+      </p>
+      {{- if .Summary }}
+      <p class="post-excerpt">{{ .Summary | plainify }}</p>
+      {{- end }}
+    </li>
+    {{- end }}
+  </ul>
+  {{ end }}
+
+  <!-- Newsletter CTA -->
+  <section class="newsletter-cta">
+    <h3>Get dispatches in your inbox</h3>
+    <p>Subscribe to receive new posts weekly.</p>
+    <form class="inline-form" action="#" method="POST">
+      <input type="email" name="email" placeholder="you@example.com" required>
+      <button type="submit">Subscribe</button>
+    </form>
+  </section>
+</div>
+{{ end }}

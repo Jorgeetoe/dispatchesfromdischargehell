@@ -10,13 +10,9 @@
       </button>
 
       <nav class="site-nav" aria-label="Main navigation">
-        <ul>
-          {{- range .Site.Menus.main }}
-          <li>
-            <a href="{{ .URL }}"{{ if eq $.RelPermalink .URL }} class="active"{{ end }}>{{ .Name }}</a>
-          </li>
-          {{- end }}
-        </ul>
+        {{- range .Site.Menus.main }}
+        <a href="{{ .URL }}"{{ if eq $.RelPermalink .URL }} class="active"{{ end }}>{{ .Name }}</a>
+        {{- end }}
       </nav>
 
       <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">

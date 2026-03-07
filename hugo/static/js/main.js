@@ -610,19 +610,13 @@
   const MobileNav = {
     init() {
       const navToggle = document.querySelector('.nav-toggle');
-      const nav = document.querySelector('nav');
+      const nav = document.querySelector('header nav');
 
       if (!navToggle || !nav) return;
 
       navToggle.addEventListener('click', () => {
         nav.classList.toggle('open');
-      });
-
-      // Close menu when link is clicked
-      nav.querySelectorAll('a').forEach(link => {
-        link.addEventListener('click', () => {
-          nav.classList.remove('open');
-        });
+        navToggle.setAttribute('aria-expanded', nav.classList.contains('open'));
       });
     }
   };

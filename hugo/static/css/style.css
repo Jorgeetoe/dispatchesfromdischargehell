@@ -367,8 +367,8 @@ footer .container {
 
 /* --- Home Page --- */
 .hero {
-  margin-bottom: var(--space-lg);
-  padding: var(--space-sm) 0;
+  margin-bottom: var(--space-md);
+  padding: 0.5rem 0;
   text-align: center;
 }
 
@@ -389,7 +389,7 @@ footer .container {
 .author-line {
   font-size: 1.2rem;
   color: var(--text-secondary);
-  margin-bottom: var(--space-md);
+  margin-bottom: 0;
 }
 
 .author-line a {

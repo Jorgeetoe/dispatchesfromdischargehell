@@ -970,6 +970,20 @@ button:hover,
 
 /* --- Tablet Breakpoint --- */
 @media (max-width: 768px) {
+  header nav {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+  }
+
+  header nav.open {
+    display: flex;
+  }
+
+  .nav-toggle {
+    display: block !important;
+  }
+
   .filter-controls {
     gap: var(--space-xs);
   }
@@ -1033,9 +1047,10 @@ button:hover,
     padding: var(--space-sm);
     max-height: 0;
     overflow: hidden;
+    transition: max-height 0.3s ease;
   }
 
-  nav:not(.hidden) {
+  nav.open {
     max-height: 500px;
   }
 

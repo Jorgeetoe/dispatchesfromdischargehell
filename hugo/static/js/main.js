@@ -615,13 +615,13 @@
       if (!navToggle || !nav) return;
 
       navToggle.addEventListener('click', () => {
-        nav.classList.toggle('hidden');
+        nav.classList.toggle('open');
       });
 
       // Close menu when link is clicked
       nav.querySelectorAll('a').forEach(link => {
         link.addEventListener('click', () => {
-          nav.classList.add('hidden');
+          nav.classList.remove('open');
         });
       });
     }

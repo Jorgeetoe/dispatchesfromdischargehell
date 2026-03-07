@@ -249,12 +249,14 @@ header .container {
   text-decoration: none;
 }
 
-nav {
+/* Desktop nav: always visible */
+header nav {
   display: flex;
-  gap: var(--space-md);
   align-items: center;
+  gap: var(--space-md);
 }
 
+/* Nav links */
 nav a {
   color: var(--text-secondary);
   font-size: 0.95rem;

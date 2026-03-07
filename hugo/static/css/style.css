@@ -471,7 +471,7 @@ footer .container {
   white-space: nowrap;
 }
 
-.category-label {
+.category-tag {
   display: inline-block;
   font-size: 0.8rem;
   color: var(--accent);

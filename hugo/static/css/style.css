@@ -289,7 +289,7 @@ nav a.active {
 }
 
 /* Hamburger menu toggle */
-.hamburger {
+.nav-toggle {
   display: none;
   background: none;
   border: none;
@@ -298,10 +298,27 @@ nav a.active {
   padding: var(--space-xs);
   font-size: 1.5rem;
   line-height: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
 }
 
-.hamburger:hover {
+.nav-toggle span {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background-color: var(--text);
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+.nav-toggle:hover {
   color: var(--accent);
+}
+
+.nav-toggle:hover span {
+  background-color: var(--accent);
 }
 
 /* Mobile navigation menu */
@@ -998,8 +1015,8 @@ button:hover,
     flex: 1;
   }
 
-  .hamburger {
-    display: block;
+  .nav-toggle {
+    display: flex;
   }
 
   nav {

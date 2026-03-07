@@ -387,9 +387,20 @@ footer .container {
 }
 
 .author-line {
-  font-size: 0.95rem;
+  font-size: 1.2rem;
   color: var(--text-secondary);
   margin-bottom: var(--space-md);
+}
+
+.author-line a {
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.author-line a:hover {
+  color: var(--accent);
+  text-decoration: underline;
 }
 
 .intro-paragraph {

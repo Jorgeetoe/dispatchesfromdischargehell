@@ -958,15 +958,15 @@ button:hover,
 
 /* --- Tablet Breakpoint --- */
 @media (max-width: 768px) {
-  .nav-toggle {
-    display: block;
+  .nav-toggle,
+  .hamburger {
+    display: block !important;
   }
 
   header nav {
     display: none;
     flex-direction: column;
     width: 100%;
-    padding: var(--space-sm) 0;
   }
 
   header nav.open {

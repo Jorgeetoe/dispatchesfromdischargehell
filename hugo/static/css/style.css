@@ -237,7 +237,7 @@ header .container {
 
 .site-title {
   font-family: var(--font-heading);
-  font-size: 1.6rem;
+  font-size: 1.9rem;
   font-weight: 700;
   color: var(--text);
   text-decoration: none;
@@ -367,7 +367,7 @@ footer .container {
 
 /* --- Home Page --- */
 .hero {
-  margin-bottom: 0.75rem;
+  margin-bottom: 1.5rem;
   padding: 0;
   text-align: center;
 }

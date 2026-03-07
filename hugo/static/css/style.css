@@ -197,7 +197,7 @@ header {
   backdrop-filter: blur(10px);
   background-color: rgba(250, 250, 248, 0.95);
   border-bottom: 1px solid rgba(224, 224, 224, 0.3);
-  padding: var(--space-sm) 0;
+  padding: var(--space-md) 0;
   z-index: 100;
 }
 
@@ -230,8 +230,8 @@ header .container {
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  gap: var(--space-md);
-  max-width: var(--max-width);
+  gap: var(--space-lg);
+  max-width: 100%;
   padding: 0 var(--space-md);
 }
 
@@ -254,16 +254,16 @@ header .container {
 .nav-menu {
   display: flex;
   align-items: center;
-  gap: var(--space-md);
+  gap: 0;
   flex: 1;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .nav-link {
   color: var(--text-secondary);
   font-size: 0.95rem;
   text-decoration: none;
-  padding: 0.25rem 0;
+  padding: 0.5rem 1.2rem;
   border-bottom: 2px solid transparent;
   transition: all 0.2s ease;
 }

@@ -137,7 +137,7 @@
       postList.querySelectorAll('li').forEach(li => {
         const titleEl = li.querySelector('.post-title a');
         const excerptEl = li.querySelector('.post-excerpt');
-        const categoryEl = li.querySelector('.category');
+        const categoryEl = li.querySelector('.category-tag');
 
         if (titleEl) {
           const title = titleEl.textContent || '';

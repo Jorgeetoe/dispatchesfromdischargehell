@@ -1,29 +1,27 @@
 <footer class="site-footer">
   <div class="container">
-    <div class="footer-nav">
-      <nav aria-label="Footer navigation">
-        <ul>
-          {{- range .Site.Menus.footer }}
-          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-          {{- end }}
-        </ul>
-      </nav>
-
-      <div class="social-links">
-        {{- if .Site.Params.social.linkedin }}
-        <a href="{{ .Site.Params.social.linkedin }}" aria-label="LinkedIn">LinkedIn</a>
+    <nav class="footer-nav" aria-label="Footer navigation">
+      <ul>
+        {{- range .Site.Menus.footer }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{- end }}
-        {{- if .Site.Params.social.twitter }}
-        <a href="{{ .Site.Params.social.twitter }}" aria-label="X (Twitter)">X</a>
-        {{- end }}
-        {{- if .Site.Params.social.facebook }}
-        <a href="{{ .Site.Params.social.facebook }}" aria-label="Facebook">Facebook</a>
-        {{- end }}
-      </div>
-    </div>
+      </ul>
+    </nav>
 
     <div class="footer-credit">
       <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+    </div>
+
+    <div class="footer-social">
+      {{- if .Site.Params.social.linkedin }}
+      <a href="{{ .Site.Params.social.linkedin }}" aria-label="LinkedIn">LinkedIn</a>
+      {{- end }}
+      {{- if .Site.Params.social.twitter }}
+      <a href="{{ .Site.Params.social.twitter }}" aria-label="X (Twitter)">X</a>
+      {{- end }}
+      {{- if .Site.Params.social.facebook }}
+      <a href="{{ .Site.Params.social.facebook }}" aria-label="Facebook">Facebook</a>
+      {{- end }}
     </div>
   </div>
 </footer>

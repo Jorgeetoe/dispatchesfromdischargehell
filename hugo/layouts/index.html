@@ -1,16 +1,16 @@
 {{ define "main" }}
 <div class="container">
-  <!-- Hero Section -->
+  <!-- Hero Section: Title, Tagline, Author Credentials -->
   <section class="hero">
     <h1>{{ .Site.Title }}</h1>
     <p class="tagline">{{ .Site.Params.description }}</p>
-    <p class="author-credentials">{{ .Site.Params.author }}, {{ .Site.Params.author_credentials }}</p>
+    <p class="author-line">{{ .Site.Params.author }}, {{ .Site.Params.author_credentials }}</p>
+    <p class="intro-paragraph">With 20+ years in catastrophic neurorehabilitation case management, I document what actually happens inside the system when insurance runs out and the hospital needs your bed.</p>
   </section>
 
-  <!-- New Here Banner -->
-  <section class="featured-banner">
-    <h2>New here?</h2>
-    <p>Start with <a href="/start-here/">Where to begin</a> to understand the different content categories.</p>
+  <!-- New Here CTA -->
+  <section class="start-here-cta">
+    <p><strong>New here?</strong> <a href="/start-here/">Start with this post</a> to understand the five content categories and what to expect.</p>
   </section>
 
   <!-- Recent Dispatches -->
@@ -21,19 +21,14 @@
     {{ if $posts }}
     <ul class="post-list">
       {{- range $posts }}
-      <li data-category="{{ index .Params.categories 0 | lower | replace " " "-" }}">
+      <li class="post-item" data-category="{{ index .Params.categories 0 | lower | replace " " "-" }}">
         {{- if .Params.pinned }}
         <span class="pinned-badge">📌 Start Here</span>
         {{- end }}
-        <span class="category-tag" data-category="{{ index .Params.categories 0 | lower | replace " " "-" }}">
-          {{- index .Params.categories 0 -}}
-        </span>
-        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-        <p class="post-meta">
+        <span class="category-label">{{ index .Params.categories 0 }}</span>
+        <h3 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p class="post-date">
           <time datetime="{{ .PublishDate.Format "2006-01-02" }}">{{ .PublishDate.Format "January 2, 2006" }}</time>
-          {{- if .ReadingTime }}
-          <span class="reading-time">· {{ .ReadingTime }} min read</span>
-          {{- end }}
         </p>
         {{- if .Summary }}
         <p class="post-excerpt">{{ .Summary | plainify }}</p>
@@ -43,24 +38,25 @@
     </ul>
     {{ end }}
 
-    <p class="browse-more"><a href="/blog/">Browse all posts →</a></p>
+    <p class="browse-all"><a href="/blog/">View all posts →</a></p>
   </section>
 
   <!-- Newsletter CTA -->
   <section class="newsletter-cta">
     <h3>Get dispatches in your inbox</h3>
-    <p>Subscribe to receive new posts weekly, plus occasional deeper analysis.</p>
     <form class="inline-form" action="#" method="POST">
       <input type="email" name="email" placeholder="you@example.com" required>
       <button type="submit">Subscribe</button>
     </form>
   </section>
 
-  <!-- Support CTA -->
-  <section class="support-cta">
-    <h3>Support this work</h3>
-    <p>If these dispatches have been helpful, consider supporting the writing.</p>
-    <a href="https://buymeacoffee.com/jorgearenivar" class="button" target="_blank" rel="noopener">Buy me a coffee ☕</a>
+  <!-- Social Links & Disclaimer -->
+  <section class="footer-section">
+    <div class="social-links">
+      {{ with .Site.Params.social.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener" aria-label="LinkedIn">LinkedIn</a>{{ end }}
+      {{ with .Site.Params.social.twitter }}<a href="{{ . }}" target="_blank" rel="noopener" aria-label="Twitter">Twitter</a>{{ end }}
+    </div>
+    <p class="disclaimer">All views expressed are my own and do not represent any healthcare institution or employer.</p>
   </section>
 </div>
 {{ end }}

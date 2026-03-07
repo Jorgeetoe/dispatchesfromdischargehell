@@ -1,27 +1,22 @@
 <footer class="site-footer">
   <div class="container">
-    <nav class="footer-nav" aria-label="Footer navigation">
-      <ul>
-        {{- range .Site.Menus.footer }}
-        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-        {{- end }}
-      </ul>
-    </nav>
-
-    <div class="footer-credit">
-      <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
-    </div>
-
-    <div class="footer-social">
+    <!-- Social Links (One Row) -->
+    <div class="footer-social-row">
       {{- if .Site.Params.social.linkedin }}
-      <a href="{{ .Site.Params.social.linkedin }}" aria-label="LinkedIn">LinkedIn</a>
+      <a href="{{ .Site.Params.social.linkedin }}" target="_blank" rel="noopener" aria-label="LinkedIn">LinkedIn</a>
       {{- end }}
       {{- if .Site.Params.social.twitter }}
-      <a href="{{ .Site.Params.social.twitter }}" aria-label="X (Twitter)">X</a>
+      <a href="{{ .Site.Params.social.twitter }}" target="_blank" rel="noopener" aria-label="Twitter">Twitter</a>
       {{- end }}
       {{- if .Site.Params.social.facebook }}
-      <a href="{{ .Site.Params.social.facebook }}" aria-label="Facebook">Facebook</a>
+      <a href="{{ .Site.Params.social.facebook }}" target="_blank" rel="noopener" aria-label="Facebook">Facebook</a>
       {{- end }}
     </div>
+
+    <!-- Disclaimer -->
+    <p class="footer-disclaimer">All views expressed are my own and do not represent any healthcare institution or employer.</p>
+
+    <!-- Copyright -->
+    <p class="footer-copyright">&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
   </div>
 </footer>

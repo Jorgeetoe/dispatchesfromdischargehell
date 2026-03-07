@@ -17,40 +17,19 @@
     </ul>
   </div>
 
-  <!-- Search Box (populated by JavaScript) -->
-  <div class="search-box" id="searchBox" style="display: none;">
-    <input type="text" id="searchInput" placeholder="Search posts...">
-    <div class="search-results" id="searchResults"></div>
-  </div>
-
-  <!-- Category Filters -->
-  <div class="category-filters">
-    <button class="filter-btn active" data-category="all">All</button>
-    <button class="filter-btn" data-category="dispatches">Dispatches</button>
-    <button class="filter-btn" data-category="field-notes">Field Notes</button>
-    <button class="filter-btn" data-category="the-machine">The Machine</button>
-    <button class="filter-btn" data-category="case-files">Case Files</button>
-    <button class="filter-btn" data-category="persona">Persona</button>
-  </div>
-
   <!-- Post Listing -->
   {{ $posts := (where .Site.RegularPages "Section" "blog") }}
   {{ if $posts }}
   <ul class="post-list">
     {{- range $posts }}
-    <li data-category="{{ index .Params.categories 0 | lower | replace " " "-" }}">
+    <li class="post-item">
       {{- if .Params.pinned }}
       <span class="pinned-badge">📌 Start Here</span>
       {{- end }}
-      <span class="category-tag" data-category="{{ index .Params.categories 0 | lower | replace " " "-" }}">
-        {{- index .Params.categories 0 -}}
-      </span>
-      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-      <p class="post-meta">
+      <span class="category-label">{{ index .Params.categories 0 }}</span>
+      <h3 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p class="post-date">
         <time datetime="{{ .PublishDate.Format "2006-01-02" }}">{{ .PublishDate.Format "January 2, 2006" }}</time>
-        {{- if .ReadingTime }}
-        <span class="reading-time">· {{ .ReadingTime }} min read</span>
-        {{- end }}
       </p>
       {{- if .Summary }}
       <p class="post-excerpt">{{ .Summary | plainify }}</p>
@@ -63,7 +42,6 @@
   <!-- Newsletter CTA -->
   <section class="newsletter-cta">
     <h3>Get dispatches in your inbox</h3>
-    <p>Subscribe to receive new posts weekly.</p>
     <form class="inline-form" action="#" method="POST">
       <input type="email" name="email" placeholder="you@example.com" required>
       <button type="submit">Subscribe</button>

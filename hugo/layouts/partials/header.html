@@ -3,20 +3,20 @@
     <div class="header-content">
       <a href="/" class="site-title">{{ .Site.Title }}</a>
 
-      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-        <span></span>
-        <span></span>
-        <span></span>
-      </button>
-
-      <nav aria-label="Main navigation">
+      <nav class="nav-menu" aria-label="Main navigation">
         {{- range .Site.Menus.main }}
-        <a href="{{ .URL }}"{{ if eq $.RelPermalink .URL }} class="active"{{ end }}>{{ .Name }}</a>
+        <a href="{{ .URL }}"{{ if eq $.RelPermalink .URL }} class="nav-link active"{{ else }} class="nav-link"{{ end }}>{{ .Name }}</a>
         {{- end }}
       </nav>
 
       <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
         <span class="theme-icon">🌙</span>
+      </button>
+
+      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
       </button>
     </div>
   </div>

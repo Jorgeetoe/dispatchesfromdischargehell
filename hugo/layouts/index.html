@@ -49,14 +49,5 @@
       <button type="submit">Subscribe</button>
     </form>
   </section>
-
-  <!-- Social Links & Disclaimer -->
-  <section class="footer-section">
-    <div class="social-links">
-      {{ with .Site.Params.social.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener" aria-label="LinkedIn">LinkedIn</a>{{ end }}
-      {{ with .Site.Params.social.twitter }}<a href="{{ . }}" target="_blank" rel="noopener" aria-label="Twitter">Twitter</a>{{ end }}
-    </div>
-    <p class="disclaimer">All views expressed are my own and do not represent any healthcare institution or employer.</p>
-  </section>
 </div>
 {{ end }}

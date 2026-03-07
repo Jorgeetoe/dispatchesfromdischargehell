@@ -103,7 +103,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
 }
 
 h3 {
@@ -184,7 +184,7 @@ li {
 
 main {
   flex: 1;
-  padding: var(--space-lg) 0;
+  padding: var(--space-md) 0;
   display: flex;
   justify-content: center;
   width: 100%;
@@ -367,8 +367,8 @@ footer .container {
 
 /* --- Home Page --- */
 .hero {
-  margin-bottom: var(--space-xl);
-  padding: var(--space-lg) 0;
+  margin-bottom: var(--space-lg);
+  padding: var(--space-sm) 0;
   text-align: center;
 }
 

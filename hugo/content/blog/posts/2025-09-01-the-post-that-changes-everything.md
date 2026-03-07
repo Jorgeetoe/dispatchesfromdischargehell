@@ -13,10 +13,10 @@ What if I told you that clinical documentation, GG scores, even technically comm
 And unlike fraud, this method is 100% legal. Mostly.
 Against the advice of legal counsel, Last Resort Publishing is releasing what the insurance industry has spent millions trying to keep buried.
 
-
-
-
 <!--more-->
+
+
+
 ## But First, Let Me Ask You Something...
 How many times this week have you:
 

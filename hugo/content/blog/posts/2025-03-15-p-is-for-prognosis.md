@@ -12,10 +12,10 @@ Let's be honest: talking about prognosis in catastrophic care is like telling so
 Enter the preadmissions team — unsung heroes who set the stage for this conversation long before a patient even rolls through the door. Their job? To gather vital information, align expectations, and keep the healthcare train from derailing before it even leaves the station. But between insurance battles, resource constraints, and families clinging to optimism, how do we navigate these discussions without sending everyone into an existential crisis? Think of it as either smoking the peace pipe or drinking the Kool-Aid — your choice.
 Welcome to "P is for Prognosis," where we will explore the art and science of communicating recovery timelines — with a side of irreverent humor, courtesy of our fictional "Last Resort Rehab Hospital," the healthcare equivalent of a brutally honest, no-filter dinner party.
 
-
-
-
 <!--more-->
+
+
+
 ## Preadmissions: Laying the Foundation Without Burning It Down
 Preadmissions is where the reality check begins. To family members clinging on to every last hope, they sound like the muted trombone "wah wah" voice representing how adults sound in the Peanuts world — created using a trombone with a plunger mute to mimic an unintelligible, muffled voice. This team lays the groundwork for everything that follows, yet they have the unenviable task of setting expectations without immediately extinguishing hope. It's a fine line between "Here's what to expect" and "Brace yourself for impact."
 

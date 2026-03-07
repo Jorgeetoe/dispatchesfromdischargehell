@@ -9,10 +9,10 @@ related: ["/blog/posts/2025-03-26-catastrophic-case-management-brutal-truths-fro
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
-
-
-
 <!--more-->
+
+
+
 ## A Case Manager's Take on Healthcare's Most Absurd Bureaucracy
 
             Welcome to the trenches of insurance case management, where medical necessity collides with administrative absurdity on a daily basis. For those uninitiated into our special brand of healthcare purgatory, consider this your orientation packet. It contains all the information you need and none of the support you deserve.

@@ -9,6 +9,7 @@ related: ["/blog/posts/2025-03-16-preadmission-guidelines-vip-ticket-rehab-reali
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
             Let's be honest (again): planning for discharge before your loved one even arrives for inpatient neurorehabilitation is like preparing for a hurricane during a sunny day – seemingly premature, but absolutely essential. Welcome to the wild world of neurorehabilitation, where successful endings begin at the starting line.
           
 
@@ -18,7 +19,6 @@ related: ["/blog/posts/2025-03-16-preadmission-guidelines-vip-ticket-rehab-reali
 
 
 
-<!--more-->
 ## Family Involvement: Congratulations on Your New Unpaid Career!
 
             The moment your loved one enters our doors, you're automatically drafted into healthcare service. No interview required!

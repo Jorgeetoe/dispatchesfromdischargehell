@@ -9,6 +9,7 @@ related: ["/blog/posts/2024-11-04-the-other-woman/", "/blog/posts/2024-11-04-the
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. These are de-identified composite cases reflecting actual patterns in discharge planning. No individual patient or family is identifiable. Consult with qualified healthcare providers, case managers, and family counselors for decisions affecting your care or organization.
           
 
+<!--more-->
             The intake form has boxes for everything. Primary contact. Emergency contact. Next of kin. Insurance policy holder. Relationship to patient.
           
 
@@ -27,7 +28,6 @@ The awkward family member is sometimes the only real discharge option you have.
 
 
 
-<!--more-->
 ## The System's Assumption
 
             Discharge planning runs on a model. Patient arrives. Family is notified. Primary caregiver is identified. That person is trained, educated, and eventually the patient goes home with them.

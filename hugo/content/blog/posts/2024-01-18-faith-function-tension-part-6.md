@@ -16,7 +16,6 @@ And we were the ones in the middle, trying to build a discharge plan that honore
 
 
 
-<!--more-->
 ## The Diversity of Hope
 Houston is one of the most ethnically and religiously diverse cities in the United States. The patients who come through a catastrophic rehab hospital here represent every faith tradition, every cultural framework for understanding suffering, and every variation of what "hope" means when the prognosis is devastating.
 Some families pray for miracles and refuse to discuss placement in a nursing facility because they believe God's plan includes walking out the front door. Some families interpret a disorder of consciousness as a spiritual trial, a test of faith that will resolve according to divine timing, not the medical necessity timeline. Some families come from traditions where the eldest child makes all decisions, or where discussing death and decline is culturally prohibited, or where the physician's word is absolute and should never be questioned.

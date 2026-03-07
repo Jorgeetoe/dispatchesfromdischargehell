@@ -9,6 +9,7 @@ related: ["/blog/posts/2026-02-10-the-lion-and-the-kitten-moral-injury-in-the-co
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
             Some families come into our meeting room roaring like lions.
           
 
@@ -45,7 +46,6 @@ related: ["/blog/posts/2026-02-10-the-lion-and-the-kitten-moral-injury-in-the-co
 
 
 
-<!--more-->
 ## What Moral Injury Actually Means
 
             Moral injury was originally used to describe combat veterans: soldiers who witnessed or participated in actions that violated their moral code, often under orders or institutional pressure.[1] The term migrated to healthcare around 2018, and COVID accelerated its visibility.

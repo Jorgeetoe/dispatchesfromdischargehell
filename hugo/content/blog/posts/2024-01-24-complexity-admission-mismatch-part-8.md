@@ -16,7 +16,6 @@ Both statements are true. Neither one acknowledges the other.
 
 
 
-<!--more-->
 ## The Reputation-Revenue Tension
 A top-tier rehabilitation hospital builds its reputation on complexity. The sickest patients. The most devastating injuries. The cases that other inpatient rehab programs won't touch: severe TBI with behavioral dysregulation, high spinal cord injuries requiring ventilator weaning, disorders of consciousness where the outcome is measured in years, not weeks.
 That reputation drives referrals. Families call from across the state. Transfer coordinators from acute care hospitals know the name. The institution's identity is built on being the place that says yes when everyone else says no.

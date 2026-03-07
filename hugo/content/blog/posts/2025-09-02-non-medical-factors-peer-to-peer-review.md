@@ -10,10 +10,10 @@ related: ["/blog/posts/2025-09-02-non-medical-factors-peer-to-peer-review/", "/b
           
 Remember that *Tell-Tale Voicemail* that inspired me to write The P2P Playbook™? That was just the warm-up act. The real breakthrough came courtesy of some luck, Little League Soccer and a medical director I'll call "Tom."
 
-
-
-
 <!--more-->
+
+
+
 ## The Setup
 Tom had caught my attention for a couple of years. He was a community leader during the day, but also known for his strict approach to medical denials. His rejection rate for inpatient neuro rehab was 100%. My attending physician described him as the typical utilization review type: friendly on the phone, always using the right insurance terms, but with little understanding of neurorehabilitation and never straying from the rules. She called him a denial Sith Lord.
 Until I did a little digging.

@@ -9,6 +9,7 @@ related: ["/blog/posts/2025-03-19-when-sarcasm-and-humor-is-the-best-medicine/",
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
             Let's be honest: rehabilitation medicine is like planning a wedding during an earthquake. Everyone has expectations, nothing goes as planned, and someone's always crying in a bathroom. In my 20+ years as a rehab nurse, rehab liaison, and nurse case manager specializing in neurorehabilitation, I've learned that the path to recovery isn't just paved with hard work and determination. It's buried under a mountain of prior authorizations, family dynamics, secure chat messages, voicemails, and emails that mysteriously multiply overnight.
           
 
@@ -21,7 +22,6 @@ related: ["/blog/posts/2025-03-19-when-sarcasm-and-humor-is-the-best-medicine/",
 
 
 
-<!--more-->
 ## The Admission Process: Your Crash Course in Creative Fiction
 
             What you think happens: Your loved one is evaluated by a team of specialists who create a comprehensive care plan based solely on clinical needs.

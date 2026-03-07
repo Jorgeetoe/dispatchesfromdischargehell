@@ -22,7 +22,6 @@ A **2018 study in Health Affairs** documented that post-acute care spending acco
 
 
 
-<!--more-->
 ## One Patient's Discharge Chain
 
 Let me walk you through one patient's discharge and show you every incentive at play.

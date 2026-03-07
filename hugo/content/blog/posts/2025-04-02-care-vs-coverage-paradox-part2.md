@@ -9,6 +9,7 @@ related: ["/blog/posts/2025-04-02-care-vs-coverage-paradox-part2/", "/blog/posts
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
 > 
 **Note from Jorge:** This is the second installment of a three-part series exploring the challenges of managing intrathecal baclofen pumps in America's healthcare system. In Part 3, coming later this week, we'll examine emergency response failures, human impact stories, and a roadmap for fixing this broken system.
 We'll even head to the front lines and hear from Lalita Thompson, MSN, RN, CRRN, FARN. She's one of the best ITB pump coordinators in the country. Her insights are as sharp as her coordination skills, and frankly, we'd all be lost without her.
@@ -19,7 +20,6 @@ We'll even head to the front lines and hear from Lalita Thompson, MSN, RN, CRRN,
 
 
 
-<!--more-->
 ## The Device They Don't Tell You Requires a Lifetime Support System
 **What everyone thinks:** A baclofen pump is a sophisticated medical device that delivers medication directly to the spinal cord, reducing severe spasticity in conditions like cerebral palsy, spinal cord injury, and traumatic brain injury with fewer side effects than oral medication.
           

@@ -37,7 +37,6 @@ Kicking the can. Buying time. Making the conversation someone else's problem tom
 
 
 
-<!--more-->
 ## The Physician's Position
 The physician's reluctance isn't personal. It's structural.
 Saying "this patient may never recover meaningful function" opens a door that can't be closed. The family may request a second opinion. They may refuse discharge. They may escalate to administration. They may accuse the team of giving up. None of these responses are unreasonable from a family's perspective, but all of them create operational friction that the physician absorbs.

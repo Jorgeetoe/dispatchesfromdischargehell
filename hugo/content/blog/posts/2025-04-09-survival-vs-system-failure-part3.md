@@ -10,6 +10,7 @@ related: ["/blog/posts/2025-04-09-survival-vs-system-failure-part3/", "/blog/pos
           
 *Navigating Baclofen Pump Management in Healthcare Deserts*
 
+<!--more-->
             Imagine needing life-saving medication that only a handful of specialists in your state can provide.
           
 
@@ -22,7 +23,6 @@ related: ["/blog/posts/2025-04-09-survival-vs-system-failure-part3/", "/blog/pos
 
 
 
-<!--more-->
 ## The Specialist Scarcity Crisis
 **The medical reality:** Out of over 1,000,000 Medicare providers, only 566 regularly perform spasticity-related procedures. The number managing ITB pumps is likely even smaller.
           

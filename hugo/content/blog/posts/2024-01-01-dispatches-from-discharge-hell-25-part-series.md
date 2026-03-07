@@ -13,7 +13,6 @@ Not the version on the website. Not the marketing brochure. Not the success stor
 
 
 
-<!--more-->
 ## What Happens Inside
 I want to tell you what happens when a family walks through the door, sees the success stories hanging on the wall, and expects four to six months of rehab — and we have three weeks. What happens when insurance decides your loved one has "plateaued" while you're watching them squeeze your hand for the first time. What happens when the skilled nursing facility says yes on the phone and calls back two hours later to say no. What happens when the equipment that was supposed to arrive before discharge doesn't, and nobody can tell you when it will. What happens when you need a specialist beyond the rehab team but can't get a referral. You've never had a PCP, and you can't get one while you're still admitted. What happens when the system gives you the right to refuse a facility but the only alternative is taking your loved one home — and home isn't survivable.
 I want to tell you about the patterns.

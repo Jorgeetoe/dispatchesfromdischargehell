@@ -9,6 +9,7 @@ related: ["/blog/posts/2017-11-15-the-book-i-picked-up-as-a-joke-that-rewired-my
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
             I came across a post this morning that asked a simple question: Share a book that changed your life forever.
           
 

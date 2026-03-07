@@ -9,6 +9,7 @@ related: ["/blog/posts/2025-09-05-peer-to-peer-pathophysiology/", "/blog/posts/2
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
             While you're still believing approval decisions are purely "evidence-based," I've been tracking the real metrics. Spoiler alert: your perfectly documented progress on a TBI case gets different treatment at 8:03 AM versus 4:52 PM, and it's not because the brain injury changed.
           
 
@@ -21,7 +22,6 @@ related: ["/blog/posts/2025-09-05-peer-to-peer-pathophysiology/", "/blog/posts/2
 
 
 
-<!--more-->
 ## The "Background" Variables We Pretend Don't Matter (But Do)
 I logged non-clinical noise. Literally.
 

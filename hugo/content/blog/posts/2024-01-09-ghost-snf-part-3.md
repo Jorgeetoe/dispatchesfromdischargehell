@@ -17,7 +17,6 @@ The patient hadn't changed. The chart hadn't changed. What changed is somebody a
 
 
 
-<!--more-->
 ## The Pattern
 This is the Ghost SNF, and it's the first pattern that teaches every new catastrophic care case manager or social worker the fundamental rule of post-acute placement: **a verbal acceptance is worth nothing until the patient is physically in the building.**
 Here's how it works. A complex neuro patient needs placement in a skilled nursing facility after their rehab stay. We send referral packets to multiple facilities: medical history, current functional status, equipment needs, nursing requirements. The intake coordinator reviews the summary. Looks manageable. They call back and say yes.

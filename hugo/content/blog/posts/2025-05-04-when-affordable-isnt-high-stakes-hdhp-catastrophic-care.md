@@ -9,6 +9,7 @@ related: ["/blog/posts/2025-05-04-when-affordable-isnt-high-stakes-hdhp-catastro
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
             High-Deductible Health Plans are like playing healthcare on "hard mode." You know that moment when the benefits packet looks great right up until the first medical bill arrives? That's what we're unpacking today.
           
 
@@ -18,7 +19,6 @@ related: ["/blog/posts/2025-05-04-when-affordable-isnt-high-stakes-hdhp-catastro
 
 
 
-<!--more-->
 ## A Case Manager's Real-World Guide to High-Deductible Health Plans
 
             The reality check.

@@ -8,6 +8,7 @@ related: ["/blog/posts/2026-02-15-rehabilitation-vs-catastrophic-care/", "/blog/
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
             Families research the rankings. They read U.S. News & World Report lists. They tour the facility. They see
             the therapy gym, the aquatic center, the smiling faces on the brochure. They mentally prepare for months of
             intensive therapy. A journey back toward the life their loved one had before the crash, the stroke, the
@@ -33,7 +34,6 @@ related: ["/blog/posts/2026-02-15-rehabilitation-vs-catastrophic-care/", "/blog/
 
 
 
-<!--more-->
 ## What Rehabilitation Actually Looks Like
 
             Rehabilitation is a hip fracture recovery. An elderly patient falls, breaks a hip, gets surgical repair, and

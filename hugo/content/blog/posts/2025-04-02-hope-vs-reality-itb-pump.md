@@ -9,6 +9,7 @@ related: ["/blog/posts/2025-04-02-hope-vs-reality-itb-pump/", "/blog/posts/2025-
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
 > 
 **Note from Jorge:** This is the first installment of a three-part series exploring the challenges of managing intrathecal baclofen pumps in America's healthcare system. Join us later in the week for Part 2, where we'll examine the specialist scarcity crisis, emergency response failures, and potential solutions. Special thanks to my colleague Lalita Thompson, MSN, RN, CRRN, FARN for providing content, editorial review, support, and encouragement. If you make it to Part 3, we'll dive into a report from the front lines with Lalita - one of the best, if not THE BEST ITB pump coordinators in the country.
 
@@ -68,7 +69,6 @@ related: ["/blog/posts/2025-04-02-hope-vs-reality-itb-pump/", "/blog/posts/2025-
 
 
 
-<!--more-->
 ## For Families Considering the ITB Journey: Questions That Actually Matter
 
             If you're a family member considering an intrathecal baclofen pump for your loved one, here are the critical questions. They won't appear in the glossy brochure. But they will determine your actual experience:

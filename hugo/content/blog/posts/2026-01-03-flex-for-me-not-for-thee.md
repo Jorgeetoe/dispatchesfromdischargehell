@@ -9,6 +9,7 @@ related: ["/blog/posts/2026-01-03-flex-for-me-not-for-thee/", "/blog/posts/2026-
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
             Admissions, business development and administration want you flexible. They want you creative. It's demanded. It's the job. They want you to chase vendors at 5 PM, talk exhausted caregivers off the ledge, and somehow make a discharge work when every piece of the puzzle arrived late, broken, or not at all.
           
 
@@ -18,7 +19,6 @@ related: ["/blog/posts/2026-01-03-flex-for-me-not-for-thee/", "/blog/posts/2026-
 
 
 
-<!--more-->
 ## The Setup
 
             Out-of-town mom. Trach patient. Discharge target had already slipped from Sunday. By Wednesday, this caregiver had been living out of a hospital room for days, waiting for the green light to take her child home.

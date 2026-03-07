@@ -9,6 +9,7 @@ related: ["/blog/posts/2025-02-21-permission-to-rest/", "/blog/posts/2025-02-21-
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
             "It's not that I don't love her, Jorge."
           
 
@@ -24,7 +25,6 @@ related: ["/blog/posts/2025-02-21-permission-to-rest/", "/blog/posts/2025-02-21-
 
 
 
-<!--more-->
 ## What They Think My Job Is
 
             Most people think my job as a catastrophic discharge planner is to be the bad guy. The one who walks into the room with a clipboard and tells you your time is up. The one who points at a calendar and explains, carefully and diplomatically, that the insurance authorization runs out on Friday and we need to talk about next steps.

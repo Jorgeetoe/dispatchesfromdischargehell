@@ -14,10 +14,10 @@ There's no accountability. Instead, you hear a voice that overrules your clinica
 They call this a peer-to-peer review, but the only peer you see is your own reflection on the computer screen while you argue for medical care.
 It sounds like satire, but I wish it weren't real.
 
-
-
-
 <!--more-->
+
+
+
 ## Right now, doctors across the country are pleading with nameless voices just to get medical care approved.
 On one side, you have your name, credentials, and training openly displayed. On the other hand, there's only a ghost reading from a denial script.
 

@@ -16,7 +16,6 @@ It isn't.
 
 
 
-<!--more-->
 ## What Home Health Actually Looks Like
 A nurse visits twice a week. Each visit lasts about 45 minutes. The nurse checks vitals, reviews medications, assesses the wound or the trach site, documents, and leaves. A physical therapist comes once or twice a week for 30 to 45 minutes. An occupational therapist, maybe once a week. A speech therapist, if authorized. An aide, if the insurance covers it. Many plans don't. Medicare does not cover home health aides.
 Between those visits, the family is alone. Twenty-three hours a day, seven days a week, the caregiver, usually one person, is the nurse, the therapist, the aide, the pharmacist, and the emergency department.

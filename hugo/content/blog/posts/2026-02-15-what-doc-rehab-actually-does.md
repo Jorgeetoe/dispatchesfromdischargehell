@@ -8,6 +8,7 @@ related: ["/blog/posts/2026-02-15-what-doc-rehab-actually-does/", "/blog/posts/2
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
             Your loved one survived. They made it through the ICU, the neuro unit, maybe a step-down. Now they're being
             transferred to a disorders of consciousness program at a top rehabilitation hospital.
           
@@ -19,7 +20,6 @@ related: ["/blog/posts/2026-02-15-what-doc-rehab-actually-does/", "/blog/posts/2
 
 
 
-<!--more-->
 ## The Expectation Gap
 
             When families hear "comprehensive rehabilitation" and "US News & World Report ranked program," they

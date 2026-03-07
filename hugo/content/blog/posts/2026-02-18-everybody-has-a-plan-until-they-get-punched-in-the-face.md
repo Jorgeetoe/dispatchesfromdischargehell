@@ -9,6 +9,7 @@ related: ["/blog/posts/2026-02-18-everybody-has-a-plan-until-they-get-punched-in
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
             Mike Tyson used to say: *"Everybody has a plan until they get punched in the face."*
 
             I think about that every time a family starts talking cash pay for catastrophic care.
@@ -20,7 +21,6 @@ related: ["/blog/posts/2026-02-18-everybody-has-a-plan-until-they-get-punched-in
 
 
 
-<!--more-->
 ## Mr. Cool
 
             The husband arrived calm. Laid back. Mr. Cool.

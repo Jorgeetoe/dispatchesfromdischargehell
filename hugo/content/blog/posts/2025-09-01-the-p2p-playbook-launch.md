@@ -11,6 +11,7 @@ related: ["/blog/posts/2025-09-01-the-p2p-playbook-launch/", "/blog/posts/2025-0
 **BREAKING:** After 100+ analyzed P2P calls, I am finally releasing what everyone pretends doesn't exist.
           
 
+<!--more-->
             I'm thrilled to announce that Last Resort Publishing is launching **The P2P Playbook™: Your Professional Guide to Medical Gaslighting.** This manual is essential reading for case managers navigating the brutal realities documented in [Catastrophic Case Management: Brutal Truths from the Front Lines](/blog/posts/2025-03-26-catastrophic-case-management-brutal-truths-from-the-front-lines.html)—the tactics you need to actually win approvals in this broken system.
           
 
@@ -20,7 +21,6 @@ related: ["/blog/posts/2025-09-01-the-p2p-playbook-launch/", "/blog/posts/2025-0
 
 
 
-<!--more-->
 ## What's inside?
 
 * The 4:52 PM Friday Phenomenon (41% higher approval rates)

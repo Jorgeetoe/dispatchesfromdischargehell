@@ -16,7 +16,6 @@ We had three weeks.
 
 
 
-<!--more-->
 ## The Reframe
 If you read the series introduction, you already know the reframe: **what the system calls "inpatient neuro rehab" is actually catastrophic care.** Success isn't "walked out the door." It's "didn't die and has somewhere to go." And a safe discharge does not mean it's an appropriate one. But it's the one the system built.
 That distinction is the lens for everything that follows.

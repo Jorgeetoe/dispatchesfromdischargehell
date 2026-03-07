@@ -13,10 +13,10 @@ It's like asking if you enjoyed dinner while you're still choking on the fish bo
 In 2025, they're still bragging about their customer satisfaction scores.
 Meanwhile, families are still getting the same old denial letters.
 
-
-
-
 <!--more-->
+
+
+
 ## What's Really Happening?
 
 * Only [16.2% of people respond to surveys (SurveySensum)](https://www.surveyssensum.com/)

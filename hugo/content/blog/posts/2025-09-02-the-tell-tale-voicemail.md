@@ -17,10 +17,10 @@ You know who you are.
 That moment crystallized everything for me: P2Ps aren't just about medical necessity, they also involve timing, cadence, and unconscious cues, which together shape healthcare decisions. That's why [The P2P Playbook™](/blog/posts/2025-09-01-the-p2p-playbook-launch.html) moved from being an idea in my head to something that demanded to be written.
 Because sometimes the story that explains the whole system doesn't come from a chart review, it comes from a 5:02 PM confession.
 
-
-
-
 <!--more-->
+
+
+
 ## Has anyone else noticed "strategic communication timing" in their appeals process?
 The P2P Playbook™ shares stories like these, connecting them to the measurable tactics of professional persuasion. If it sometimes feels like satire, that's an intentional reflection of how blurred reality is in this system. Understanding and recognizing these patterns is the core message—it's not just about gaming the system, but exposing how it actually works. Stay tuned; much more to come.
 The P2P Playbook™ is satire for entertainment only. Any resemblance to real insurance practices, medical directors, or manipulation tactics is coincidental. I DO NOT encourage hiring actors, infiltrating buildings, or manipulating reviewers—that would be wrong. Unlike denying needed care. These opinions are mine alone, shaped by twenty years of care coordination, grief, absurdity, and a drawer of denied brain injury rehab requests.

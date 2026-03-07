@@ -9,6 +9,7 @@ related: ["/blog/posts/2026-02-11-welcome-to-discharge-hell/", "/blog/posts/2026
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
             Here's something they don't tell you when your husband has a massive stroke, or your daughter's car wreck leaves her with a traumatic brain injury, or your father falls and suffers a spinal cord injury: the hardest part isn't the injury. It's what comes after.
           
 
@@ -21,7 +22,6 @@ related: ["/blog/posts/2026-02-11-welcome-to-discharge-hell/", "/blog/posts/2026
 
 
 
-<!--more-->
 ## Who I Am
 
             I've spent 20+ years inside this system across three roles that almost nobody holds in sequence: bedside nurse, program development, and catastrophic case manager. That experience has given me something you can't get from any one position. I've seen how the machine runs from the inside, who it serves, and who it doesn't.

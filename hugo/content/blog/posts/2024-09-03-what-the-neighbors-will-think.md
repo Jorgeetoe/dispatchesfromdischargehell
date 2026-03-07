@@ -9,6 +9,7 @@ related: ["/blog/posts/2024-09-03-what-the-neighbors-will-think/", "/blog/posts/
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. This is a de-identified composite case reflecting actual patterns in discharge planning. No individual patient or family is identifiable. Consult with qualified healthcare providers, case managers, and cultural competency specialists for decisions affecting your care or organization.
           
 
+<!--more-->
             She didn't disagree with us. She wasn't in denial. She understood exactly what the clinical team was telling her about her daughter's prognosis: the anoxic brain injury, the minimal responsiveness, the total dependence for every aspect of care, the clinical complexity. She'd heard all of it. She'd processed it. And she still wouldn't go home.
           
 
@@ -27,7 +28,6 @@ What will people think? They will laugh at me for having come here and spent all
 
 
 
-<!--more-->
 ## The Team Was Right. That's What Made It Impossible.
 
             The recommendation was straightforward. The patient had been in the program for weeks following an anoxic brain injury: minimally responsive, totally dependent for care, with no meaningful trajectory toward independence. The care burden was high. The family had been educated. The discharge plan pointed home with a family of caregivers.

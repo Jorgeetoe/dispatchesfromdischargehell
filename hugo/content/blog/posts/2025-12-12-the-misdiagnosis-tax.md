@@ -9,6 +9,7 @@ related: ["/blog/posts/2025-12-12-the-misdiagnosis-tax/", "/blog/posts/2025-12-1
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+<!--more-->
             Here's a number that should keep someone up at night: 23.5%.
           
 
@@ -24,7 +25,6 @@ related: ["/blog/posts/2025-12-12-the-misdiagnosis-tax/", "/blog/posts/2025-12-1
 
 
 
-<!--more-->
 ## The Label Is the Leash
 
             In catastrophic care, the diagnosis isn't just a clinical finding. It's a financial instrument.

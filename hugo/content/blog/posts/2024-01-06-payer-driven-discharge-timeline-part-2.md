@@ -15,7 +15,6 @@ Day 23. Insurance wants to know why we haven't discharged.
 
 
 
-<!--more-->
 ## The Algorithm That Runs Everything
 There's a number that runs every catastrophic care case from the moment the patient is admitted. It's called the Case Mix Group, CMG for short. It's a financial benchmark that tells the insurer how long a patient with this diagnosis, at this functional level, should need inpatient rehabilitation. Commercial insurers call this medical necessity.
 Notice we said should need, not does need. The CMG is an average derived from utilization data. It tells you how long insurance expects to pay. It does not tell you how long recovery takes. For a catastrophic brain injury, the CMG might say 19 to 24 days. The patient's brain doesn't know that.

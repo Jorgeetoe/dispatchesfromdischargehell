@@ -11,10 +11,10 @@ related: ["/blog/posts/2025-03-23-the-state-of-un-consciousness/", "/blog/posts/
 Happy Belated World Coma Day 2025! Yesterday (March 22nd) We "Celebrated" States of Un-Consciousness While Insurance Companies Continued to Hit the Snooze Button on Coverage
 In honor of yesterday's World Coma Day and the ongoing Brain Injury Awareness Month of March, I'm breaking my professional silence to deliver the unvarnished update on where we stand with Disorders of Consciousness (DoC) care in 2025. Spoiler alert: we've made incredible scientific advances that insurance still won't cover! After 20+ years in neurorehabilitation, I can confidently report that our understanding of consciousness has evolved dramatically, while our healthcare system remains stubbornly unconscious to patients' needs.
 
-
-
-
 <!--more-->
+
+
+
 ## The Diagnosis Revolution: There's Someone In There! (But Your Plan Doesn't Cover Finding Them)
 What science promised by 2025: Advanced brain imaging and EEG tools that can detect covert consciousness and dramatically reduce the 40% misdiagnosis rate.
 What we actually got:

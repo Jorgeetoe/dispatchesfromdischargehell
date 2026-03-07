@@ -12,10 +12,10 @@ Here's a stat that'll hit you: In 2024, we hit $5.26 trillion in healthcare spen
 And yet… somehow, the folks who actually care for patients: docs, nurses, case managers, respiratory therapists with coffee IVs… only collect just a sliver of that fortune. A thin, undercooked slice. A crust of the healthcare pie.
 Meanwhile, the suits upstairs are collecting admin money like they're speedrunning a healthcare heist.
 
-
-
-
 <!--more-->
+
+
+
 ## Here's Where the Dollars Actually Went (Spoiler: Not to You)
 Let me drop this right here, because once you see it, you can't unsee it:
 

@@ -18,7 +18,6 @@ Every experienced case manager and social worker does this. None of it shows up 
 
 
 
-<!--more-->
 ## What an Upstream Reroute Looks Like
 Let me show you what an upstream reroute looks like in practice.
 **The family meeting scenario:** The physician, case manager, and social worker need to tell the family that home discharge isn't safe without 24/7 caregiver support. The family has been insisting on going home. If the physician says this cold, the family reacts with anger or denial, the meeting derails, and we lose two more days.

@@ -400,7 +400,7 @@ footer p {
 /* --- Home Page --- */
 .hero {
   margin-bottom: var(--space-xl);
-  padding: var(--space-lg) 0;
+  padding: 2rem 0;
 }
 
 .hero h1 {

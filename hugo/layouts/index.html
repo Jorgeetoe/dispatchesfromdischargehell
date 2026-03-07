@@ -2,7 +2,6 @@
 <div class="container">
   <!-- Hero Section: Title, Tagline, Author Credentials -->
   <section class="hero">
-    <h1>{{ .Site.Title }}</h1>
     <p class="tagline">{{ .Site.Params.description }}</p>
     <p class="author-line">{{ .Site.Params.author }}, {{ .Site.Params.author_credentials }}</p>
     <p class="intro-paragraph">With 20+ years in catastrophic neurorehabilitation case management, I document what actually happens inside the system when insurance runs out and the hospital needs your bed.</p>
@@ -25,7 +24,7 @@
         {{- if .Params.pinned }}
         <span class="pinned-badge">📌 Start Here</span>
         {{- end }}
-        <span class="category-label">{{ index .Params.categories 0 }}</span>
+        <span class="category-tag">{{ index .Params.categories 0 }}</span>
         <h3 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
         <p class="post-date">
           <time datetime="{{ .PublishDate.Format "2006-01-02" }}">{{ .PublishDate.Format "January 2, 2006" }}</time>

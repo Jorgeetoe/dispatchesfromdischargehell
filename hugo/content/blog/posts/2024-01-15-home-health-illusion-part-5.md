@@ -13,6 +13,10 @@ The family heard "home health" and exhaled.
 Finally, a plan that sounded like help. Nurses coming to the house. Therapists continuing the work. Aides helping with the daily grind of caring for someone who can't care for themselves. The hospital had a team of 20 people managing their family member around the clock. Home health sounded like a smaller version of the same thing.
 It isn't.
 
+
+
+
+<!--more-->
 ## What Home Health Actually Looks Like
 A nurse visits twice a week. Each visit lasts about 45 minutes. The nurse checks vitals, reviews medications, assesses the wound or the trach site, documents, and leaves. A physical therapist comes once or twice a week for 30 to 45 minutes. An occupational therapist, maybe once a week. A speech therapist, if authorized. An aide, if the insurance covers it. Many plans don't. Medicare does not cover home health aides.
 Between those visits, the family is alone. Twenty-three hours a day, seven days a week, the caregiver, usually one person, is the nurse, the therapist, the aide, the pharmacist, and the emergency department.
@@ -22,9 +26,13 @@ For catastrophic neuro patients (severe TBI, spinal cord injury, disorders of co
 Standard home health agencies are designed for a different population: post-surgical recovery. Chronic disease management. Grandma after a hip fracture. For that population, home health works. The patient is cognitively intact, can participate in their own care, can call for help when something goes wrong, and needs skilled nursing for a defined recovery period.
 None of that describes the catastrophic neuro patient going home with a trach, a feeding tube, behavioral dysregulation, cognitive deficits that prevent self-management, and a caregiver who learned catheterization last Tuesday.
 
+
+
 ## The Coverage Illusion
 A 2022 Commonwealth Fund report found that the U.S. ranks last among high-income countries in healthcare access and equity, with significant gaps in post-acute and home-based care services. For catastrophic patients, those gaps aren't statistics. They're the Tuesday night when the feeding pump alarm goes off and the caregiver has no one to call until Thursday's nursing visit.
 Some payers cover home health in theory, but the network is so thin that no agency in the patient's area accepts the plan. "Covered" becomes a word that exists on paper and nowhere else. I've had families call every agency in their zip code and get turned down by all of them. Not because the patient wasn't eligible, but because no agency wanted to staff the complexity.
+
+
 
 ## The Reversal Pattern
 The agencies that do accept catastrophic patients sometimes bail during the review phase. Sometimes the nurse walks into the home, sees the trach care, the behavioral episodes, the two-person transfers, and calls their supervisor. By the next week, the agency has "reassessed the patient's needs" and determined they're "beyond our scope of service."

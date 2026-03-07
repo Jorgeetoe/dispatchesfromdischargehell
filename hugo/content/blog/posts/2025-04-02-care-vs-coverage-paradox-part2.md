@@ -16,6 +16,10 @@ We'll even head to the front lines and hear from Lalita Thompson, MSN, RN, CRRN,
             Let's be honest: if Part 1 was the exit-row safety briefing no one really paid attention to, then welcome to the flight mid-crisis. Sometimes, managing an intrathecal baclofen pump in America's healthcare system can feel like following outdated flight plans. Every runway you're cleared for has already been shut down, and the tower forgot to update their maps.
           
 
+
+
+
+<!--more-->
 ## The Device They Don't Tell You Requires a Lifetime Support System
 **What everyone thinks:** A baclofen pump is a sophisticated medical device that delivers medication directly to the spinal cord, reducing severe spasticity in conditions like cerebral palsy, spinal cord injury, and traumatic brain injury with fewer side effects than oral medication.
           
@@ -29,6 +33,8 @@ We'll even head to the front lines and hear from Lalita Thompson, MSN, RN, CRRN,
 
             At Last Resort Rehab Hospital™, our "Welcome to Reality" orientation room features what we call the "Geography is Destiny" map – showing the distribution of pump specialists across America. The visualization resembles medieval maps with vast unexplored territories marked "Here Be No Specialists." We've identified entire states with fewer than five physicians willing and able to manage these devices.
           
+
+
 
 ## The Great Provider Hunt: When "In-Network" Becomes Fiction
 
@@ -47,6 +53,8 @@ We'll even head to the front lines and hear from Lalita Thompson, MSN, RN, CRRN,
             In our "Prior Authorization Command Center" at Last Resort Rehab™, we've installed a "Provider Directory Accuracy Meter" that consistently hovers between "Pure Fiction" and "Dangerous Misinformation." Our staff has developed what we call "The Seven Stages of Provider Directory Grief" – beginning with "Belief" and ending with "Desperate Spreadsheet Creation" as case managers manually track which physicians actually manage pumps.
           
 
+
+
 ## The Rural Patient's Impossible Journey
 
             If severe spasticity weren't challenging enough, patients in rural and underserved areas face an additional burden: geographical isolation from qualified care.
@@ -63,6 +71,8 @@ We'll even head to the front lines and hear from Lalita Thompson, MSN, RN, CRRN,
 
             At Last Resort Rehab Hospital™, our "Mileage Clock" tallies the collective distance our rural pump patients travel annually. Last year it hit 86,742 miles – enough to circle the Earth three and a half times. All for a series of brief medical procedures that could be performed locally if training and infrastructure existed.
           
+
+
 
 ## The Insurance Gauntlet: A Journey Through Administrative Hell
 
@@ -83,6 +93,8 @@ We'll even head to the front lines and hear from Lalita Thompson, MSN, RN, CRRN,
 
             At Last Resort Rehab™, our staff t-shirts read: "Prior Authorization – Because Death by Baclofen Withdrawal Requires Proper Documentation."
           
+
+
 
 ## The Clinical Reality vs. Insurance Language
 

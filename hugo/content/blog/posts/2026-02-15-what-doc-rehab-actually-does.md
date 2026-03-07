@@ -16,6 +16,10 @@ related: ["/blog/posts/2026-02-15-what-doc-rehab-actually-does/", "/blog/posts/2
             something else entirely.
           
 
+
+
+
+<!--more-->
 ## The Expectation Gap
 
             When families hear "comprehensive rehabilitation" and "US News & World Report ranked program," they
@@ -39,6 +43,8 @@ related: ["/blog/posts/2026-02-15-what-doc-rehab-actually-does/", "/blog/posts/2
 
             Here's what I need you to understand: **this IS the treatment.**
 
+
+
 ## Why It Doesn't Feel Like Enough
 
             In the ICU, you watched teams rush in. Monitors alarmed. Medications were adjusted constantly. Interventions
@@ -52,6 +58,8 @@ related: ["/blog/posts/2026-02-15-what-doc-rehab-actually-does/", "/blog/posts/2
             now, not the medical team. Our job shifts from intervention to optimization. Creating the best possible
             conditions for whatever recovery is possible, and preparing everyone for what comes next.
           
+
+
 
 ## What "Optimization" Actually Means
 
@@ -79,6 +87,8 @@ related: ["/blog/posts/2026-02-15-what-doc-rehab-actually-does/", "/blog/posts/2
             advocate. This is why caregiver guilt is such a heavy burden during this process. As I wrote about in [Permission to Rest](/blog/posts/2025-02-21-permission-to-rest.html).
           
 
+
+
 ## The Hard Truth About "Top-Ranked"
 
             The hospital's reputation doesn't change the biology of brain injury. A top-ranked program has more
@@ -92,6 +102,8 @@ related: ["/blog/posts/2026-02-15-what-doc-rehab-actually-does/", "/blog/posts/2
 
             That's not nothing. But it's not a guarantee of the outcome you're praying for.
           
+
+
 
 ## What to Ask Instead of "What's the Treatment Plan?"
 
@@ -113,6 +125,8 @@ related: ["/blog/posts/2026-02-15-what-doc-rehab-actually-does/", "/blog/posts/2
 * **What happens if nothing changes in two weeks? Four weeks?** You need to understand the
               options.
 
+
+
 ## This Is Palliative Care, In A Way
 
             I don't mean hospice. I mean the original definition of palliative: care focused on comfort, quality of
@@ -126,6 +140,8 @@ related: ["/blog/posts/2026-02-15-what-doc-rehab-actually-does/", "/blog/posts/2
 
             This *is* aggressive care. It's just not the kind that looks dramatic from the outside.
           
+
+
 
 ## What I Want You to Know
 

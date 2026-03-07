@@ -24,6 +24,10 @@ What will people think? They will laugh at me for having come here and spent all
             Five words. They ended the clinical conversation and opened one I had no training to have.
           
 
+
+
+
+<!--more-->
 ## The Team Was Right. That's What Made It Impossible.
 
             The recommendation was straightforward. The patient had been in the program for weeks following an anoxic brain injury: minimally responsive, totally dependent for care, with no meaningful trajectory toward independence. The care burden was high. The family had been educated. The discharge plan pointed home with a family of caregivers.
@@ -34,6 +38,8 @@ What will people think? They will laugh at me for having come here and spent all
 
             What we didn't know was what going home actually meant in this family's world.
           
+
+
 
 ## This Wasn't Denial
 
@@ -49,6 +55,8 @@ What will people think? They will laugh at me for having come here and spent all
             The apartment wasn't irrational. It was a rational response to a social reality the clinical team couldn't see.
           
 
+
+
 ## The Sunk Cost Geometry
 
             Here's the part that stays with me: the local apartment cost more than going home.
@@ -62,6 +70,8 @@ What will people think? They will laugh at me for having come here and spent all
 
             She wasn't wrong to start. She just couldn't afford to let the story end the way it was going to end.
           
+
+
 
 ## The Documentation Gap
 
@@ -79,6 +89,8 @@ What will people think? They will laugh at me for having come here and spent all
             The barrier isn't a language barrier. The barrier is that going home meant something in this family's social world that nobody on the clinical team asked about before recommending it.
           
 
+
+
 ## The Moral Register
 
             The patient had no voice. Minimally responsive, totally dependent, she had no capacity to participate in a decision being made entirely on the basis of her mother's social calculus. The clinical team had a recommendation. The mother had an answer. And we documented the gap between them and moved on.
@@ -92,6 +104,8 @@ Family education provided regarding appropriate level of care.
 
             The mother's honesty, in a way, made it harder. If she'd given us a clinical justification, *the local facilities are better, I don't trust the doctors back home*, we'd have had something to work with. *People will laugh at me* closes every clinical response before it starts. There's nothing to fix in the chart. The problem isn't in the room.
           
+
+
 
 ## What Culturally Competent Discharge Planning Actually Has to Mean
 

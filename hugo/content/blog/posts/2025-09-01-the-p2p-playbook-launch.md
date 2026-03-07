@@ -17,6 +17,10 @@ related: ["/blog/posts/2025-09-01-the-p2p-playbook-launch/", "/blog/posts/2025-0
             Some of you have been doing this instinctively. Now there's a manual.
           
 
+
+
+
+<!--more-->
 ## What's inside?
 
 * The 4:52 PM Friday Phenomenon (41% higher approval rates)
@@ -24,6 +28,8 @@ related: ["/blog/posts/2025-09-01-the-p2p-playbook-launch/", "/blog/posts/2025-0
 * "Authority Hijack" method that bypasses critical thinking
 * Subject lines that trigger compliance fear
 * The bathroom break approval surge (34% increase)
+
+
 
 ## Sample from Chapter 3
 
@@ -34,6 +40,8 @@ Why? Because nobody wants to be the person on a recorded line violating protocol
 
             Look, we all know the game is rigged. This manual just admits it.
           
+
+
 
 ## Pre-order now and you might receive:
 

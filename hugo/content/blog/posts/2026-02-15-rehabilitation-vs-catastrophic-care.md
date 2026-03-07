@@ -30,6 +30,10 @@ related: ["/blog/posts/2026-02-15-rehabilitation-vs-catastrophic-care/", "/blog/
             to know it.
           
 
+
+
+
+<!--more-->
 ## What Rehabilitation Actually Looks Like
 
             Rehabilitation is a hip fracture recovery. An elderly patient falls, breaks a hip, gets surgical repair, and
@@ -50,6 +54,8 @@ related: ["/blog/posts/2026-02-15-rehabilitation-vs-catastrophic-care/", "/blog/
             Insurance understands this model because *this is the model they built their criteria around.* Every
             metric in the system (GG functional scoring, FIM levels, daily therapy progress notes, the entire concurrent review framework) was engineered for patients who improve in straight lines.
           
+
+
 
 ## What Catastrophic Care Actually Looks Like
 
@@ -77,6 +83,8 @@ related: ["/blog/posts/2026-02-15-rehabilitation-vs-catastrophic-care/", "/blog/
             This is neuroplasticity. It doesn't operate on a 7-day review cycle. It doesn't care about your GG score
             benchmarks.
           
+
+
 
 ## Where the System Gets Clever
 
@@ -107,6 +115,8 @@ related: ["/blog/posts/2026-02-15-rehabilitation-vs-catastrophic-care/", "/blog/
             Coverage stops. This affects real patients like those in [disorders of consciousness programs](/blog/posts/2026-02-15-what-doc-rehab-actually-does.html), where meaningful recovery happens on a timeline that doesn't fit any insurance metric.
           
 
+
+
 ## The Cliff Nobody Warned You About
 
             The family is shocked. Not because the outcome is bad. They were prepared for a long road. They're shocked
@@ -131,6 +141,8 @@ related: ["/blog/posts/2026-02-15-rehabilitation-vs-catastrophic-care/", "/blog/
             the ambiguity. Except for the family standing in a conference room on day 21 learning that their loved one's
             coverage just ended.
           
+
+
 
 ## The Questions They Don't Want You to Ask
 

@@ -18,6 +18,10 @@ related: ["/blog/posts/2025-09-05-peer-to-peer-pathophysiology/", "/blog/posts/2
             That's why I started tracking what actually moves the needle in peer-to-peer reviews. These are the metrics nobody publishes, but every insider quietly recognizes.
           
 
+
+
+
+<!--more-->
 ## The "Background" Variables We Pretend Don't Matter (But Do)
 I logged non-clinical noise. Literally.
 
@@ -45,6 +49,8 @@ I logged non-clinical noise. Literally.
 * **Bottom of the hour** = best; they're already late.
 
 Yes, this all sounds ridiculous. It is. Also: measurable.
+
+
 
 ## The Inconvenient Reality
 

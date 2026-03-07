@@ -14,6 +14,10 @@ There's no accountability. Instead, you hear a voice that overrules your clinica
 They call this a peer-to-peer review, but the only peer you see is your own reflection on the computer screen while you argue for medical care.
 It sounds like satire, but I wish it weren't real.
 
+
+
+
+<!--more-->
 ## Right now, doctors across the country are pleading with nameless voices just to get medical care approved.
 On one side, you have your name, credentials, and training openly displayed. On the other hand, there's only a ghost reading from a denial script.
 
@@ -28,10 +32,14 @@ On one side, you have your name, credentials, and training openly displayed. On 
 * They claim to work for X insurance company
 * That's literally it
 
+
+
 ## The Recording Game 🎭
 When you hear, "This call is being recorded," it often means anything you say could be used to deny your patient's medical care. And X company has the recording, you do not.
 If hackers start spoofing these already questionable calls, it will be nearly impossible to tell the difference between a real denial and a scam. The system is so unclear that one security breach could cause total chaos. The unfortunate part is that the denial will stand, and it is the patient who suffers as a result.
 Some docs are fighting back with counter-surveillance. Voice print analysis. Denial pattern databases. When healthcare becomes a game of spy versus spy, everyone loses, especially patients.
+
+
 
 ## Here's the bottom line:
 If insurance medical directors refuse to put their names on denials, they aren't acting as peers. They're just speaking for the company, and we're all tired of being part of this performance.

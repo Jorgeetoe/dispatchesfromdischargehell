@@ -45,6 +45,10 @@ If I explained it (*"Your insurance company deliberately timed this denial to ar
           
 So I don't explain it. I just work faster on Mondays.
 
+
+
+
+<!--more-->
 ## The Cascade
 The real cost isn't the appeal we missed. It's the appeals we didn't file because we were filing the emergency one. When one case goes into crisis mode on Monday morning, the concurrent reviews for three other patients get pushed. Those patients' authorizations lapse. Those lapses generate more denials. Those denials generate more Monday emergencies.
 The cascade is invisible from any single vantage point. The payer sees one denial. The physician sees one appeal request. The family sees one delay. The case manager sees the entire chain and absorbs the pressure of every link.

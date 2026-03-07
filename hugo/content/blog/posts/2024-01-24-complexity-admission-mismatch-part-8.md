@@ -13,6 +13,10 @@ We take the cases nobody else will.
 The spreadsheet says we need to turn beds over in 21 days.
 Both statements are true. Neither one acknowledges the other.
 
+
+
+
+<!--more-->
 ## The Reputation-Revenue Tension
 A top-tier rehabilitation hospital builds its reputation on complexity. The sickest patients. The most devastating injuries. The cases that other inpatient rehab programs won't touch: severe TBI with behavioral dysregulation, high spinal cord injuries requiring ventilator weaning, disorders of consciousness where the outcome is measured in years, not weeks.
 That reputation drives referrals. Families call from across the state. Transfer coordinators from acute care hospitals know the name. The institution's identity is built on being the place that says yes when everyone else says no.
@@ -25,6 +29,8 @@ The admissions team accepts a patient with a severe TBI, behavioral episodes, a 
           
 And leadership wants the bed for the next admission.
 The phrase I hear most is: **"We need the bed."** Not "we need to find the right placement." Not "we need to ensure a safe discharge." We need the bed. Because there's a patient in the acute care hospital waiting for this spot, and that patient generates revenue the moment they're admitted.
+
+
 
 ## The CMI Problem
 The Case Mix Index (CMI) is the number that measures institutional complexity. A high CMI means you're treating sicker patients. It's a badge of honor in academic rehab. It's also the number that makes the financial math harder, because sicker patients stay longer, discharge slower, and cost more per day.

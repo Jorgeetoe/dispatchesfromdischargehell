@@ -21,6 +21,10 @@ related: ["/blog/posts/2025-12-12-the-misdiagnosis-tax/", "/blog/posts/2025-12-1
             And it's wrong almost a quarter of the time.
           
 
+
+
+
+<!--more-->
 ## The Label Is the Leash
 
             In catastrophic care, the diagnosis isn't just a clinical finding. It's a financial instrument.
@@ -46,6 +50,8 @@ related: ["/blog/posts/2025-12-12-the-misdiagnosis-tax/", "/blog/posts/2025-12-1
 
             The system didn't fail to treat them. The system failed to see them. And then it used that failure as the reason to stop looking.
           
+
+
 
 ## Who Assigns the Label?
 
@@ -73,6 +79,8 @@ related: ["/blog/posts/2025-12-12-the-misdiagnosis-tax/", "/blog/posts/2025-12-1
             The patient got better. The label didn't.
           
 
+
+
 ## The Denial Feedback Loop
 
             Here's the architecture of the problem:
@@ -99,6 +107,8 @@ related: ["/blog/posts/2025-12-12-the-misdiagnosis-tax/", "/blog/posts/2025-12-1
             This is the core problem I've written about in [Catastrophic Case Management](/blog/posts/2025-03-26-catastrophic-case-management-brutal-truths-from-the-front-lines.html): the entire system is structured to protect the initial decision, not to pursue the correct one.
           
 
+
+
 ## The Ones Who Never Get In
 
             That 23.5% misdiagnosis rate is from patients who made it to a specialized program. Ninety-seven admissions in a fiscal year. At one facility.
@@ -121,6 +131,8 @@ related: ["/blog/posts/2025-12-12-the-misdiagnosis-tax/", "/blog/posts/2025-12-1
 
             This is why [What DOC Rehab Actually Does](/blog/posts/2026-02-15-what-doc-rehab-actually-does.html) matters so much: the families who understand what specialized assessment looks like can fight harder to get their loved ones there, even against labels that suggest hopelessness.
           
+
+
 
 ## What the Data Actually Says
 
@@ -148,6 +160,8 @@ related: ["/blog/posts/2025-12-12-the-misdiagnosis-tax/", "/blog/posts/2025-12-1
             Because the label is cheaper than the assessment. The denial is cheaper than the admission. And the patient who never gets correctly diagnosed never shows up in the outcomes data to prove them wrong.
           
 
+
+
 ## Human Cost Counter
 
             23.5% misdiagnosis rate at admission to a specialized DOC program
@@ -158,6 +172,8 @@ related: ["/blog/posts/2025-12-12-the-misdiagnosis-tax/", "/blog/posts/2025-12-1
 
             Unknown: How many never reach a specialized program because the wrong label blocked the door
           
+
+
 
 ## The Tax, Itemized
 

@@ -15,6 +15,10 @@ related: ["/blog/posts/2025-03-16-preadmission-guidelines-vip-ticket-rehab-reali
             I believe forewarned is forearmed (and significantly less likely to threaten legal action later). So buckle up for some unfiltered truth about what you're really signing up for – a rollercoaster ride through the healthcare system with just enough dark humor to keep you from screaming the entire time.
           
 
+
+
+
+<!--more-->
 ## Family Involvement: Congratulations on Your New Unpaid Career!
 
             The moment your loved one enters our doors, you're automatically drafted into healthcare service. No interview required!
@@ -27,6 +31,8 @@ What this actually means:
 
             At Last Resort Rehab, we hand out "Designated Family Helper" t-shirts on admission day. They come in one size – uncomfortable responsibility – and the fine print reads: "If you're planning to disappear at discharge, please tell us now so we can start panicking early."
           
+
+
 
 ## Program Outcomes: Where Hope Meets Insurance Limitations
 
@@ -41,6 +47,8 @@ The reality check:
             Our outcomes conversations often feature an invisible graph showing "Patient Progress" and "Insurance Coverage" as two lines moving in opposite directions. It's funny because it's painfully true. This metric mismatch is what I explore in detail in [Rehabilitation vs. Catastrophic Care](/blog/posts/2026-02-15-rehabilitation-vs-catastrophic-care.html).
           
 
+
+
 ## Support System Reality Check: Who's Actually Showing Up?
 
             Before we can even think about discharge, we need to know who's in this for the long haul versus who's just dropping by for the Instagram moment.
@@ -53,6 +61,8 @@ Critical questions we need answered:
 
             In my experience, our unspoken family assessment includes a mental "Flake Factor" rating. We've seen too many tearful promises at admission turn into unanswered phone calls by week three.
           
+
+
 
 ## Family Expectations: Hollywood vs. Healthcare
 
@@ -73,6 +83,8 @@ What families should expect:
             The most therapeutic conversation we can have during orientation is titled "Adjusting Your Expectations Without Abandoning Hope." It's consistently our most-requested session. And this is where families need to understand the emotional toll. I've written about this in [Permission to Rest](/blog/posts/2025-02-21-permission-to-rest.html).
           
 
+
+
 ## Transportation Costs: Surprise! That's On Your Tab
 
             Nothing says "welcome to healthcare reality" quite like learning that getting your loved one home is entirely your financial responsibility.
@@ -87,6 +99,8 @@ The fine print nobody reads:
             I've witnessed countless "Transportation Shock" moments in the family consultation room. The first reaction is free; subsequent reactions require you to bring coffee for everyone.
           
 
+
+
 ## Specialty Appointments: Field Trips Without the Fun
 
             Need to see a specialist during your rehab stay? Here's what families don't realize until it's happening:
@@ -98,6 +112,8 @@ The fine print nobody reads:
 
             We unofficially call these "Adventures in Healthcare Land" – thrilling journeys where you'll discover just how poorly connected our medical system really is!
           
+
+
 
 ## Out-of-State Patients: The PCP Paradox
 
@@ -113,6 +129,8 @@ The logical loop:
             I sometimes wish we could give our out-of-state patients a special "PCP Bingo Card" featuring squares like "On vacation until next month," "Not accepting new patients," and the coveted "Will do a virtual visit but insurance won't cover it."
           
 
+
+
 ## Rural vs. Urban Challenges: Location, Location, Frustration
 
             The geography lottery significantly impacts post-discharge care, and nobody talks about it enough.
@@ -125,6 +143,8 @@ The brutal truth:
 
             Our discharge planning maps might as well be color-coded by healthcare deserts. The legend would read: "Green: Good luck! Yellow: Good grief! Red: Good heavens!"
           
+
+
 
 ## Disorders of Consciousness Program: What We Actually Do
 
@@ -145,6 +165,8 @@ What we don't do:
             Every honest DoC program brochure should feature a disclaimer: "Results vary. Significantly. Like, really significantly."
           
 
+
+
 ## Private Rooms: A Fantasy Novel
 
             Families frequently request private rooms with the confidence of someone who's never encountered hospital economics.
@@ -157,6 +179,8 @@ The space reality:
 
             I've considered suggesting a "Room Upgrade Package" that's just a curtain with slightly better soundproofing. Still in development.
           
+
+
 
 ## Marketplace Insurance Plans: The Fine Print Nightmare
 
@@ -171,6 +195,8 @@ What to expect:
             The therapeutic value of a "Marketplace Insurance Support Group" would be immeasurable – where the only activity is collective screaming into the void. To understand the real financial impact, read about [high-deductible health plans in catastrophic care](/blog/posts/2025-05-04-when-affordable-isnt-high-stakes-hdhp-catastrophic-care.html).
           
 
+
+
 ## Length of Stay: The Countdown Clock
 
             Time in rehab is like expensive champagne – limited and gone before you know it.
@@ -184,6 +210,8 @@ The timeline reality:
 
             Sometimes I imagine a giant countdown clock in the lobby labeled "Insurance Coverage Remaining." It would be both a motivational tool and a reality check.
           
+
+
 
 ## Final Thoughts: The Peace Pipe or the Kool-Aid
 

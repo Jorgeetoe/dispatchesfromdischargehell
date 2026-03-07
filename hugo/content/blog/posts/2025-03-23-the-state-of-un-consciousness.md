@@ -11,6 +11,10 @@ related: ["/blog/posts/2025-03-23-the-state-of-un-consciousness/", "/blog/posts/
 Happy Belated World Coma Day 2025! Yesterday (March 22nd) We "Celebrated" States of Un-Consciousness While Insurance Companies Continued to Hit the Snooze Button on Coverage
 In honor of yesterday's World Coma Day and the ongoing Brain Injury Awareness Month of March, I'm breaking my professional silence to deliver the unvarnished update on where we stand with Disorders of Consciousness (DoC) care in 2025. Spoiler alert: we've made incredible scientific advances that insurance still won't cover! After 20+ years in neurorehabilitation, I can confidently report that our understanding of consciousness has evolved dramatically, while our healthcare system remains stubbornly unconscious to patients' needs.
 
+
+
+
+<!--more-->
 ## The Diagnosis Revolution: There's Someone In There! (But Your Plan Doesn't Cover Finding Them)
 What science promised by 2025: Advanced brain imaging and EEG tools that can detect covert consciousness and dramatically reduce the 40% misdiagnosis rate.
 What we actually got:
@@ -20,6 +24,8 @@ What we actually got:
 * A bewildering array of new assessment scales with impressive acronyms (CRS-R and so on) all reaching different conclusions about the same patient
 
 At Last Resort Rehab™, we've adapted to this reality with our "Consciousness Detection Roulette Wheel." Each morning, we spin to determine which assessment tool we'll use that day. On Fridays, we spin twice and go with the more optimistic result — we call it "Family Conference Fridays" for a reason.
+
+
 
 ## The Geographic Consciousness Gap: 2025 Edition
 The scientific consensus: DoC patients need specialized care at centers of excellence with interdisciplinary expertise.
@@ -31,6 +37,8 @@ The geographic reality:
 * **Rural America:** Have you considered telehealth? (For the condition most requiring hands-on care)
 
 Our updated national "Centers of Excellence" map at Last Resort Rehab™ now features colorful pins representing specialized DoC programs. When viewed from a distance, they form the shape of a giant question mark — entirely unintentional but perfectly symbolic.
+
+
 
 ## The 2025 DoC Treatment Landscape: Breakthroughs Without Breakouts
 Despite headlines about breakthroughs, advances in DoC treatment remain frustratingly slow to develop. At Last Resort Rehab™, we continue focusing on the tried-and-true basics while waiting for something truly significant to emerge:
@@ -48,6 +56,8 @@ Our therapists have developed a sixth sense that would make Bruce Willis in *The
 Don't misunderstand — we utilize advanced technologies when available and appropriate. But the most reliable tools in DoC assessment remain the human eyes, ears, and hands of our elite therapy team, physicians and nurses working alongside attentive family members. There are also a few cynical but compassionate case managers and social workers working alongside.
 So while researchers continue developing those headline-making breakthroughs (that insurance will inevitably deny), we'll keep excelling at the fundamentals that actually help patients right now.
 
+
+
 ## The Insurance Evolution: Same Denial, Fancier Algorithm
 What healthcare reformers promised: Improved coverage for specialized neurorehabilitation based on medical necessity rather than arbitrary timeframes.
 What 2025 delivered:
@@ -58,6 +68,8 @@ What 2025 delivered:
 
 The administrative office at Last Resort Rehab™ now features our "Wall of Creative Denials" — a gallery of the most imaginative insurance rejections we've received. The 2025 winner: "Patient demonstrated eye tracking on day 18, therefore consciousness has been achieved and further treatment is not medically necessary."
 
+
+
 ## The Family Support System: 2025's Only Reliable Resource
 Despite technological advances, the most consistent element in DoC care remains the family's involvement. Our updated family training program now includes:
 
@@ -67,6 +79,8 @@ Despite technological advances, the most consistent element in DoC care remains 
 
 Our volunteers distribute "Designated Family Helper" t-shirts, now with updated 2025 slogans: "I survived insurance appeals and all I got was this lousy partial approval" and "DoC Navigator: Because Google Maps Can't Help You Here."
 
+
+
 ## Ethical Considerations in 2025: When Algorithms Make Life Decisions
 The ethical landscape around DoC has grown increasingly complex:
 
@@ -75,6 +89,8 @@ The ethical landscape around DoC has grown increasingly complex:
 * Medical ethicists debate the philosophical implications of consciousness while families debate how to pay for one more week of therapy
 
 At Last Resort Rehab™, we've installed an "Ethical Dilemma Suggestion Box" outside each DoC patient room. So far, 98% of submissions read simply: "How is this ethical?"
+
+
 
 ## The Silver Linings: What's Actually Improved Since 2023
 Despite my cynicism, there have been meaningful advances in DoC care:
@@ -86,6 +102,8 @@ Despite my cynicism, there have been meaningful advances in DoC care:
 
 The most significant improvement? Healthcare professionals like me feel increasingly empowered to speak up about the gap between what science knows and what the system provides. Behind every satirical post is a dedicated provider who believes patients deserve better.
 
+
+
 ## What's Next: The 2026 Consciousness Forecast
 As we look toward next year's World Coma Day, here's my brutally honest prediction:
 
@@ -95,6 +113,8 @@ As we look toward next year's World Coma Day, here's my brutally honest predicti
 * Healthcare providers will continue finding workarounds, fighting appeals, and occasionally screaming into the void (or the "Insurance Denial Gardens" as we now call our courtyard)
 
 Most importantly, patients will continue emerging from disorders of consciousness despite all statistical odds and insurance timelines — because consciousness refuses to follow a corporate schedule.
+
+
 
 ## Your Turn
 What's your experience with DoC care in 2025? Have you encountered any particularly creative insurance denials? Share your stories in the comments — unless you're an insurance company, in which case please hold for the next available representative (estimated wait time: until consciousness is fully understood).

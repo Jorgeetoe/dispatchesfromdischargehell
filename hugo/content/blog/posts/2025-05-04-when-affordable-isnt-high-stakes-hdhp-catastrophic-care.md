@@ -15,6 +15,10 @@ related: ["/blog/posts/2025-05-04-when-affordable-isnt-high-stakes-hdhp-catastro
             What piqued my curiosity is how little this is improving. Deductibles climbing every year, and out-of-pocket maximums following close behind. What was "high" five years ago is now the industry standard.
           
 
+
+
+
+<!--more-->
 ## A Case Manager's Real-World Guide to High-Deductible Health Plans
 
             The reality check.
@@ -29,10 +33,14 @@ related: ["/blog/posts/2025-05-04-when-affordable-isnt-high-stakes-hdhp-catastro
             Bottom line: You become the CFO of your own healthcare.
           
 
+
+
 ## Breaking Down the Numbers
 
             With a $3,000 deductible, you cover the first $3,000 before insurance joins the party. After that, the plan starts paying a percentage. And that Health Savings Account (HSA) bundled with the HDHP? The tax perks are fantastic—if you can afford to contribute.
           
+
+
 
 ## HDHP Reality Check: When Catastrophic Injury Meets High Deductibles
 
@@ -62,6 +70,8 @@ related: ["/blog/posts/2025-05-04-when-affordable-isnt-high-stakes-hdhp-catastro
             With HDHPs becoming the norm, deductibles are outpacing wages. Even "good" insurance can spell financial ruin after a catastrophic event. While studies cite an average $2,087 in collections, I routinely see families staring at immediate bills of $20,000+. Case managers navigating these barriers face an entire ecosystem of denial and delay—the subject of [Catastrophic Case Management: Brutal Truths from the Front Lines](/blog/posts/2025-03-26-catastrophic-case-management-brutal-truths-from-the-front-lines.html).
           
 
+
+
 ## Policy Solutions We Need Now
 
             JAMA researchers recommend:
@@ -77,6 +87,8 @@ related: ["/blog/posts/2025-05-04-when-affordable-isnt-high-stakes-hdhp-catastro
             Until systemic change arrives, I'll keep guiding families through this maze—one catastrophic case at a time. The tension between what rehabilitation actually requires and what metrics demand is the subject of [Rehabilitation vs. Catastrophic Care: What the Metrics Don't Measure](/blog/posts/2025-06-15-rehabilitation-vs-catastrophic-care-what-the-metrics-dont-measure.html), where early discharge decisions are driven by economics rather than medical readiness.
           
 
+
+
 ## My Approach
 
             I'm naturally curious, so I spend my time decoding the jargon and uncovering the forces behind these trends. Most people don't understand their insurance—and that's not on them. The industry is intentionally complex. Healthcare economics shouldn't require an MBA, and while I can't overhaul the system without serious funding (or a minor revolution), I can guide you through it and make the fine print understandable. As deductibles keep climbing, that kind of navigation matters more every year.
@@ -87,6 +99,8 @@ related: ["/blog/posts/2025-05-04-when-affordable-isnt-high-stakes-hdhp-catastro
 
             Stay tuned for my next post, where we'll explore two strategies for better financial protection: eliminating cost-sharing for conditions unlikely to be overused—like traumatic injuries requiring hospitalization—and establishing income-based deductibles.
           
+
+
 
 ## Reference
 

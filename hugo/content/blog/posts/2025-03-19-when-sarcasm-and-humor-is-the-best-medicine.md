@@ -18,6 +18,10 @@ related: ["/blog/posts/2025-03-19-when-sarcasm-and-humor-is-the-best-medicine/",
             At Last Resort Rehab, we hand out "Designated Family Helper" t-shirts on admission day. They come in one size: uncomfortable responsibility. The fine print reads: "If you're planning to disappear at discharge, please tell us now so we can start panicking early." You'll also receive a fortune cookie that reads, "Your insurance will approve half of what's medically necessary. Lucky numbers: 404, 501, DENIED."
           
 
+
+
+
+<!--more-->
 ## The Admission Process: Your Crash Course in Creative Fiction
 
             What you think happens: Your loved one is evaluated by a team of specialists who create a comprehensive care plan based solely on clinical needs.
@@ -30,6 +34,8 @@ What actually happens:
 
             At Last Resort Rehab™, we've streamlined this process with our innovative "Coverage Countdown Clock" installed in each room. It's a digital display showing exactly how many minutes of therapy your insurance company believes is sufficient to recover from a catastrophic injury. We've found it really motivates patients when they can literally watch their benefits evaporate in real-time.
           
+
+
 
 ## The Team Conference: Where Hope Meets Reality
 
@@ -44,6 +50,8 @@ What actually happens:
 
             At Last Resort Rehab™, our team conferences take place in the "Slightly Less Terrible" conference room, which features inspirational posters with messages like "TEAMWORK: Because insurance denials require multiple appeals" and "PERSEVERANCE: Keep trying until Medicare hangs up on you. If they ever answer."
           
+
+
 
 ## Therapy Sessions: The Art of Doing More With Less
 
@@ -63,6 +71,8 @@ What Medicare approves:
 * "Cognitive rehabilitation" → "Not medically necessary" → "Here's a word search puzzle"
 * "Emotional support" → "Not covered" → "Have you tried YouTube meditation videos?"
 
+
+
 ## The Family Meeting: Theater of the Uncomfortable
 
             What you anticipate: A heartwarming discussion about progress and next steps.
@@ -77,6 +87,8 @@ What we're actually preparing for:
             At Last Resort Rehab™, we prepare for family meetings with our special "Flake Factor" assessment to determine which family members will actually show up and which will later call demanding personalized updates. We also provide a complimentary tissue box that plays our facility's theme song when opened: "You Can't Always Get What You Need (But Sometimes You Get What Insurance Covers)."
           
 
+
+
 ## Discharge Planning: The Art of Predicting the Unpredictable
 
             The ideal: A seamless transition to the next appropriate level of care when the patient has reached optimal recovery.
@@ -89,6 +101,8 @@ The reality:
 
             In our "Welcome to Reality" orientation room at Last Resort Rehab™, we distribute t-shirts with our most popular slogan: "Recovery? Maybe! Discharge? Definitely!" We've found it helps to establish expectations early, particularly when paired with our discharge planning bingo card featuring squares like "Insurance denied extension," "Family not ready," and the coveted center square: "Patient improved too much for skilled care but not enough to go home." Oh, and don't forget about the "Family flaked" square.
           
+
+
 
 ## The Great Insurance Battle: Where David Meets Goliath, and Goliath Has All the Paperwork
 
@@ -106,6 +120,8 @@ What we know:
 
             At Last Resort Rehab™, we celebrate small victories in our "Insurance Denial Gardens," a peaceful courtyard where staff can be found meditating, screaming into the void, or performing elaborate rituals to appease the insurance gods. We make it look like Yoga or Pilates depending on just how small a victory.
           
+
+
 
 ## My "Silver Linings Playbook": An Open Confession
 
@@ -129,6 +145,8 @@ What we know:
 
             If you're an insurance company, your comments require preauthorization. Please call me via my automated system, speak clearly since you will not be able to speak to a live person until you provide the following reference: BVCZDTSFMN. If you know, you know.
           
+
+
 
 ## Between Us Healthcare Professionals: The Coping Corner
 
@@ -154,6 +172,8 @@ What we know:
             For extra realism, you can just imagine all the props.
           
 
+
+
 ## For Families: Navigating the Maze Without Losing Your Mind
 
             The system isn't just frustrating for us. It's downright bewildering for you. We're with you. Here's my hard-earned advice:
@@ -171,6 +191,8 @@ What we know:
           
 **Practice radical self-care.** This journey is a marathon, not a sprint. You cannot pour from an empty cup, especially when that cup is repeatedly being knocked over by insurance denials. And please make sure it is nonalcoholic because you will get "that" phone call and make the nursing shift change report headlines. For strategies on managing caregiver burnout and learning to rest without guilt, [Permission to Rest: The Invisible Work of Telling Someone They Can Stop](/blog/posts/2025-02-21-permission-to-rest.html) addresses the invisible labor that no one talks about.
           
+
+
 
 ## The Last Resort Philosophy: Finding Honesty in a Broken System
 

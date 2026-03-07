@@ -10,19 +10,29 @@ I've been a nurse for over twenty years. Bedside, program development, case mana
 I want to tell you what that actually looks like.
 Not the version on the website. Not the marketing brochure. Not the success stories on the lobby wall. Not the phrase "we take the hardest cases" — which is true, but which leaves out everything that happens after those cases arrive.
 
+
+
+
+<!--more-->
 ## What Happens Inside
 I want to tell you what happens when a family walks through the door, sees the success stories hanging on the wall, and expects four to six months of rehab — and we have three weeks. What happens when insurance decides your loved one has "plateaued" while you're watching them squeeze your hand for the first time. What happens when the skilled nursing facility says yes on the phone and calls back two hours later to say no. What happens when the equipment that was supposed to arrive before discharge doesn't, and nobody can tell you when it will. What happens when you need a specialist beyond the rehab team but can't get a referral. You've never had a PCP, and you can't get one while you're still admitted. What happens when the system gives you the right to refuse a facility but the only alternative is taking your loved one home — and home isn't survivable.
 I want to tell you about the patterns.
+
+
 
 ## What the Research Already Knows
 The data exists. A 2020 review in *NeuroRehabilitation* found that nearly half of those hospitalized for traumatic brain injury have long-term disability. The most common unmet needs after discharge include information about prognosis, community resources, financial assistance, and home services. A 2021 European multicenter study across 65 neurotrauma centers found significant unmet rehabilitation needs persisting months after TBI, particularly in cognitive, emotional, and community reintegration domains. A 2023 JAMA Surgery study found that nearly one in three family caregivers of trauma patients experience high caregiver burden within months of discharge, with low preparedness as the strongest predictor.
 What doesn't exist is someone translating it into language families can use before the crisis hits.
 That's what this series does.
 
+
+
 ## What This Series Is
 Over the next 25 posts, I'm going to walk through the recurring patterns I've watched play out across hundreds of catastrophic cases and discharges. These aren't isolated incidents. They're not bad luck. They're structural: built into the way the system operates, repeated so consistently that I can predict the trajectory from the preadmission assessment — before the first family meeting even happens.
 Each post names one pattern, tells you what it looks like from the inside, and connects it to the research that confirms what frontline clinicians already know.
 This is not a policy paper. This is not an academic exercise. This is one case manager telling you what nobody warned me about when I started — and what nobody warns families about when they arrive.
+
+
 
 ## The Reframe You Need First
 Before any of this makes sense, you need to understand one thing: what the system calls "inpatient neuro rehab" is actually catastrophic care.
@@ -32,6 +42,8 @@ I've always said that a safe discharge does not mean it's an appropriate dischar
 Research on surrogate decision-making in ICUs confirms what I see every week: families aren't just emotionally overwhelmed; they're cognitively overloaded. A PMC study found that even decision support tools have limited effectiveness because families are too cognitively impaired by crisis to process what's being offered. They're being asked to make irreversible decisions at the exact moment their brain is least equipped to evaluate them.
 Once you understand that distinction, every pattern in this series clicks into place. The timelines make sense. The denials make sense. The family heartbreak makes sense. It all makes sense. Not because the system is rational, but because [it was designed for a different kind of patient, and catastrophic cases break it in predictable ways.](/blog/posts/2025-03-26-catastrophic-case-management-brutal-truths-from-the-front-lines.html)
 And the people inside it — the families, the clinicians — we're human. Our hearts break with it.
+
+
 
 ## The Four Phases
 The series follows the arc of my own evolution — from the early disorientation of realizing what this job actually is, to the point where I could name the system's architecture and call it what it is.
@@ -48,10 +60,14 @@ The patterns get language. The observation status trap. The medication cliff. Th
 ### Phase 4: "The Indictment" (Parts 23–25)
 The full weight. The guardianship bottleneck. The system error that crystallizes into a permanent barrier. The residency requirement wall. The rights paradox — where the system hands you a protection that works perfectly for the patients it wasn't designed for. And the capstone: the post where it becomes personal. Where the discharge planner becomes the family. Where every pattern I've documented from the professional side comes back from the other direction.
 
+
+
 ## Who This Is For
 **Families** — the person sitting in the ICU waiting room at 2 AM searching for what happens next. Research shows that patients whose families attended at least 10% of therapy time had better community participation and cognitive outcomes at 3 and 9 months post-discharge. Your presence matters. Your knowledge matters more. You deserve to know what's coming before it blindsides you. [These posts won't make the system less broken, but they'll help you see it clearly, ask better questions,](/blog/posts/2025-03-16-preadmission-guidelines-vip-ticket-rehab-reality-show.html) and recognize the patterns before they become crises.
 **Clinicians and case managers** — the people doing this work every day who already know these patterns but have never seen them named. You're not imagining it. A study of 115 internal medicine residents found 60% had never received formal training in difficult conversations. Qualitative research confirms that healthcare professionals encounter institutional constraints that limit their ability to provide the standard of care to which they feel morally obligated. It's not just your facility. It's structural. And you deserve the validation of seeing it in print.
 **Anyone who's ever been told "your loved one is ready for discharge" and felt the floor drop out.**
+
+
 
 ## Why I'm Writing This
 I always wanted to be a writer. I planned to be a nurse instead. Twenty years inside the machine changed the math. Watching the same patterns repeat. Watching families hit the same walls. Watching the system absorb its own dysfunction and call it normal. I couldn't not say it out loud.

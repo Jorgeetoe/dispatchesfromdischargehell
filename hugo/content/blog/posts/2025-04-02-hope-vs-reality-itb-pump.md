@@ -65,6 +65,10 @@ related: ["/blog/posts/2025-04-02-hope-vs-reality-itb-pump/", "/blog/posts/2025-
             At Last Resort Rehab Hospital™, our "Welcome to Reality" orientation sessions have evolved into Compassionate Preparation. We acknowledge the life-changing benefits while simultaneously building the survival skills families will need when systems inevitably fail them.
           
 
+
+
+
+<!--more-->
 ## For Families Considering the ITB Journey: Questions That Actually Matter
 
             If you're a family member considering an intrathecal baclofen pump for your loved one, here are the critical questions. They won't appear in the glossy brochure. But they will determine your actual experience:
@@ -78,6 +82,8 @@ related: ["/blog/posts/2025-04-02-hope-vs-reality-itb-pump/", "/blog/posts/2025-
 
             In our "Slightly Less Terrible" conference room at Last Resort Rehab™, we created The Hope-Reality Balance Sheet. This documentation tool pairs each potential benefit with the specific preparation needed to achieve it. It helps clinicians have these difficult conversations without extinguishing hope entirely.
           
+
+
 
 ## The Consent Conversation No One Has: What Families Actually Need to Hear
 
@@ -95,6 +101,8 @@ related: ["/blog/posts/2025-04-02-hope-vs-reality-itb-pump/", "/blog/posts/2025-
 
             At Last Resort Rehab Hospital™, we developed The Two-Column Conversation. We separate device performance (usually excellent) from system performance (often abysmal). This helps families understand that their greatest struggles will rarely come from the pump itself. They come from the ecosystem surrounding it.
           
+
+
 
 ## How to Maintain Hope While Building Resilience: A Balancing Act
 
@@ -114,6 +122,8 @@ related: ["/blog/posts/2025-04-02-hope-vs-reality-itb-pump/", "/blog/posts/2025-
             At our "Prior Authorization Command Center," we keep a wall of success stories. These patients prove that preparation doesn't diminish hope. It protects it.
           
 
+
+
 ## The Family Preparation Checklist: Hope Reinforced by Planning
 
             For families proceeding with pump therapy, here's our practical prep checklist:
@@ -128,6 +138,8 @@ related: ["/blog/posts/2025-04-02-hope-vs-reality-itb-pump/", "/blog/posts/2025-
             The families who maintain the most hope? They're the ones best prepared for failure.
           
 
+
+
 ## From Clinician to Family: The Conversation That Actually Helps
 
             After thousands of meetings about ITB pumps, Lalita has found this framework helps:
@@ -135,6 +147,8 @@ related: ["/blog/posts/2025-04-02-hope-vs-reality-itb-pump/", "/blog/posts/2025-
 
 > 
 "This pump has the potential to significantly reduce your loved one's spasticity and improve quality of life. The technology is remarkable. The device itself is reliable when maintained properly. What I want to prepare you for isn't the pump. It's the system surrounding it. That means consistent access to specialists, stable insurance, and dependable transportation. I'm not here to discourage you. I'm here to help you succeed. Let's identify any barriers and build a plan to overcome them."
+
+
 
 ## The System We Need vs. The System We Have
 
@@ -150,6 +164,8 @@ related: ["/blog/posts/2025-04-02-hope-vs-reality-itb-pump/", "/blog/posts/2025-
 
             Until then, we walk the tightrope: balancing hope with impact prep.
           
+
+
 
 ## Final Thoughts: Hope Protected by Preparation
 

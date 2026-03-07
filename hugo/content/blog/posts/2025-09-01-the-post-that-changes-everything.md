@@ -13,6 +13,10 @@ What if I told you that clinical documentation, GG scores, even technically comm
 And unlike fraud, this method is 100% legal. Mostly.
 Against the advice of legal counsel, Last Resort Publishing is releasing what the insurance industry has spent millions trying to keep buried.
 
+
+
+
+<!--more-->
 ## But First, Let Me Ask You Something...
 How many times this week have you:
 
@@ -21,10 +25,14 @@ How many times this week have you:
 * ✓ Watched a reviewer ignore objective data?
 * ✓ Wondered if there's something you're missing?
 
+
+
 ## For 48 Months, I've Been Studying What Actually Works.
 Not what SHOULD work. What DOES work.
 I've personally coached attending physicians through 100+ P2P calls. I've analyzed over 500 insurance interactions. I've tracked every variable, measured every outcome, and discovered something that will fundamentally change how you approach medical approvals.
 You're not missing clinical knowledge. You're missing THE GAME.
+
+
 
 ## Here's what I discovered when I started studying the game instead of the medicine:
 I found that P2P calls scheduled at 4:52 PM on Fridays have a 41% higher approval rate than the same clinical case presented Monday at 9 AM.

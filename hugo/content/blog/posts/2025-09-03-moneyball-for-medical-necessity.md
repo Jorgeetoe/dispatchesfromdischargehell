@@ -9,6 +9,10 @@ related: ["/blog/posts/2025-09-03-moneyball-for-medical-necessity/", "/blog/post
 **Disclaimer:** This content is educational and based on 20+ years of case management experience. It is not medical advice, clinical guidance, or legal counsel. Consult with qualified healthcare providers, case managers, and legal professionals for decisions affecting your care.
           
 
+
+
+
+<!--more-->
 ## Inside the Quiet Art of Social-Engineering the P2P
 
             I've been sharing excerpts from my yet-to-be-released book on improving medical authorizations, The P2P Playbook™. If you haven't seen [The P2P Playbook™ Launch](/blog/posts/2025-09-01-the-p2p-playbook-launch.html), start there for context on what I'm building. Now let's take a closer look at the mechanics.

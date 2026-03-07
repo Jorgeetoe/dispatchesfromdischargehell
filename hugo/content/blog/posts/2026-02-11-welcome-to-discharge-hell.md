@@ -18,6 +18,10 @@ related: ["/blog/posts/2026-02-11-welcome-to-discharge-hell/", "/blog/posts/2026
             Welcome to Discharge Hell.
           
 
+
+
+
+<!--more-->
 ## Who I Am
 
             I've spent 20+ years inside this system across three roles that almost nobody holds in sequence: bedside nurse, program development, and catastrophic case manager. That experience has given me something you can't get from any one position. I've seen how the machine runs from the inside, who it serves, and who it doesn't.
@@ -28,6 +32,8 @@ related: ["/blog/posts/2026-02-11-welcome-to-discharge-hell/", "/blog/posts/2026
 
             Today I coordinate discharges for patients with traumatic brain injuries, spinal cord injuries, and disorders of consciousness at one of the country's top-ranked rehabilitation hospitals. My job sits at the intersection of what a patient needs and what their insurance will actually pay for. Those two things almost never match.
           
+
+
 
 ## Why This Site
 
@@ -49,6 +55,8 @@ related: ["/blog/posts/2026-02-11-welcome-to-discharge-hell/", "/blog/posts/2026
             And here's the thing nobody wants to say out loud: the system isn't broken. It's working exactly as designed, against the people it's supposed to serve. Every denial, every delay, every Friday-afternoon coverage termination is the system doing what it was built to do. I'm writing a book about it. The blog is the proving ground. The book is the definitive version.
           
 
+
+
 ## What You'll Find Here
 **Dispatches.** Dark satire from the trenches. If you've ever wanted to read about healthcare the way Mad Magazine might have portrayed it, this is your category.
           
@@ -58,6 +66,8 @@ related: ["/blog/posts/2026-02-11-welcome-to-discharge-hell/", "/blog/posts/2026
           
 **Case Files.** De-identified stories from twenty years of discharge planning. Patterns, lessons, and occasionally, hope.
           
+
+
 
 ## Who This Is For
 

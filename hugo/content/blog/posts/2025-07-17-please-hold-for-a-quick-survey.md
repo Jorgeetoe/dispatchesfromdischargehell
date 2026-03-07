@@ -13,6 +13,10 @@ It's like asking if you enjoyed dinner while you're still choking on the fish bo
 In 2025, they're still bragging about their customer satisfaction scores.
 Meanwhile, families are still getting the same old denial letters.
 
+
+
+
+<!--more-->
 ## What's Really Happening?
 
 * Only [16.2% of people respond to surveys (SurveySensum)](https://www.surveyssensum.com/)
@@ -20,6 +24,8 @@ Meanwhile, families are still getting the same old denial letters.
 * 83.8% of experiences go completely unmeasured
 
 But that doesn't stop companies from calling their surveys a success.
+
+
 
 ## What I See from the Front Lines
 As a nurse case manager working in catastrophic neuro rehab, I see the fallout more often than I should:
@@ -29,11 +35,15 @@ As a nurse case manager working in catastrophic neuro rehab, I see the fallout m
 * And the rep? They get a 5-star survey for being polite
 * I get 1 star for telling the truth.
 
+
+
 ## Here's the Part That Makes Me Go Hmmm
 A study in [JAMA](https://jamanetwork.com/) found that patients with the highest satisfaction scores had a 26% higher death rate and higher healthcare costs too.
 Why? Because they were told what they wanted to hear, not what they needed to know.
 And fast doesn't mean good.
 A [J.D. Power](https://www.jdpower.com/) study showed a big satisfaction boost when claims were closed fast. But you can be happy about how quickly you were denied and still be denied.
+
+
 
 ## So What Actually Matters?
 According to [SQM Group](https://www.sqmgroup.com/), the real metrics should be:
@@ -44,9 +54,13 @@ According to [SQM Group](https://www.sqmgroup.com/), the real metrics should be:
 
 That's what we should be measuring. Not how friendly someone sounded when they told you no.
 
+
+
 ## Here's Where I Land
 "I'll help you navigate the system. I just can't fix the system."
 At least not without rewriting what success actually means.
+
+
 
 ## Your Turn
 To my fellow healthcare workers: How do you deal with the survey nonsense?

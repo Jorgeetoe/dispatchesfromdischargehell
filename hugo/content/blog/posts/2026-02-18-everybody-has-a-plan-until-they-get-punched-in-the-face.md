@@ -17,6 +17,10 @@ related: ["/blog/posts/2026-02-18-everybody-has-a-plan-until-they-get-punched-in
             The daily rate at an inpatient rehab facility like ours runs **$3,500 to $5,000 per day**, and that doesn't include physician fees.[1] That's the punch. Most people blink. Some don't. But most do. And this is exactly why families need to understand the real costs before admission.
           
 
+
+
+
+<!--more-->
 ## Mr. Cool
 
             The husband arrived calm. Laid back. Mr. Cool.
@@ -67,6 +71,8 @@ related: ["/blog/posts/2026-02-18-everybody-has-a-plan-until-they-get-punched-in
 
             Until the new year hit.
           
+
+
 
 ## The Call
 
@@ -143,6 +149,8 @@ related: ["/blog/posts/2026-02-18-everybody-has-a-plan-until-they-get-punched-in
             Mr. Cool had done that math before he ever walked in the door. He'd just hoped he'd never have to write the check.
           
 
+
+
 ## The Aftermath
 
             Afterward, he was so thankful I could barely stand to listen to it.
@@ -159,6 +167,8 @@ related: ["/blog/posts/2026-02-18-everybody-has-a-plan-until-they-get-punched-in
 
             "That's just how it goes," I said, "until you present people with the bill. You always get a step back. Not always. I've worked with people who genuinely don't blink. But this guy did. Like most."
           
+
+
 
 ## What the Numbers Actually Mean
 
@@ -181,6 +191,8 @@ related: ["/blog/posts/2026-02-18-everybody-has-a-plan-until-they-get-punched-in
 
             Most families don't know that until I tell them. And by then, it's too late.
           
+
+
 
 ## The Plan and The Punch
 

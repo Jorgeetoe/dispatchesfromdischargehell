@@ -21,6 +21,10 @@ related: ["/blog/posts/2025-02-21-permission-to-rest/", "/blog/posts/2025-02-21-
             I've been in this field for over 20 years. I've sat across from hundreds of families in waiting rooms, in conference rooms, in hallways outside hospital rooms. And I can tell you: the guilt shows up before anyone earns it.
           
 
+
+
+
+<!--more-->
 ## What They Think My Job Is
 
             Most people think my job as a catastrophic discharge planner is to be the bad guy. The one who walks into the room with a clipboard and tells you your time is up. The one who points at a calendar and explains, carefully and diplomatically, that the insurance authorization runs out on Friday and we need to talk about next steps.
@@ -34,6 +38,8 @@ related: ["/blog/posts/2025-02-21-permission-to-rest/", "/blog/posts/2025-02-21-
 
             The side where the job is simply to give someone permission to rest. And families entering the system should understand what they're signing up for by reviewing [preadmission guidelines](/blog/posts/2025-03-16-preadmission-guidelines-vip-ticket-rehab-reality-show.html) before their loved one arrives.
           
+
+
 
 ## The Call
 
@@ -54,6 +60,8 @@ related: ["/blog/posts/2025-02-21-permission-to-rest/", "/blog/posts/2025-02-21-
 
             What I was doing, whether I called it that or not, was a clinical intervention with no billing code. Probably the most important thing I did that day.
           
+
+
 
 ## The Scaffold
 
@@ -78,6 +86,8 @@ related: ["/blog/posts/2025-02-21-permission-to-rest/", "/blog/posts/2025-02-21-
             Families sometimes need permission to leave the building and permission to stop refreshing the chart. Those are two separate things. They both matter.
           
 
+
+
 ## The Confidentiality Move
 
             One moment from that call has stayed with me.
@@ -98,6 +108,8 @@ related: ["/blog/posts/2025-02-21-permission-to-rest/", "/blog/posts/2025-02-21-
             That's not in the job description either.
           
 
+
+
 ## After the Call
 
             When it was over, I exhaled (the way you do after you've been holding something without realizing it) and said to no one in particular:
@@ -114,6 +126,8 @@ related: ["/blog/posts/2025-02-21-permission-to-rest/", "/blog/posts/2025-02-21-
 
             This is what I write about when I talk about [catastrophic case management](/blog/posts/2025-03-26-catastrophic-case-management-brutal-truths-from-the-front-lines.html): not the spreadsheets and authorizations, but the invisible work of holding families together when the system is designed to move them through and out. These dynamics are especially intense for families in specific patient populations, like those in [disorders of consciousness programs](/blog/posts/2026-02-15-what-doc-rehab-actually-does.html).
           
+
+
 
 ## What the System Measures
 

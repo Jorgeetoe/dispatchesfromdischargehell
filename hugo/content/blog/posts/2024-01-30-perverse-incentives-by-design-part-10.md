@@ -19,6 +19,10 @@ Health economists call this the **principal-agent problem**: when the person mak
 **The hospital** is the patient's advocate, except when census pressure makes the patient's extended stay a financial liability. **The insurance company** manages the patient's benefits, except when those benefits are managed by denying the care the patient needs. **The SNF** provides post-acute recovery, except when the patient's complexity makes them unprofitable.
 A **2018 study in Health Affairs** documented that post-acute care spending accounts for 73% of the variation in Medicare spending across regions, and that this variation is driven primarily by institutional incentives, not patient needs. The patients in high-spending regions aren't sicker. The systems around them just extract more.
 
+
+
+
+<!--more-->
 ## One Patient's Discharge Chain
 
 Let me walk you through one patient's discharge and show you every incentive at play.
@@ -38,6 +42,8 @@ Let me walk you through one patient's discharge and show you every incentive at 
           
 **The home health agency** gets the referral. Trach patient. Behavioral episodes. Remote zip code. The agency's incentive is to accept patients who can be efficiently served in geographic clusters. This patient is a 45-minute drive each direction for a 45-minute visit. The agency declines.
 Every single actor made a rational decision. The patient has nowhere to go.
+
+
 
 ## Misaligned Incentives
 The case manager and social worker are the only people in this chain whose incentives are aligned with the patient, because their job is literally to get the patient safely to the next setting. But they have no authority over any of the actors whose cooperation is required.

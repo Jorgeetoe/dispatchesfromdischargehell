@@ -24,6 +24,10 @@ related: ["/blog/posts/2024-11-04-the-other-woman/", "/blog/posts/2024-11-04-the
 > 
 The awkward family member is sometimes the only real discharge option you have.
 
+
+
+
+<!--more-->
 ## The System's Assumption
 
             Discharge planning runs on a model. Patient arrives. Family is notified. Primary caregiver is identified. That person is trained, educated, and eventually the patient goes home with them.
@@ -40,6 +44,8 @@ The awkward family member is sometimes the only real discharge option you have.
 
             I've learned to see it as information.
           
+
+
 
 ## Who Shows Up
 
@@ -70,6 +76,8 @@ The awkward family member is sometimes the only real discharge option you have.
             I'm not suggesting we ignore family dynamics or route around legal relationships. I'm saying: when the conventional plan is collapsing, look around the room. Sometimes the solution is standing in the corner looking uncomfortable.
           
 
+
+
 ## What the Wild Card Caregiver Has
 
             The person with something to prove is often the most reliable person in the building.
@@ -90,6 +98,8 @@ The awkward family member is sometimes the only real discharge option you have.
             The discharge planner's job is not to adjudicate the family's relational history. The discharge planner's job is to get the patient home safely.
           
 
+
+
 ## The Part Nobody Says Out Loud
 
             Here's what nobody says in the family meeting: I know this situation is complicated. I know there are people in this room who didn't know about each other until last Tuesday. I know the legal family is the legal family and the actual-care-situation may be a different configuration entirely.
@@ -103,6 +113,8 @@ The awkward family member is sometimes the only real discharge option you have.
 
             Sometimes that person was standing in the back of the room while everyone else was looking at the whiteboard.
           
+
+
 
 ## What I've Learned to Do
 

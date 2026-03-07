@@ -15,6 +15,10 @@ related: ["/blog/posts/2026-01-03-flex-for-me-not-for-thee/", "/blog/posts/2026-
             But ask them to bend. Suddenly there are rules.
           
 
+
+
+
+<!--more-->
 ## The Setup
 
             Out-of-town mom. Trach patient. Discharge target had already slipped from Sunday. By Wednesday, this caregiver had been living out of a hospital room for days, waiting for the green light to take her child home.
@@ -28,6 +32,8 @@ related: ["/blog/posts/2026-01-03-flex-for-me-not-for-thee/", "/blog/posts/2026-
 
             Wednesday afternoon, the bedside nurse calls me. The patient doesn't have a suction machine.
           
+
+
 
 ## What Actually Happened
 
@@ -43,6 +49,8 @@ related: ["/blog/posts/2026-01-03-flex-for-me-not-for-thee/", "/blog/posts/2026-
             So she said she had it. Because saying she didn't meant explaining why she didn't. This is the burden I've written about in [Permission to Rest](/blog/posts/2025-02-21-permission-to-rest.html): the invisible pressure families carry.
           
 
+
+
 ## The Fix (That Almost Worked)
 
             I called my vendor contact. He arranged payment. Problem solved. Except the training couldn't happen until Thursday morning.
@@ -53,6 +61,8 @@ related: ["/blog/posts/2026-01-03-flex-for-me-not-for-thee/", "/blog/posts/2026-
 
             One more night. That's all we needed.
           
+
+
 
 ## The Hotel
 
@@ -77,6 +87,8 @@ related: ["/blog/posts/2026-01-03-flex-for-me-not-for-thee/", "/blog/posts/2026-
             That's not a policy. That's a Catch-22 with a logo on it.
           
 
+
+
 ## The Runaround
 
             I called the liaison who runs the hotel program. She didn't want to tell me no, so she punted to the regional liaison.
@@ -96,6 +108,8 @@ related: ["/blog/posts/2026-01-03-flex-for-me-not-for-thee/", "/blog/posts/2026-
 
             Three layers of people who all had the authority to say yes. None of them wanted to own it.
           
+
+
 
 ## The Real Issue
 

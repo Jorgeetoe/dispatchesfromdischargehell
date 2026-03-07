@@ -34,12 +34,18 @@ This is the moment. The answer determines whether the family starts processing o
 The answer the system often gives is: *Let's see how the next few days go.*
 Kicking the can. Buying time. Making the conversation someone else's problem tomorrow.
 
+
+
+
+<!--more-->
 ## The Physician's Position
 The physician's reluctance isn't personal. It's structural.
 Saying "this patient may never recover meaningful function" opens a door that can't be closed. The family may request a second opinion. They may refuse discharge. They may escalate to administration. They may accuse the team of giving up. None of these responses are unreasonable from a family's perspective, but all of them create operational friction that the physician absorbs.
 So the physician hedges. "Every brain is different." "We've seen patients surprise us." "It's still early." These statements are technically true and functionally useless. They preserve the physician's relationship with the family while ensuring the hard conversation gets deferred.
 Deferred to whom?
 To social work and case management. Sometimes in a family meeting. Sometimes without the physician present.
+
+
 
 ## Timing Is Everything
 The families that get the truth early do better. Not because the truth is comforting — it isn't. But because it gives them time. Time to grieve the expected outcome while the patient is still receiving care. Time to research long-term options. Time to prepare emotionally for a discharge plan that involves a nursing facility instead of the front door of their house.

@@ -42,6 +42,10 @@ related: ["/blog/posts/2026-02-10-the-lion-and-the-kitten-moral-injury-in-the-co
             It's injury.
           
 
+
+
+
+<!--more-->
 ## What Moral Injury Actually Means
 
             Moral injury was originally used to describe combat veterans: soldiers who witnessed or participated in actions that violated their moral code, often under orders or institutional pressure.[1] The term migrated to healthcare around 2018, and COVID accelerated its visibility.
@@ -58,6 +62,8 @@ related: ["/blog/posts/2026-02-10-the-lion-and-the-kitten-moral-injury-in-the-co
 
             It comes from doing the job correctly, and watching what that does to people.
           
+
+
 
 ## The Conference Room
 
@@ -89,6 +95,8 @@ related: ["/blog/posts/2026-02-10-the-lion-and-the-kitten-moral-injury-in-the-co
             And my job is to make them know it too.
           
 
+
+
 ## The Counters
 
             When they finally pause, when they're tired, when the questions start repeating, I take my turn.
@@ -114,6 +122,8 @@ related: ["/blog/posts/2026-02-10-the-lion-and-the-kitten-moral-injury-in-the-co
 
             And I'm the one who did it.
           
+
+
 
 ## The Guilt
 
@@ -153,6 +163,8 @@ related: ["/blog/posts/2026-02-10-the-lion-and-the-kitten-moral-injury-in-the-co
             I would almost rather argue and be held at a different level of cruelty. Because sometimes that feeling, it's not a feeling of victory. It's a feeling of injury. Of disappointment in the system.
           
 
+
+
 ## What Nobody Tells You About This Job
 
             Case management or social work in catastrophic care is described as coordination. Care coordination. Discharge coordination. Benefit coordination.
@@ -176,6 +188,8 @@ related: ["/blog/posts/2026-02-10-the-lion-and-the-kitten-moral-injury-in-the-co
             I'm just the one holding the mirror.
           
 
+
+
 ## The Meeting Room Is Where It Happens
 
             In the brochure, it's called "family education" or "expectation management." Care conferences. Interdisciplinary team meetings. Discharge planning sessions.
@@ -198,6 +212,8 @@ related: ["/blog/posts/2026-02-10-the-lion-and-the-kitten-moral-injury-in-the-co
 
             There isn't.
           
+
+
 
 ## The Moral Injury Is That Succeeding Hurts
 

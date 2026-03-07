@@ -609,12 +609,12 @@
   /* --- Mobile Navigation Module --- */
   const MobileNav = {
     init() {
-      const hamburger = document.querySelector('.hamburger');
+      const navToggle = document.querySelector('.nav-toggle');
       const nav = document.querySelector('nav');
 
-      if (!hamburger || !nav) return;
+      if (!navToggle || !nav) return;
 
-      hamburger.addEventListener('click', () => {
+      navToggle.addEventListener('click', () => {
         nav.classList.toggle('hidden');
       });
 

@@ -230,7 +230,7 @@
       };
 
       postList.querySelectorAll('li').forEach(li => {
-        const categoryEl = li.querySelector('.category');
+        const categoryEl = li.querySelector('.category-tag');
         if (categoryEl) {
           const cat = categoryEl.textContent.toLowerCase().replace(/ /g, '-');
           if (counts[cat] !== undefined) counts[cat]++;
@@ -276,7 +276,7 @@
 
       postList.querySelectorAll('li').forEach(li => {
         const isMatch = filter === 'all' || (function() {
-          const categoryEl = li.querySelector('.category');
+          const categoryEl = li.querySelector('.category-tag');
           const categoryText = categoryEl ? categoryEl.textContent.toLowerCase().replace(/ /g, '-') : '';
           return categoryText === filter;
         })();

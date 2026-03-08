@@ -1,0 +1,7 @@
+[env.production]
+vars = { HUGO_VERSION = "0.157.0" }
+
+[env.production.build]
+command = "git submodule init && git submodule update && hugo --gc --minify"
+cwd = "hugo"
+root_dir = "hugo/public"

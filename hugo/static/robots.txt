@@ -1,8 +1,0 @@
-# Robots.txt for Dispatches from Discharge Hell
-# https://dispatchesfromdischargehell.com
-
-User-agent: *
-Allow: /
-
-# Sitemap location
-Sitemap: https://dispatchesfromdischargehell.com/sitemap.xml

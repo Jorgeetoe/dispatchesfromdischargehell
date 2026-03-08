@@ -2,6 +2,7 @@ baseURL = "https://dispatchesfromdischargehell.com/"
 languageCode = "en-us"
 title = "Dispatches from Discharge Hell"
 defaultContentLanguage = "en"
+theme = "blowfish"
 
 # Content handling
 removePathAccents = true
@@ -61,6 +62,14 @@ words_per_minute = 238
 author = "Jorge Arenivar"
 author_credentials = "BSN, RN, CCM, CRRN"
 description = "What actually happens when insurance runs out and the hospital needs your bed. 20+ years in catastrophic neurorehabilitation case management."
+
+# Blowfish theme config
+colourScheme = "light"
+showReadingTime = true
+showDate = true
+showSummary = true
+showTableOfContents = true
+showTaxonomyTag = true
 
 # Social links
 [params.social]

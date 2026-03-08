@@ -12,6 +12,8 @@ canonifyURLs = true
 # Output settings
 [outputs]
 home = ["HTML", "RSS"]
+page = ["HTML"]
+section = ["HTML", "RSS"]
 
 # Taxonomies
 [taxonomies]

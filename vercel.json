@@ -1,0 +1,29 @@
+{
+  "redirects": [
+    {
+      "source": "/about.html",
+      "destination": "/about/",
+      "permanent": true
+    },
+    {
+      "source": "/telos.html",
+      "destination": "/telos/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/index.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/posts/:date(\\d{4}-\\d{2}-\\d{2})-:slug(.*)\\.html",
+      "destination": "/blog/:date-:slug/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/:slug(.+)\\.html",
+      "destination": "/blog/:slug/",
+      "permanent": true
+    }
+  ]
+}

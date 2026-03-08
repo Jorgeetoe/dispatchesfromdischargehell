@@ -1,0 +1,92 @@
+---
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map(post => ({
+    params: { slug: post.slug },
+    props: { post }
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+
+const formattedDate = new Date(post.data.pubDate).toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric'
+});
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{post.data.title} - Dispatches from Discharge Hell</title>
+  <meta name="description" content={post.data.description}>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; color: #333; background: #fafafa; }
+    header { background: #2c3e50; color: white; padding: 2rem; text-align: center; }
+    header h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
+    nav { background: #34495e; padding: 1rem; text-align: center; }
+    nav a { color: white; text-decoration: none; margin: 0 1.5rem; font-weight: 500; }
+    nav a:hover { text-decoration: underline; }
+    main { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+    article { background: white; padding: 2rem; border-left: 4px solid #3498db; }
+    article h1 { margin-bottom: 0.5rem; }
+    .meta { color: #7f8c8d; font-size: 0.95rem; margin-bottom: 1.5rem; border-bottom: 1px solid #ecf0f1; padding-bottom: 1rem; }
+    .content { color: #444; }
+    .content h2 { margin-top: 1.5rem; margin-bottom: 0.5rem; }
+    .content p { margin-bottom: 1rem; }
+    .tags { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 1.5rem; }
+    .tag { background: #ecf0f1; color: #2c3e50; padding: 0.3rem 0.8rem; border-radius: 3px; font-size: 0.85rem; }
+    .nav-back { margin-bottom: 1rem; }
+    .nav-back a { color: #3498db; text-decoration: none; }
+    .nav-back a:hover { text-decoration: underline; }
+    footer { background: #34495e; color: white; text-align: center; padding: 2rem; margin-top: 3rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Dispatches from Discharge Hell</h1>
+  </header>
+
+  <nav>
+    <a href="/">Home</a>
+    <a href="/blog/">Blog</a>
+    <a href="/about/">About</a>
+    <a href="/telos/">Telos</a>
+  </nav>
+
+  <main>
+    <article>
+      <div class="nav-back">
+        <a href="/blog/">← Back to blog</a>
+      </div>
+
+      <h1>{post.data.title}</h1>
+
+      <div class="meta">
+        <div>{formattedDate}</div>
+      </div>
+
+      <div class="content">
+        <Content />
+      </div>
+
+      <div class="tags">
+        {post.data.tags.map(tag => (
+          <span class="tag">{tag}</span>
+        ))}
+      </div>
+    </article>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Dispatches from Discharge Hell. All rights reserved.</p>
+  </footer>
+</body>
+</html>

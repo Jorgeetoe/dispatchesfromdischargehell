@@ -1,0 +1,11 @@
+{
+  "env": {
+    "production": {
+      "build": {
+        "command": "git submodule init && git submodule update && hugo --gc --minify",
+        "cwd": "hugo",
+        "root_dir": "hugo/public"
+      }
+    }
+  }
+}

@@ -59,9 +59,12 @@ weight = 3
 [params]
 readingTime = true
 words_per_minute = 238
-author = "Jorge Arenivar"
-author_credentials = "BSN, RN, CCM, CRRN"
 description = "What actually happens when insurance runs out and the hospital needs your bed. 20+ years in catastrophic neurorehabilitation case management."
+
+# Author (Blowfish format)
+[params.author]
+name = "Jorge Arenivar"
+link = "/about/"
 
 # Blowfish theme config
 colourScheme = "light"

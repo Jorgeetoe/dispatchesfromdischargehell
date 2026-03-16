@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <style>
+      .avatar-bg { fill: #1e1e1e; }
+      .avatar-text { font-family: Arial, sans-serif; font-size: 80px; font-weight: bold; fill: #ffffff; text-anchor: middle; dominant-baseline: central; }
+    </style>
+  </defs>
+  <circle class="avatar-bg" cx="100" cy="100" r="100"/>
+  <circle cx="100" cy="100" r="100" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <text class="avatar-text" x="100" y="100">JA</text>
+</svg>

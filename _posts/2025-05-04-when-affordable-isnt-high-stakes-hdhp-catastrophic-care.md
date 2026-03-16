@@ -5,6 +5,10 @@ date: 2025-05-04
 categories: [the-machine]
 excerpt: "High-Deductible Health Plans are like playing healthcare on 'hard mode.' What was 'high' five years ago is now the industry standard."
 description: "High-Deductible Health Plans are like playing healthcare on 'hard mode.' What was 'high' five years ago is now the industry standard."
+notes:
+  - "The main trauma-debt paper cited here is [Scott et al. (2022)](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2798436), which found higher rates and amounts of medical debt in collections and roughly doubled bankruptcy filings after traumatic injury among commercially insured working-age adults."
+  - "For current employer-plan deductible and out-of-pocket ranges, see the [2025 KFF Employer Health Benefits Survey](https://www.kff.org/ehbs), especially the HDHP section on deductibles and out-of-pocket maximums."
+  - "For IRS HDHP thresholds, see [IRS Publication 969](https://www.irs.gov/publications/p969), which lists the minimum deductibles and maximum out-of-pocket amounts for HSA-qualified high-deductible health plans."
 redirect_from:
   - /blog/posts/2025-05-04-when-affordable-isnt-high-stakes-hdhp-catastrophic-care.html
 ---
@@ -70,10 +74,6 @@ I'm naturally curious, so I spend my time decoding the jargon and uncovering the
 What's your experience with HDHPs? Are you seeing the same upward trend in deductibles and out-of-pocket costs?
 
 Stay tuned for my next post, where we'll explore two strategies for better financial protection: eliminating cost-sharing for conditions unlikely to be overused—like traumatic injuries requiring hospitalization—and establishing income-based deductibles.
-
-## Reference
-
-Scott JW, Scott KW, Moniz M, Carlton EF, Tipirneni R, Becker N. Financial Outcomes After Traumatic Injury Among Working-Age US Adults With Commercial Insurance. JAMA Health Forum. 2022;3(11):e224105. doi:10.1001/jamahealthforum.2022.4105
 
 ---
 

@@ -6,6 +6,13 @@ categories: [dispatches]
 excerpt: "Over 25 posts, I walk through the recurring patterns that unfold across hundreds of catastrophic discharges. These aren't isolated incidents. They're structural. Built into the system. Repeated so predictably I can predict the trajectory from the preadmission assessment."
 description: "Over 25 posts, I walk through the recurring patterns that unfold across hundreds of catastrophic discharges. These aren't isolated incidents. They're structural"
 image: /assets/img/social/dispatches-series.png
+notes:
+  - "For post-discharge unmet needs after brain injury rehabilitation, see [Laurie et al. (2022)](https://pubmed.ncbi.nlm.nih.gov/36111685/), which found rehabilitation needs were the most commonly reported unmet need at 3 to 6 months."
+  - "For a large European multicenter view, see [Andelic et al. (2021)](https://pubmed.ncbi.nlm.nih.gov/33802336/), based on the CENTER-TBI study, which examined unmet rehabilitation needs after traumatic brain injury across Europe."
+  - "For caregiver burden after trauma discharge, see [Tabata-Kelly et al. (2023)](https://pubmed.ncbi.nlm.nih.gov/37405733/), which found substantial postdischarge caregiver burden and linked lower preparedness to worse burden."
+  - "For the health-literacy framing, see the [CDC's health literacy talking points](https://www.cdc.gov/health-literacy/php/about/tell-others.html), which say nearly nine out of ten adults struggle to understand and use health information when it is complex."
+  - "For the ICU family-decision context, see [Cox et al. (2019)](https://pubmed.ncbi.nlm.nih.gov/31896447/), which describes how family stakeholders reported emotional overwhelm early in an ICU stay while a surrogate-decision support tool was being developed."
+  - "For family involvement during inpatient TBI rehabilitation, see [Bogner et al. (2019)](https://pubmed.ncbi.nlm.nih.gov/31077646/), which found that family attendance at 10% or more of treatment time was associated with better community participation and some cognitive outcomes after discharge."
 redirect_from:
   - /blog/posts/2024-01-01-dispatches-from-discharge-hell-25-part-series.html
 ---

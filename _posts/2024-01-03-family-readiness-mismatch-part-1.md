@@ -5,6 +5,10 @@ date: 2024-01-03
 categories: [dispatches]
 excerpt: "The mother expected four months. We had three weeks. What the system calls inpatient rehab and what families expect are measured in completely different currencies."
 description: "The mother expected four months. We had three weeks. What the system calls inpatient rehab and what families expect are measured in completely different currenc"
+notes:
+  - "For the burden-readiness link in TBI caregiving, see [Liu et al. (2024)](https://pubmed.ncbi.nlm.nih.gov/38395354/), which found caregiver readiness was directly affected by caregiver burden and also mediated through illness uncertainty and psychological resilience."
+  - "For the Australian post-discharge unmet-needs data, see [Laurie et al. (2022)](https://pubmed.ncbi.nlm.nih.gov/36111685/), which reported unmet rehabilitation needs in 60% of participants after brain injury rehabilitation."
+  - "For inpatient family needs that clinicians may miss, see [Kreutzer et al. (2018)](https://pubmed.ncbi.nlm.nih.gov/29601345/), which examined family needs on an inpatient brain injury rehabilitation unit and emphasized structured assessment so needs are not overlooked."
 redirect_from:
   - /blog/posts/2024-01-03-family-readiness-mismatch-part-1.html
 ---

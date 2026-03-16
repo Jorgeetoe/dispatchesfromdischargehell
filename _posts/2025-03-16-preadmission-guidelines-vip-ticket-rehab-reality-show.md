@@ -3,11 +3,16 @@ layout: post
 title: "Preadmission Guidelines: Your VIP Ticket to the Rehab Reality Show"
 date: 2025-03-16
 categories: [dispatches]
+description: >-
+  Planning for discharge before your loved one even arrives for inpatient
+  neurorehabilitation is like preparing for a hurricane during a sunny day
+  – seemingly pre
 excerpt: "Planning for discharge before your loved one even arrives for inpatient neurorehabilitation is like preparing for a hurricane during a sunny day – seemingly premature, but absolutely essential."
-description: "Planning for discharge before your loved one even arrives for inpatient neurorehabilitation is like preparing for a hurricane during a sunny day – seemingly pre"
+toc: true
 redirect_from:
   - /blog/posts/2025-03-16-preadmission-guidelines-vip-ticket-rehab-reality-show.html
 ---
+
 # Preadmission Guidelines: Your VIP Ticket to the Rehab Reality Show
 
 Let's be honest (again): planning for discharge before your loved one even arrives for inpatient neurorehabilitation is like preparing for a hurricane during a sunny day – seemingly premature, but absolutely essential. Welcome to the wild world of neurorehabilitation, where successful endings begin at the starting line.

@@ -3,12 +3,16 @@ layout: post
 title: "What DOC Rehab Actually Does (And Why It Doesn't Look Like the ICU)"
 date: 2026-02-15
 categories: [field-notes]
+description: >-
+  Your loved one is going to a top-ranked rehab program. Here's why it
+  won't look like aggressive treatment — and why that's not a failure.
 excerpt: "Your loved one is going to a top-ranked rehab program. Here's why it won't look like aggressive treatment — and why that's not a failure."
-description: "Your loved one is going to a top-ranked rehab program. Here's why it won't look like aggressive treatment — and why that's not a failure."
 image: /assets/img/social/doc-rehab.png
+toc: true
 redirect_from:
   - /blog/posts/2026-02-15-what-doc-rehab-actually-does.html
 ---
+
 # What DOC Rehab Actually Does (And Why It Doesn't Look Like the ICU)
 
 Your loved one survived. They made it through the ICU, the neuro unit, maybe a step-down. Now they're being transferred to a disorders of consciousness program at a top rehabilitation hospital.

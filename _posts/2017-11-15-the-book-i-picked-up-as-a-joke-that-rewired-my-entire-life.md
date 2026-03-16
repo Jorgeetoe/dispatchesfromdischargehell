@@ -3,11 +3,15 @@ layout: post
 title: "The Book I Picked Up as a Joke That Rewired My Entire Life"
 date: 2017-11-15
 categories: [persona]
+description: >-
+  How To Read A Book by Mortimer J. Adler taught me that confusion isn't
+  failure – it's opportunity.
 excerpt: "How To Read A Book by Mortimer J. Adler taught me that confusion isn't failure – it's opportunity."
-description: "How To Read A Book by Mortimer J. Adler taught me that confusion isn't failure – it's opportunity."
+toc: true
 redirect_from:
   - /blog/posts/2017-11-15-the-book-i-picked-up-as-a-joke-that-rewired-my-entire-life.html
 ---
+
 # The Book I Picked Up as a Joke That Rewired My Entire Life
 
 I came across a post this morning that asked a simple question: Share a book that changed your life forever.

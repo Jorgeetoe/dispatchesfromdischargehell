@@ -3,11 +3,16 @@ layout: post
 title: "Moneyball for Medical Necessity"
 date: 2025-09-03
 categories: [dispatches]
+description: >-
+  Officially, the peer-to-peer (P2P) call is a clinical review.
+  Unofficially, it's sabermetrics for suffering. We don't change the facts
+  of a brain injury; we cha
 excerpt: "Officially, the peer-to-peer (P2P) call is a clinical review. Unofficially, it's sabermetrics for suffering. We don't change the facts of a brain injury; we change the odds that someone on a recorded line hears those facts as 'approve' instead of 'deny.'"
-description: "Officially, the peer-to-peer (P2P) call is a clinical review. Unofficially, it's sabermetrics for suffering. We don't change the facts of a brain injury; we cha"
+toc: true
 redirect_from:
   - /blog/posts/2025-09-03-moneyball-for-medical-necessity.html
 ---
+
 # Moneyball for Medical Necessity
 
 ## Inside the Quiet Art of Social-Engineering the P2P

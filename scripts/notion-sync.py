@@ -346,6 +346,14 @@ def preserved_front_matter_blocks(path: Path | None) -> list[str]:
     return preserved
 
 
+def existing_body(path: Path | None) -> str:
+    if not path or not path.exists():
+        return ""
+
+    _front_matter, body = split_front_matter(path.read_text())
+    return body.strip()
+
+
 def detect_extension(url: str, content_type: str | None) -> str:
     suffix = Path(urlparse(url).path).suffix
     if suffix:
@@ -596,6 +604,11 @@ def sync_page(
 
     blocks = client.list_block_children(page_id)
     body = render_blocks(blocks, client, slug, dry_run=dry_run, warnings=warnings)
+    if not body.strip():
+        fallback_body = existing_body(source_path_for_preserve)
+        if fallback_body:
+            body = fallback_body + "\n"
+            warnings.append(f"{page_id}: preserved existing body because Notion page content is empty")
     front_matter = build_front_matter(
         title=title,
         date=publication_date,

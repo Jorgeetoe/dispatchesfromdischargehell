@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+description: "About Jorge Arenivar, a registered nurse and case manager writing about catastrophic neurorehabilitation discharge, insurance, and family-facing healthcare mechanics."
 ---
 
 ## About Jorge Arenivar

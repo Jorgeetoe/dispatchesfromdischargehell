@@ -5,6 +5,7 @@ date: 2024-01-01
 categories: [dispatches]
 excerpt: "Over 25 posts, I walk through the recurring patterns that unfold across hundreds of catastrophic discharges. These aren't isolated incidents. They're structural. Built into the system. Repeated so predictably I can predict the trajectory from the preadmission assessment."
 description: "Over 25 posts, I walk through the recurring patterns that unfold across hundreds of catastrophic discharges. These aren't isolated incidents. They're structural"
+image: /assets/img/social/dispatches-series.png
 redirect_from:
   - /blog/posts/2024-01-01-dispatches-from-discharge-hell-25-part-series.html
 ---

@@ -4,6 +4,7 @@ title: Start Here
 icon: fas fa-book
 order: 0
 permalink: /start-here/
+description: "Start here if you're trying to understand rehab discharge timelines, insurance denials, and catastrophic care after a life-changing injury."
 ---
 
 If someone you love is in a hospital bed right now and you don't understand why insurance is telling you they have to leave — this site was built for you.

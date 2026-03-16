@@ -4,7 +4,8 @@ title: "Rehabilitation vs. Catastrophic Care: The Metric Mismatch Nobody Told Yo
 date: 2026-02-15
 categories: [the-machine]
 excerpt: "Insurance applies hip-fracture metrics to brain injuries, then uses 'plateau' to cut coverage when neuroplasticity doesn't fit the algorithm."
-description: "Insurance applies hip-fracture metrics to brain injuries, then uses 'plateau' to cut coverage when neuroplasticity doesn't fit the algorithm."
+description: "Insurance applies hip-fracture metrics to brain injuries, then uses ‘plateau’ to cut coverage when neuroplasticity doesn’t fit the algorithm."
+image: /assets/img/social/rehab-vs-catastrophic-care.png
 redirect_from:
   - /blog/posts/2026-02-15-rehabilitation-vs-catastrophic-care.html
 ---

@@ -5,6 +5,7 @@ date: 2026-02-15
 categories: [field-notes]
 excerpt: "Your loved one is going to a top-ranked rehab program. Here's why it won't look like aggressive treatment — and why that's not a failure."
 description: "Your loved one is going to a top-ranked rehab program. Here's why it won't look like aggressive treatment — and why that's not a failure."
+image: /assets/img/social/doc-rehab.png
 redirect_from:
   - /blog/posts/2026-02-15-what-doc-rehab-actually-does.html
 ---

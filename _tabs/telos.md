@@ -4,6 +4,7 @@ title: Telos
 icon: fas fa-compass
 order: 2
 permalink: /telos/
+description: "The purpose of this site: documenting how inpatient rehabilitation discharge actually works in America."
 ---
 
 ## What Is Telos?

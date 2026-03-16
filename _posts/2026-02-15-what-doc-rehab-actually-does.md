@@ -7,7 +7,6 @@ description: >-
   Your loved one is going to a top-ranked rehab program. Here's why it
   won't look like aggressive treatment — and why that's not a failure.
 excerpt: "Your loved one is going to a top-ranked rehab program. Here's why it won't look like aggressive treatment — and why that's not a failure."
-image: /assets/img/social/doc-rehab.png
 toc: true
 redirect_from:
   - /blog/posts/2026-02-15-what-doc-rehab-actually-does.html

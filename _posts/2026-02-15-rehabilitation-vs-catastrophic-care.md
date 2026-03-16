@@ -8,7 +8,6 @@ description: >-
   ‘plateau’ to cut coverage when neuroplasticity doesn’t fit the
   algorithm.
 excerpt: "Insurance applies hip-fracture metrics to brain injuries, then uses 'plateau' to cut coverage when neuroplasticity doesn't fit the algorithm."
-image: /assets/img/social/rehab-vs-catastrophic-care.png
 toc: true
 redirect_from:
   - /blog/posts/2026-02-15-rehabilitation-vs-catastrophic-care.html

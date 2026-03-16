@@ -8,7 +8,6 @@ description: >-
   series — what it is, who it's for, what's coming, and why a catastrophic
   discharge…
 excerpt: "Over 25 posts, I walk through the recurring patterns that unfold across hundreds of catastrophic discharges. These aren't isolated incidents. They're structural. Built into the system. Repeated so predictably I can predict the trajectory from the preadmission assessment."
-image: /assets/img/social/dispatches-series.png
 notes:
   - "For post-discharge unmet needs after brain injury rehabilitation, see [Laurie et al. (2022)](https://pubmed.ncbi.nlm.nih.gov/36111685/), which found rehabilitation needs were the most commonly reported unmet need at 3 to 6 months."
   - "For a large European multicenter view, see [Andelic et al. (2021)](https://pubmed.ncbi.nlm.nih.gov/33802336/), based on the CENTER-TBI study, which examined unmet rehabilitation needs after traumatic brain injury across Europe."

@@ -5,6 +5,7 @@ source "https://rubygems.org"
 ruby ">= 3.1"
 
 gem "jekyll-theme-chirpy", "~> 7.5"
+gem "jekyll-redirect-from", "~> 0.16"
 
 gem "html-proofer", "~> 5.0", group: :test
 

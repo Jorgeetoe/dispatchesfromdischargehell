@@ -45,21 +45,33 @@ jobs:
           ruby-version: 3.4
           bundler-cache: true
 
+      - name: Select Jekyll config
+        id: jekyll_config
+        run: |
+          if [[ -f CNAME ]]; then
+            echo "files=_config.yml,_config.production.yml" >> "$GITHUB_OUTPUT"
+            echo "build_dir=_site" >> "$GITHUB_OUTPUT"
+          else
+            echo "files=_config.yml" >> "$GITHUB_OUTPUT"
+            echo "build_dir=_site${{ steps.pages.outputs.base_path }}" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Build site
-        run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
+        run: bundle exec jekyll b -d "${{ steps.jekyll_config.outputs.build_dir }}" -c "${{ steps.jekyll_config.outputs.files }}"
         env:
           JEKYLL_ENV: "production"
 
       - name: Test site
         run: |
-          bundle exec htmlproofer _site \
+          bundle exec htmlproofer "${{ steps.jekyll_config.outputs.build_dir }}" \
+            --root-dir _site \
             \-\-disable-external \
             \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: "_site${{ steps.pages.outputs.base_path }}"
+          path: "${{ steps.jekyll_config.outputs.build_dir }}"
 
   deploy:
     environment:

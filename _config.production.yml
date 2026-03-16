@@ -1,0 +1,9 @@
+# Production-domain overrides.
+#
+# Use with:
+#   bundle exec jekyll build -c "_config.yml,_config.production.yml"
+#   bash tools/test.sh -c "_config.yml,_config.production.yml"
+#   bash tools/run.sh -c "_config.yml,_config.production.yml"
+
+url: "https://dispatchesfromdischargehell.com"
+baseurl: ""

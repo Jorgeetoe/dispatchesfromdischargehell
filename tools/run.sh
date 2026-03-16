@@ -5,6 +5,7 @@
 prod=false
 command="bundle exec jekyll s -l"
 host="127.0.0.1"
+config="_config.yml"
 
 help() {
   echo "Usage:"
@@ -12,6 +13,7 @@ help() {
   echo "   bash /path/to/run [options]"
   echo
   echo "Options:"
+  echo '     -c, --config "<config_a[,config_b[...]]>"  Specify config file(s).'
   echo "     -H, --host [HOST]    Host to bind to."
   echo "     -p, --production     Run Jekyll in 'production' mode."
   echo "     -h, --help           Print this help information."
@@ -20,6 +22,10 @@ help() {
 while (($#)); do
   opt="$1"
   case $opt in
+  -c | --config)
+    config="$2"
+    shift 2
+    ;;
   -H | --host)
     host="$2"
     shift 2
@@ -40,7 +46,7 @@ while (($#)); do
   esac
 done
 
-command="$command -H $host"
+command="$command -H $host -c $config"
 
 if $prod; then
   command="JEKYLL_ENV=production $command"

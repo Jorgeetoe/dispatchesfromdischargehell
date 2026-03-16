@@ -29,25 +29,20 @@ help() {
 }
 
 read_baseurl() {
-  if [[ $_config == *","* ]]; then
-    # multiple config
-    IFS=","
-    read -ra config_array <<<"$_config"
+  local config_files=()
+  IFS="," read -r -a config_files <<<"$_config"
 
-    # reverse loop the config files
-    for ((i = ${#config_array[@]} - 1; i >= 0; i--)); do
-      _tmp_baseurl="$(grep '^baseurl:' "${config_array[i]}" | sed "s/.*: *//;s/['\"]//g;s/#.*//")"
-
-      if [[ -n $_tmp_baseurl ]]; then
-        _baseurl="$_tmp_baseurl"
-        break
-      fi
-    done
-
-  else
-    # single config
-    _baseurl="$(grep '^baseurl:' "$_config" | sed "s/.*: *//;s/['\"]//g;s/#.*//")"
-  fi
+  _baseurl="$(
+    ruby -e '
+      require "yaml"
+      merged = {}
+      ARGV.each do |path|
+        data = YAML.load_file(path)
+        merged.merge!(data) if data.is_a?(Hash)
+      end
+      print merged.fetch("baseurl", "").to_s
+    ' "${config_files[@]}"
+  )"
 }
 
 main() {

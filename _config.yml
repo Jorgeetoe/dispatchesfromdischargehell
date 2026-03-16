@@ -22,8 +22,9 @@ description: >-
   What actually happens when insurance runs out and the hospital needs your bed.
   20+ years in catastrophic neurorehabilitation case management.
 
-# Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
+# Staging hostname for the GitHub Pages project site.
+# When you're ready to launch the custom domain, layer `_config.production.yml`
+# on top of this file instead of editing values ad hoc.
 url: "https://jorgeetoe.github.io"
 
 twitter:
@@ -149,7 +150,8 @@ pwa:
 
 paginate: 10
 
-# The base URL of your site
+# The base URL for the GitHub Pages project site.
+# The production domain override clears this to an empty string.
 baseurl: "/dispatchesfromdischargehell"
 
 plugins:

@@ -82,7 +82,7 @@ I said it because I've seen Roxanne before. Different names, different injuries,
 
 The word "dynamics" was doing a lot of work in that exhale. It was shorthand for everything: the guilt, the grief, the vigil, the invisible weight of being the person holding a family together when the family's center has collapsed.
 
-This is what I write about when I talk about [catastrophic case management](/dispatchesfromdischargehell/blog/posts/2025-03-26-catastrophic-case-management-brutal-truths-from-the-front-lines/): not the spreadsheets and authorizations, but the invisible work of holding families together when the system is designed to move them through and out.
+This is what I write about when I talk about [catastrophic case management]({{ '/blog/posts/2025-03-26-catastrophic-case-management-brutal-truths-from-the-front-lines/' | relative_url }}): not the spreadsheets and authorizations, but the invisible work of holding families together when the system is designed to move them through and out.
 
 ## What the System Measures
 

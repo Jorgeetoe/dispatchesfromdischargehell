@@ -9,4 +9,4 @@ sitemap: false
 
 Tags aren't in use on this site yet.
 
-Browse the [categories](/dispatchesfromdischargehell/categories/) or [archives](/dispatchesfromdischargehell/archives/) to explore the posts instead.
+Browse the [categories]({{ '/categories/' | relative_url }}) or [archives]({{ '/archives/' | relative_url }}) to explore the posts instead.

@@ -57,7 +57,7 @@ I'm a registered nurse with 20+ years in catastrophic neurorehabilitation case m
 
 I write like someone who's been in that room. Not from theory. From practice.
 
-[**Read more about me →**](/dispatchesfromdischargehell/about/)
+[**Read more about me →**]({{ '/about/' | relative_url }})
 
 ## How This Works
 
@@ -77,6 +77,6 @@ What it is: Mechanics. Real. Documented by someone who lives inside the system.
 
 ## Your Next Step
 
-[Browse all posts](/dispatchesfromdischargehell/archives/) or [explore categories](/dispatchesfromdischargehell/categories/).
+[Browse all posts]({{ '/archives/' | relative_url }}) or [explore categories]({{ '/categories/' | relative_url }}).
 
 You're not alone in this. And the system's behavior is not your fault.

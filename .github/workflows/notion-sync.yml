@@ -1,0 +1,39 @@
+name: Sync from Notion
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync published content from Notion
+        run: python scripts/notion-sync.py
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+
+      - name: Commit synced changes
+        run: |
+          git config user.name "notion-sync"
+          git config user.email "sync@dispatchesfromdischargehell.com"
+          git add .
+          git diff --cached --quiet || git commit -m "Sync from Notion $(date +%Y-%m-%d)"
+
+      - name: Push
+        run: git push

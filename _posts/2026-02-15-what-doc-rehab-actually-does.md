@@ -7,6 +7,10 @@ description: >-
   Your loved one is going to a top-ranked rehab program. Here's why it
   won't look like aggressive treatment — and why that's not a failure.
 excerpt: "Your loved one is going to a top-ranked rehab program. Here's why it won't look like aggressive treatment — and why that's not a failure."
+notes:
+  - "For a practical overview of why standardized behavioral assessment matters in disorders of consciousness, see [Bodien et al. (2022)](https://pubmed.ncbi.nlm.nih.gov/36100225/), which summarizes the role of systematic assessment in diagnosis, prognosis, and treatment planning."
+  - "For an interdisciplinary view of DOC assessment confounds and care planning, see [Murtaugh and Rosenbaum (2023)](https://pubmed.ncbi.nlm.nih.gov/37502093/), which explains why motor, sensory, medical, and environmental factors can mask consciousness and complicate bedside judgment."
+  - "For evidence that CRS-R-guided neurorehabilitation work is feasible even in critically ill DOC patients, see [Claassen et al. (2024)](https://pubmed.ncbi.nlm.nih.gov/38912722/), which found repeated CRS-R assessment was safe and associated with better prediction of rehab disposition."
 toc: true
 redirect_from:
   - /blog/posts/2026-02-15-what-doc-rehab-actually-does.html

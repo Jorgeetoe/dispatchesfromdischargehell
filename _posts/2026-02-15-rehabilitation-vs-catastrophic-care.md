@@ -8,6 +8,10 @@ description: >-
   ‘plateau’ to cut coverage when neuroplasticity doesn’t fit the
   algorithm.
 excerpt: "Insurance applies hip-fracture metrics to brain injuries, then uses 'plateau' to cut coverage when neuroplasticity doesn't fit the algorithm."
+notes:
+  - "For severe TBI rehab trajectories measured with FIM, see [Whitlock and Hamilton (1995)](https://pubmed.ncbi.nlm.nih.gov/8540785/), which found wide variability at discharge, substantial later gains for some patients, and a sizeable subgroup with no measurable FIM change during rehab despite severe injury."
+  - "For more recent inpatient rehab outcome data in older adults with TBI, see [Pretz et al. (2021)](https://pubmed.ncbi.nlm.nih.gov/34018693/), which found that many Medicare beneficiaries improved their motor FIM scores during IRF care and that baseline function and comorbidity matter more than acute injury severity alone."
+  - "For the longer and more variable recovery arc in disorders of consciousness, see [Whyte et al. (2019)](https://pubmed.ncbi.nlm.nih.gov/31886461/), which reported continued behavioral improvement over time and meaningful transitions occurring well beyond the early windows families are usually told to expect."
 toc: true
 redirect_from:
   - /blog/posts/2026-02-15-rehabilitation-vs-catastrophic-care.html

@@ -7,21 +7,33 @@ description: "About Jorge Arenivar, a registered nurse and case manager writing 
 
 ## About Jorge Arenivar
 
-I'm a registered nurse (BSN, RN) with 20+ years of experience in catastrophic neurorehabilitation case management. For two decades, I've spent my days between families drowning in medical complexity and institutions calculating bed occupancy. That gap — between what families need and what systems actually provide — is the entire subject of this site.
+I've sat in roughly 10,000 family conferences. That's not a metaphor. Over 20 years of inpatient rehabilitation case management, that's about what it comes to — 10,000 conversations where a family learns that the plan they expected isn't the plan they're getting.
 
-### What I Do
+I'm a registered nurse (BSN, RN) specializing in catastrophic neurorehabilitation. That means the patients I work with have had strokes, traumatic brain injuries, spinal cord injuries — the kind of diagnoses where "recovery" is measured in months and "discharge planning" starts before the patient can sit up.
 
-My job is case management in inpatient rehabilitation facilities. That means:
+### What the Job Actually Looks Like
 
-- Reviewing admission paperwork at 11 PM when a family still doesn't understand why insurance is asking medical questions
-- Negotiating with payers who've never met the patient but control the discharge date
-- Training families on wound care at 7 AM because the home health isn't scheduled until week two
-- Explaining why the patient medically needs three more weeks of therapy that insurance won't authorize
-- De-escalating family conferences where clinical needs collide with insurance timelines
-- Solving placement puzzles when the patient needs a home they don't have and resources that don't exist
+On paper, my job is case management. In practice, it's this:
 
-### Why This Site
+- Solving placement puzzles at 6 PM on a Friday when someone needs to go somewhere on Monday and nowhere will take them
+- De-escalating family conferences where the doctor says "three more weeks" and the insurance authorization expires tomorrow
+- Explaining to a spouse why the insurance company they've paid premiums to for 15 years won't cover the facility they need
+- Training a family member on wound care at 7 AM because home health won't start for ten days
+- Negotiating with a payer case manager who has never met the patient but controls the discharge date
+- Reviewing paperwork at 11 PM because a family still doesn't understand what they signed
 
-Insurance bureaucracy is broken. But it's not random. It follows rules — just not the rules anyone's ever explained. Families don't know those rules. Clinicians are too busy following them to document them. And the system counts on that knowledge gap.
+There's no version of this work that looks like a textbook. Every day is triage — clinical needs against insurance timelines, family readiness against bed availability, what the patient needs against what the system will authorize.
 
-This site is an attempt to close it. Not with emotion. Not with a reform manifesto. With the actual mechanics of how discharge works, told by someone who lives inside it.
+### Why Dark Humor
+
+People ask why the writing here leans into sarcasm. The answer is precision.
+
+When a system produces outcomes that are absurd — when a patient who can't stand is discharged to a home with no wheelchair ramp, when a "denial" arrives for care that's already been delivered — the accurate tone isn't clinical detachment. The accurate tone is the one that captures how it actually feels to be in that room. Dark humor isn't a coping mechanism in this work. It's a diagnostic tool. It names what formal language obscures.
+
+### Why This Matters to Me
+
+I didn't start writing about discharge mechanics because I thought it would be interesting. I started because after 20 years, I realized that the knowledge gap between families and institutions is not accidental. The system runs on it. Families who don't know the rules can't fight the rules. And the people who do know the rules — case managers, social workers, discharge planners — are too busy working inside the system to document how it actually operates.
+
+This site is my attempt to change that. Not by campaigning for reform. By writing it down.
+
+[Read why this publication exists]({{ '/telos/' | relative_url }}).

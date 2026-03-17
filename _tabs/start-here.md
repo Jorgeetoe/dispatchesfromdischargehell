@@ -12,71 +12,59 @@ If someone you love is in a hospital bed right now and you don't understand why 
 ## Who This Is For
 
 You're probably:
-- A family member googling "why is insurance denying rehab"
-- Someone who just heard the phrase "skilled nursing facility" and realized you don't know what that means
-- A person sitting in a hospital hallway at 11 PM, reading discharge paperwork, and wondering how this is legal
 - Someone who was told "three weeks" by the doctor and "five days" by the insurance company
+- A person sitting in a hospital hallway at 11 PM, reading discharge paperwork, and wondering how this is legal
+- Someone who just heard the phrase "skilled nursing facility" and realized you don't know what that means
+- A family member googling "why is insurance denying rehab"
 
 This site is written by someone who's been in these conversations for 20 years. Not as a family member. As the person in the room whose job is to explain to both sides why they're talking past each other.
 
+## If You Read Five Things
+
+These five posts will tell you what this site is, how it thinks, and whether it's for you:
+
+1. [**Dispatches from Discharge Hell: A 25-Part Series**]({% post_url 2024-01-01-dispatches-from-discharge-hell-25-part-series %}) — The frame. Why these patterns exist and why they keep repeating.
+2. [**The Family Readiness Mismatch (Part 1)**]({% post_url 2024-01-03-family-readiness-mismatch-part-1 %}) — The first dispatch. The hospital says "ready." The family says "for what?"
+3. [**She Knew and She Didn't Say Anything**]({% post_url 2026-02-26-she-knew-and-she-didnt-say-anything-when-payer-case-managers-weaponize-silence %}) — When silence is the strategy. How the system says "no" without ever saying "no."
+4. [**Catastrophic Case Management: Brutal Truths**]({% post_url 2025-03-26-catastrophic-case-management-brutal-truths-from-the-front-lines %}) — What this work actually looks like. No polish, no abstraction.
+5. [**The Permission to Rest**]({% post_url 2025-02-21-permission-to-rest %}) — The human side. What 20 years inside this system does to the person solving the problems.
+
 ## What You'll Find Here
 
-### **Dispatches** — When the System Is So Broken You Have to Laugh
+### [Dispatches]({{ '/categories/dispatches/' | relative_url }}) — When the System Is So Broken You Have to Laugh
 
-These are the dark humor pieces. Stories where the only sane response is sarcasm because crying isn't getting anyone discharged. They're about the absurdities that are actually the core mechanisms of the system.
+Dark humor about system absurdity. Stories where the only sane response is sarcasm, because crying isn't getting anyone discharged. These aren't jokes — they're the actual mechanics, told the way they deserve to be told.
 
-### **Field Notes** — What to Ask, What to Watch For, What They Won't Tell You
+→ Try [**Funny How That Works (Part 7)**]({% post_url 2024-01-21-funny-how-that-works-part-7 %}) or [**She Knew and She Didn't Say Anything**]({% post_url 2026-02-26-she-knew-and-she-didnt-say-anything-when-payer-case-managers-weaponize-silence %})
 
-This is practical guidance. What questions to ask at team conferences. What documentation matters. What a "denial" actually means when it shows up on your phone. These are survival guides, not inspiration.
+### [Field Notes]({{ '/categories/field-notes/' | relative_url }}) — What to Ask, What to Watch For, What They Won't Tell You
 
-### **The Machine** — How Insurance Actually Decides Who Goes Where and When
+Practical guidance. What questions to ask at team conferences. What documentation matters. What a "denial" actually means when it shows up on your phone. Survival guides, not inspiration.
 
-This is the mechanics piece. How payers calculate "appropriate level of care." Why discharge timelines don't match clinical recovery. What benefits your insurance actually purchased (and what they cut from the fine print). Understanding this section means understanding why things happen the way they do.
+→ Try [**When 'Affordable' Isn't**]({% post_url 2025-05-04-when-affordable-isnt-high-stakes-hdhp-catastrophic-care %}) or [**What DOC Rehab Actually Does**]({% post_url 2026-02-15-what-doc-rehab-actually-does %})
 
-### **When It Breaks** — Pattern Stories from 20 Years
+### [The Machine]({{ '/categories/the-machine/' | relative_url }}) — How Insurance Actually Decides Who Goes Where and When
 
-De-identified stories from real cases. The medically stable patient with nowhere to go. The family that can't afford the copay. The patient who recovered faster than insurance predicted. These are the scenarios that repeat. Knowing them means you're not alone.
+How payers calculate "appropriate level of care." Why discharge timelines don't match clinical recovery. What benefits your insurance actually purchased — and what they cut from the fine print. Understanding this means understanding why.
 
-### **Persona** — Off-Duty Reflections
+→ Try [**The Family Readiness Mismatch**]({% post_url 2024-01-03-family-readiness-mismatch-part-1 %}) or [**Rehabilitation vs. Catastrophic Care**]({% post_url 2026-02-15-rehabilitation-vs-catastrophic-care %})
+
+### [Persona]({{ '/categories/persona/' | relative_url }}) — Off-Duty Reflections
 
 The human side. What it looks like from the inside to spend 20 years solving problems that shouldn't exist in the first place.
 
-## Where to Start
-
-**If you have 10 minutes:** Start with the post archives. They explain the entire system using dark humor and specific examples.
-
-**If you're facing a discharge right now:** Read the **Field Notes** category. These are written specifically for people in crisis.
-
-**If you want to understand *why* things work this way:** Start with **The Machine** category. Knowing the incentives explains the behavior.
-
-**If you want to know you're not alone:** Read **When It Breaks**. Every pattern you see has played out a thousand times before.
-
-## Who Writes This
-
-I'm a registered nurse with 20+ years in catastrophic neurorehabilitation case management. That means I've sat in 10,000 family conferences. I've translated insurance language for families. I've negotiated with payers. I've solved placement puzzles at 6 PM on a Friday when someone needs to go somewhere on Monday.
-
-I write like someone who's been in that room. Not from theory. From practice.
-
-[**Read more about me →**]({{ '/about/' | relative_url }})
+→ Try [**Dispatches from Discharge Hell: A 25-Part Series**]({% post_url 2024-01-01-dispatches-from-discharge-hell-25-part-series %}) or [**The Book I Picked Up as a Joke That Rewired My Entire Life**]({% post_url 2017-11-15-the-book-i-picked-up-as-a-joke-that-rewired-my-entire-life %})
 
 ## How This Works
 
-Posts come out on a regular schedule. They're written to stand alone — you don't need to read them in order. But they connect. A dispatch might reference how the machine works. A field note might point to a pattern story.
+Posts stand alone — you don't need to read them in order. But they connect. A dispatch might reference how the machine works. A field note might point to a pattern story. The [archives]({{ '/archives/' | relative_url }}) have everything.
 
-You can subscribe to get new posts in your inbox. Or you can browse by category anytime.
+This site is not medical advice, legal counsel, or a facility recommendation guide. It's documentation — mechanics written down by someone who lives inside the system.
 
-## What This Is Not
-
-This is not:
-- Medical advice (don't use it to diagnose or treat)
-- Legal advice (talk to a lawyer about your specific rights)
-- A guide to picking a specific facility (I can't recommend for your situation)
-- A reform manifesto (I'm documenting, not campaigning)
-
-What it is: Mechanics. Real. Documented by someone who lives inside the system.
+I'm Jorge Arenivar — a registered nurse with 20+ years in catastrophic neurorehabilitation case management. I've sat in 10,000 family conferences, translated insurance language for families, and negotiated discharge plans at 6 PM on a Friday when someone needs to go somewhere on Monday. [More about me]({{ '/about/' | relative_url }}). [Why this publication exists]({{ '/telos/' | relative_url }}).
 
 ## Your Next Step
 
-[Browse all posts]({{ '/archives/' | relative_url }}) or [explore categories]({{ '/categories/' | relative_url }}).
+Pick one of the five posts above. Or browse the [categories]({{ '/categories/' | relative_url }}).
 
 You're not alone in this. And the system's behavior is not your fault.

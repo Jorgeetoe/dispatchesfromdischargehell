@@ -8,11 +8,11 @@ description: >-
   for patients it never correctly identified — then uses that failure as
   justification…
 excerpt: "23.5% of patients admitted to leading DOC programs arrive with the wrong diagnosis. It's not a rounding error. It's a system that uses clinical impressions instead of standardized assessment, then denies care based on the wrong label."
-keywords: "disorders of consciousness misdiagnosis, DOC misdiagnosis rate, brain injury misdiagnosis, vegetative state misdiagnosis, insurance denial brain injury"
 notes:
   - "For the classic standardized-assessment versus clinical-consensus finding, see [Schnakers et al. (2009)](https://pubmed.ncbi.nlm.nih.gov/19622138/), which found that 41% of patients diagnosed clinically as vegetative state were reclassified as minimally conscious state using the CRS-R."
   - "For misdiagnosis rates using repeated CRS-R assessments in prolonged DOC, see [Wang et al. (2020)](https://pubmed.ncbi.nlm.nih.gov/32919461/), which found substantial diagnostic error when clinical consensus was compared with repeated structured assessment."
   - "For why relying on broad bedside shorthand is risky, see [Bodien et al. (2021)](https://pubmed.ncbi.nlm.nih.gov/34605668/), which showed that Glasgow Coma Scale total scores do not accurately map onto disorders-of-consciousness diagnoses."
+keywords: "disorders of consciousness misdiagnosis, DOC misdiagnosis rate, brain injury misdiagnosis, vegetative state misdiagnosis, insurance denial brain injury"
 toc: true
 redirect_from:
   - /blog/posts/2025-12-12-the-misdiagnosis-tax.html

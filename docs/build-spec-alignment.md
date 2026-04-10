@@ -7,7 +7,7 @@ This file maps the Mar 15, 2026 build spec against the current repo so future wo
 - Jekyll on GitHub Pages is already in place.
 - The repo is already based on Chirpy and deploys through GitHub Actions.
 - Posts are already in `_posts/`.
-- Static onboarding/about pages already exist in `_tabs/`.
+- Static onboarding/about page source files already exist in `_tabs/`; their public routes are `/start-here/`, `/about/`, and `/telos/`.
 - Legacy post redirects are already working through `jekyll-redirect-from`.
 - SEO basics are already improved: canonical URLs, sitemap, feed, social preview images.
 - The site now has reusable post `Notes` support.

@@ -2,11 +2,12 @@
 layout: post
 title: "The Lion and the Kitten: Moral Injury in the Conference Room"
 date: 2026-02-19
-categories: [the-machine]
+categories: [when-it-breaks]
 description: >-
-  Names the moral injury specific to catastrophic discharge planning: the
-  guilt of doing the job correctly. Families enter the conference room as
-  lions —…
+  A family enters roaring for more time and leaves understanding the
+  system cannot give it. This is moral injury on the case-manager side of
+  discharge.
+excerpt: "A family enters the conference room roaring for more time and leaves understanding the system cannot give it. This is what moral injury looks like on the case-manager side of catastrophic discharge planning."
 keywords: "moral injury case management, healthcare worker burnout, discharge planning emotional toll"
 toc: true
 redirect_from:
@@ -166,15 +167,3 @@ Not that I'm failing.
 That I'm succeeding.
 
 I think I'm up for a good argument.
-
----
-
-**Word count:** 1,422
-
-**Tone balance:** 70% reflective / 30% critical
-
-**Elements present:** Brutally Honest, Insider Perspective, Cynical Pragmatism, Compassionate Undercurrent, Balanced Perspective
-
-**Devices deployed:** The lion-to-kitten metaphor (structural throughline), Euphemism Decoder ("care coordination" = breaking people down), Human Cost Counter (the moment the shoulders drop), Conference room as the site of injury
-
-**Refinement needed:** Consider adding one clinical example (de-identified composite) to make the conference room scene more concrete. May benefit from a closing reframe that names what would actually prevent this injury (systemic change, not individual resilience training).

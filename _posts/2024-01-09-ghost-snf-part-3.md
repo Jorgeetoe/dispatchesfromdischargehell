@@ -7,6 +7,9 @@ description: >-
   The Ghost SNF — facilities verbally accept complex patients and then
   reverse after 'reviewing the case.' The pattern of post-acute placement
   collapse.
+series: dispatches-from-discharge-hell
+series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
+series_part: 3
 excerpt: "We called six skilled nursing facilities on a Tuesday. Two said yes on the phone. By end of day, both had determined the patient was 'not appropriate for their level of care.' A verbal acceptance is worth nothing until the patient is physically in the building."
 keywords: "SNF refusal complex patients, skilled nursing facility ghosting, post acute placement barriers, neuro patient SNF placement"
 toc: true

@@ -7,6 +7,9 @@ description: >-
   The Difficult Conversation Industrial Complex — everyone agrees someone
   should talk to the family. Nobody agrees it's their job. The hardest
   conversations get…
+series: dispatches-from-discharge-hell
+series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
+series_part: 9
 excerpt: "The patient has been here 18 days. Disorder of consciousness. Minimal response. No reliable communication. The family still asks every morning: 'When will he wake up?' Everyone has written the truth. Nobody has said it out loud. This is the Difficult Conversation Industrial Complex: a system where everyone agrees the family deserves honest information, and no one's job description makes them the person who delivers it."
 keywords: "goals of care conversation healthcare, difficult conversations discharge planning, family meeting hospital communication, palliative care communication training"
 toc: true

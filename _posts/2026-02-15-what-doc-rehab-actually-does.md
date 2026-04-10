@@ -11,6 +11,7 @@ notes:
   - "For a practical overview of why standardized behavioral assessment matters in disorders of consciousness, see [Bodien et al. (2022)](https://pubmed.ncbi.nlm.nih.gov/36100225/), which summarizes the role of systematic assessment in diagnosis, prognosis, and treatment planning."
   - "For an interdisciplinary view of DOC assessment confounds and care planning, see [Murtaugh and Rosenbaum (2023)](https://pubmed.ncbi.nlm.nih.gov/37502093/), which explains why motor, sensory, medical, and environmental factors can mask consciousness and complicate bedside judgment."
   - "For evidence that CRS-R-guided neurorehabilitation work is feasible even in critically ill DOC patients, see [Claassen et al. (2024)](https://pubmed.ncbi.nlm.nih.gov/38912722/), which found repeated CRS-R assessment was safe and associated with better prediction of rehab disposition."
+keywords: "disorders of consciousness rehab, DOC rehab program, what DOC rehab does, brain injury rehab expectations, family guide DOC rehab"
 toc: true
 redirect_from:
   - /blog/posts/2026-02-15-what-doc-rehab-actually-does.html
@@ -21,6 +22,8 @@ redirect_from:
 Your loved one survived. They made it through the ICU, the neuro unit, maybe a step-down. Now they're being transferred to a disorders of consciousness program at a top rehabilitation hospital.
 
 You're expecting the next phase of aggressive treatment. What you're about to experience will feel like something else entirely.
+
+If you're new to Dispatches, read this alongside [Rehabilitation vs. Catastrophic Care]({% post_url 2026-02-15-rehabilitation-vs-catastrophic-care %}) and [When 'Affordable' Isn't]({% post_url 2025-05-04-when-affordable-isnt-high-stakes-hdhp-catastrophic-care %}). One explains the metric mismatch. The other explains what the financial version of that mismatch costs.
 
 ## The Expectation Gap
 

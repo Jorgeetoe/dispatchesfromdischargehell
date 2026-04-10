@@ -7,6 +7,9 @@ description: >-
   The DME Delivery Black Hole — equipment ordered weeks before discharge
   operates on its own timeline. The case manager is accountable for delays
   they cannot…
+series: dispatches-from-discharge-hell
+series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
+series_part: 4
 excerpt: "We ordered the hospital bed two weeks ago. Week three, discharge day: the bed is ready and delivered, but the pressure-relief cushion is delayed due to sizing. Without the ROHO cushion, discharge means pressure injury risk. Those three days cost more than the cushion, the lift, and the hospital bed combined."
 keywords: "DME delivery delays discharge, durable medical equipment discharge planning, wheelchair delivery hospital delay, equipment authorization discharge"
 toc: true

@@ -4,9 +4,9 @@ title: "When 'Affordable' Isn't: The High Stakes of High-Deductible Health Plans
 date: 2025-05-04
 categories: [field-notes]
 description: >-
-  Data-driven analysis of how high-deductible health plans devastate
-  catastrophic injury patients. JAMA Health Forum research shows
-  commercially insured trauma…
+  Why high-deductible health plans turn catastrophic injury into immediate
+  financial toxicity, even for families who thought they had good
+  insurance.
 excerpt: "High-Deductible Health Plans are like playing healthcare on 'hard mode.' What was 'high' five years ago is now the industry standard."
 notes:
   - "The main trauma-debt paper cited here is [Scott et al. (2022)](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2798436), which found higher rates and amounts of medical debt in collections and roughly doubled bankruptcy filings after traumatic injury among commercially insured working-age adults."

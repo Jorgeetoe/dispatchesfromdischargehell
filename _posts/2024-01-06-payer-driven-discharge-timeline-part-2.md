@@ -7,6 +7,9 @@ description: >-
   The Payer-Driven Discharge Timeline — insurance sets the date based on
   financial benchmarks, not clinical reality. The CMG clock and what
   'plateaued' really…
+series: dispatches-from-discharge-hell
+series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
+series_part: 2
 excerpt: "Day 22. The patient can't swallow. Can't transfer independently. Can't tell you their own name. Day 23. Insurance wants to know why we haven't discharged."
 keywords: "insurance discharge timeline, CMG case mix group, insurance denial rehab, payer driven discharge catastrophic care"
 toc: true

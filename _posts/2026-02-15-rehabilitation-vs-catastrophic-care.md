@@ -12,6 +12,7 @@ notes:
   - "For severe TBI rehab trajectories measured with FIM, see [Whitlock and Hamilton (1995)](https://pubmed.ncbi.nlm.nih.gov/8540785/), which found wide variability at discharge, substantial later gains for some patients, and a sizeable subgroup with no measurable FIM change during rehab despite severe injury."
   - "For more recent inpatient rehab outcome data in older adults with TBI, see [Pretz et al. (2021)](https://pubmed.ncbi.nlm.nih.gov/34018693/), which found that many Medicare beneficiaries improved their motor FIM scores during IRF care and that baseline function and comorbidity matter more than acute injury severity alone."
   - "For the longer and more variable recovery arc in disorders of consciousness, see [Whyte et al. (2019)](https://pubmed.ncbi.nlm.nih.gov/31886461/), which reported continued behavioral improvement over time and meaningful transitions occurring well beyond the early windows families are usually told to expect."
+keywords: "catastrophic care vs rehabilitation, inpatient rehab medical necessity, severe TBI rehab insurance, plateau rehab denial, disorders of consciousness rehab timeline"
 toc: true
 redirect_from:
   - /blog/posts/2026-02-15-rehabilitation-vs-catastrophic-care.html
@@ -28,6 +29,8 @@ But that's not what we do. Not for the patients I see.
 What we're actually doing is **catastrophic care**. And the difference between those two things isn't semantic. It's the difference between what a family expects and what actually happens — and it's the gap where trust goes to die.
 
 Insurance companies know the difference. Facilities know the difference. They just don't want *you* to know it.
+
+If you're starting here, pair this with the [series introduction]({% post_url 2024-01-01-dispatches-from-discharge-hell-25-part-series %}), [Part 1: The Family Readiness Mismatch]({% post_url 2024-01-03-family-readiness-mismatch-part-1 %}), and [What DOC Rehab Actually Does]({% post_url 2026-02-15-what-doc-rehab-actually-does %}). They describe the family shock, the care model, and the coverage math from three angles of the same problem.
 
 ## What Rehabilitation Actually Looks Like
 

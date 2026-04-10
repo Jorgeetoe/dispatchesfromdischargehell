@@ -4,9 +4,12 @@ title: "Dispatches from Discharge Hell, Part 1: The Family Readiness Mismatch"
 date: 2025-01-06
 categories: [the-machine]
 description: >-
-  Series opener. The Family Readiness Mismatch — families arrive expecting
-  months, the case manager has weeks. Introduces the Catastrophic Care
-  Reframe and the…
+  Families arrive expecting months. The case manager has weeks. Part 1
+  introduces the Family Readiness Mismatch and the catastrophic-care
+  reframe beneath it.
+series: dispatches-from-discharge-hell
+series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
+series_part: 1
 excerpt: "The mother expected four months. We had three weeks. What the system calls inpatient rehab and what families expect are measured in completely different currencies."
 notes:
   - "For the burden-readiness link in TBI caregiving, see [Liu et al. (2024)](https://pubmed.ncbi.nlm.nih.gov/38395354/), which found caregiver readiness was directly affected by caregiver burden and also mediated through illness uncertainty and psychological resilience."

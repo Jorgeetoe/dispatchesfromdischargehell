@@ -4,9 +4,11 @@ title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody 
 date: 2025-01-01
 categories: [persona]
 description: >-
-  Series introduction. Frames the 25-part Dispatches from Discharge Hell
-  series — what it is, who it's for, what's coming, and why a catastrophic
-  discharge…
+  Series introduction to Dispatches from Discharge Hell: who it's for,
+  what catastrophic discharge planning looks like, and the reframe
+  families need first.
+series: dispatches-from-discharge-hell
+series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
 excerpt: "Over 25 posts, I walk through the recurring patterns that unfold across hundreds of catastrophic discharges. These aren't isolated incidents. They're structural. Built into the system. Repeated so predictably I can predict the trajectory from the preadmission assessment."
 notes:
   - "For post-discharge unmet needs after brain injury rehabilitation, see [Laurie et al. (2022)](https://pubmed.ncbi.nlm.nih.gov/36111685/), which found rehabilitation needs were the most commonly reported unmet need at 3 to 6 months."

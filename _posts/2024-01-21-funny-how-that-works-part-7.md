@@ -7,6 +7,9 @@ description: >-
   The Friday Afternoon Denial — payers use timing as a weapon. Denials
   arrive when offices are closing and appeals windows shrink. The pattern
   behind the timing.
+series: dispatches-from-discharge-hell
+series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
+series_part: 7
 excerpt: "4:47 PM on a Friday. Our phone buzzes. Denial of continued stay. Effective immediately. The attending physician left at 4:00. The utilization review office closes at 5:00. The appeal deadline is 72 hours. If you're counting, that burns through the entire weekend. Funny how that works."
 keywords: "Friday afternoon insurance denial, strategic denial timing healthcare, insurance denial tactics, weekend discharge planning"
 toc: true

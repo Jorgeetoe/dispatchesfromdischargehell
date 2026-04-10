@@ -2,11 +2,11 @@
 layout: post
 title: "She Knew and She Didn't Say Anything: When Payer Case Managers Weaponize Silence"
 date: 2026-02-26
-categories: [dispatches]
+categories: [when-it-breaks]
 description: >-
-  A payer case manager calls to 'help' — asks about the discharge plan,
-  learns the wife is planning on SNF placement, and says nothing about the
-  patient having…
+  A payer case manager knew the wife was planning for SNF and said nothing
+  about the missing SNF benefit. No denial letter. Just silence.
+excerpt: "A payer case manager knew the wife was building a skilled-nursing plan the policy would never cover and stayed silent anyway. No denial letter. Just trust weaponized by omission."
 keywords: "insurance case manager withholding information, payer case manager not helping, SNF benefits denial, performative case management, insurance negligence by omission, healthcare information asymmetry"
 toc: true
 redirect_from:

@@ -4,10 +4,11 @@ title: "Moneyball for Medical Necessity"
 date: 2025-09-03
 categories: [dispatches]
 description: >-
-  Officially, the peer-to-peer (P2P) call is a clinical review.
-  Unofficially, it's sabermetrics for suffering. We don't change the facts
-  of a brain injury; we cha
+  Peer-to-peer calls are pattern recognition under pressure: framing
+  catastrophic cases so reviewers hear medical necessity instead of a
+  denial script.
 excerpt: "Officially, the peer-to-peer (P2P) call is a clinical review. Unofficially, it's sabermetrics for suffering. We don't change the facts of a brain injury; we change the odds that someone on a recorded line hears those facts as 'approve' instead of 'deny.'"
+keywords: "peer to peer review strategy, medical necessity p2p, insurance denial tactics rehab, catastrophic care authorization, utilization review psychology"
 toc: true
 redirect_from:
   - /blog/posts/2025-09-03-moneyball-for-medical-necessity.html

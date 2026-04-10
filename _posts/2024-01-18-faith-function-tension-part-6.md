@@ -7,6 +7,9 @@ description: >-
   The Faith-Function Tension — when a family's spiritual framework
   conflicts with the medical timeline and clinical options. Houston's
   diversity makes this a…
+series: dispatches-from-discharge-hell
+series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
+series_part: 6
 excerpt: "The family said God would heal their father. The medical team would not provide a clear prognosis and the insurance medical director said his brain injury was incompatible with meaningful recovery. Both of these things were true to the people who said them. And we were the ones in the middle, trying to build a discharge plan that honored both."
 keywords: "faith medical decisions, religion discharge planning, family faith vs medical reality, cultural competency healthcare discharge"
 toc: true

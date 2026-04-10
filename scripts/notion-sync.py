@@ -42,6 +42,14 @@ CATEGORY_PRIORITY = [
     ("Personal Reflection", "persona"),
 ]
 
+PUBLIC_SITE_CATEGORIES = {
+    "dispatches",
+    "field-notes",
+    "the-machine",
+    "when-it-breaks",
+    "persona",
+}
+
 
 class NotionSyncError(RuntimeError):
     """Raised for fatal sync issues."""
@@ -264,13 +272,51 @@ def get_publication_date(properties: dict[str, Any]) -> str:
     return start[:10]
 
 
-def map_category(properties: dict[str, Any]) -> str:
+def multi_select_names(prop: dict[str, Any]) -> set[str]:
+    return {option.get("name") for option in prop.get("multi_select", []) if option.get("name")}
+
+
+def get_public_site_category(properties: dict[str, Any]) -> str:
+    prop = extract_property(properties, "Public Site Category")
+    select_value = prop.get("select") or {}
+    name = (select_value.get("name") or "").strip()
+    if not name:
+        return ""
+    if name not in PUBLIC_SITE_CATEGORIES:
+        raise NotionSyncError(f"Invalid Public Site Category: {name}")
+    return name
+
+
+def is_website_post(properties: dict[str, Any]) -> bool:
+    prop = properties.get("Target Platform")
+    if not prop or prop.get("type") != "multi_select":
+        return True
+
+    platforms = multi_select_names(prop)
+    return not platforms or "Website" in platforms
+
+
+def map_category(properties: dict[str, Any], page_id: str, warnings: list[str]) -> str:
+    public_site_category = get_public_site_category(properties)
+    if public_site_category:
+        return public_site_category
+
     prop = extract_property(properties, "Content Category")
-    names = {option.get("name") for option in prop.get("multi_select", [])}
+    names = multi_select_names(prop)
     for notion_name, site_name in CATEGORY_PRIORITY:
         if notion_name in names:
-            return site_name
-    return "dispatches"
+            inferred_category = site_name
+            break
+    else:
+        inferred_category = "dispatches"
+
+    if is_website_post(properties):
+        warnings.append(
+            f"{page_id}: published website post missing Public Site Category; "
+            f"falling back to inferred category {inferred_category}"
+        )
+
+    return inferred_category
 
 
 MANAGED_FRONT_MATTER_KEYS = {
@@ -586,7 +632,6 @@ def sync_page(
     page_id = page["id"]
     title = get_title(properties)
     publication_date = get_publication_date(properties)
-    category = map_category(properties)
     summary = get_summary(properties)
     description = truncate_description(summary or title)
     keywords = get_keywords(properties)
@@ -597,6 +642,7 @@ def sync_page(
     output_path = POSTS_DIR / filename
     redirect_from = f"/blog/posts/{filename_stem}.html"
     warnings: list[str] = []
+    category = map_category(properties, page_id, warnings)
 
     previous_path = Path(state[page_id]) if page_id in state else None
     source_path_for_preserve = output_path if output_path.exists() else previous_path

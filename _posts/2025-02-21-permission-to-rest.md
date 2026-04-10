@@ -5,9 +5,10 @@ date: 2026-02-21
 categories: [the-machine]
 description: >-
   A case manager gives an exhausted mother permission to step away from
-  the bedside during a catastrophic injury hospitalization. Reveals the
-  invisible clinical…
+  the bedside and builds the trust infrastructure that makes rest
+  possible.
 excerpt: "Caregiver guilt is different. It arrives before anyone earns it. A mother at the bedside, conditioned by catastrophic care, experiences stepping away as moral equivalent to abandonment. Here's what I learned about building trust infrastructure so families can actually rest."
+keywords: "caregiver guilt catastrophic injury, caregiver rest hospital, family burnout catastrophic care, case manager emotional support, permission to rest caregiver"
 toc: true
 redirect_from:
   - /blog/posts/2025-02-21-permission-to-rest.html

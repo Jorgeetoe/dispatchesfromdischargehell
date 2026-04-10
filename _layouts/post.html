@@ -135,6 +135,89 @@ script_includes:
         </ol>
       </section>
     {% endif %}
+
+    {% if page.series %}
+      {% assign series_posts = site.posts | where: "series", page.series %}
+      {% assign series_parts = series_posts | where_exp: "post", "post.series_part" | sort: "series_part" %}
+      {% assign series_intro = series_posts | where_exp: "post", "post.series_part == nil" | first %}
+      {% assign published_count = series_parts | size %}
+
+      {% if published_count > 0 %}
+        {% assign first_part = series_parts | first %}
+        {% assign is_series_intro = false %}
+        {% if series_intro and page.url == series_intro.url %}
+          {% assign is_series_intro = true %}
+        {% endif %}
+
+        {% assign prev_post = nil %}
+        {% assign next_post = nil %}
+
+        {% if page.series_part %}
+          {% for post in series_parts %}
+            {% if post.url == page.url %}
+              {% if forloop.first %}
+                {% assign prev_post = series_intro %}
+              {% else %}
+                {% assign prev_index = forloop.index0 | minus: 1 %}
+                {% assign prev_post = series_parts[prev_index] %}
+              {% endif %}
+
+              {% unless forloop.last %}
+                {% assign next_index = forloop.index0 | plus: 1 %}
+                {% assign next_post = series_parts[next_index] %}
+              {% endunless %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+
+        <section class="series-nav-card mt-5">
+          <div class="series-nav-header">
+            <span class="series-nav-label">Series Navigation</span>
+            <h2>{{ page.series_title | default: page.series | replace: "-", " " }}</h2>
+          </div>
+
+          {% if is_series_intro %}
+            <p class="series-nav-copy text-muted mb-3">
+              {{ published_count }} published parts so far.
+            </p>
+
+            {% if first_part %}
+              <a class="series-nav-primary" href="{{ first_part.url | relative_url }}">
+                Start with Part 1
+              </a>
+            {% endif %}
+          {% elsif page.series_part %}
+            <p class="series-nav-copy text-muted mb-3">
+              Part {{ page.series_part }} of {{ published_count }} published.
+            </p>
+
+            <div class="series-nav-links">
+              {% if series_intro %}
+                <a class="series-nav-link" href="{{ series_intro.url | relative_url }}">
+                  <span class="series-nav-link-label">Series Intro</span>
+                  <span class="series-nav-link-title">{{ series_intro.title }}</span>
+                </a>
+              {% endif %}
+
+              {% if prev_post %}
+                <a class="series-nav-link" href="{{ prev_post.url | relative_url }}">
+                  <span class="series-nav-link-label">Previous</span>
+                  <span class="series-nav-link-title">{{ prev_post.title }}</span>
+                </a>
+              {% endif %}
+
+              {% if next_post %}
+                <a class="series-nav-link" href="{{ next_post.url | relative_url }}">
+                  <span class="series-nav-link-label">Next</span>
+                  <span class="series-nav-link-title">{{ next_post.title }}</span>
+                </a>
+              {% endif %}
+            </div>
+          {% endif %}
+        </section>
+      {% endif %}
+    {% endif %}
   </div>
 
   <div class="post-tail-wrapper text-muted">

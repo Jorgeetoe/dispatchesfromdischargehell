@@ -4,9 +4,13 @@ title: "Dispatches from Discharge Hell, Part 12: Not Our Problem Anymore"
 date: 2025-06-09
 categories: [dispatches]
 description: >-
-  The Hot Potato Protocol — the patient who doesn't fit any department's
-  scope gets transferred between them. Each department's discharge
-  criteria are met, but…
+  The Hot Potato Protocol: a patient who fits no department cleanly gets
+  transferred from unit to unit while rehab days burn and no one owns the
+  whole problem.
+excerpt: "A patient who fits no department cleanly gets transferred from unit to unit while authorized rehab days burn and no one department owns the whole problem."
+series: dispatches-from-discharge-hell
+series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
+series_part: 12
 keywords: "hospital patient transfer between departments, hot potato patient healthcare, patient dumping departments, healthcare silos patient transfer"
 toc: true
 redirect_from:

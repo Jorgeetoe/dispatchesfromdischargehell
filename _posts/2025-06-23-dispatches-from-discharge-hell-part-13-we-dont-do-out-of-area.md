@@ -4,9 +4,13 @@ title: "Dispatches from Discharge Hell, Part 13: We Don't Do Out-of-Area"
 date: 2025-06-23
 categories: [field-notes]
 description: >-
-  The Out-of-Area Care Burden — Houston is a destination hospital.
-  Patients arrive from across the state and region. Discharge planning
-  into an unfamiliar zip…
+  The Out-of-Area Care Burden: destination-hospital patients go home to
+  zip codes with thinner networks, fewer vendors, and weaker post-acute
+  support.
+excerpt: "Destination-hospital patients go home to zip codes with thinner networks, fewer vendors, and almost none of the post-acute infrastructure that made the admission possible."
+series: dispatches-from-discharge-hell
+series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
+series_part: 13
 keywords: "out of area hospital discharge, long distance discharge planning, destination hospital discharge, geographic barriers discharge planning"
 toc: true
 redirect_from:

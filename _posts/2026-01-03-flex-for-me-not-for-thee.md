@@ -2,12 +2,13 @@
 layout: post
 title: "Flex for Me, Not for Thee"
 date: 2026-02-21
-categories: [dispatches]
+categories: [when-it-breaks]
 description: >-
-  The marketing team recruits catastrophic cases and expects clinical
-  staff to bend every rule to make discharges work — but when the case
-  manager asks them to…
+  Clinical staff are expected to solve every discharge mess creatively,
+  until they ask administration to bend one policy for the caregiver the
+  system stranded.
 excerpt: "Clinical staff are expected to be infinitely flexible, creative, and solution-oriented. But ask administration to bend a policy for a caregiver caught in a system-created mess? Suddenly there are rules, chains of command, and nobody willing to own a decision."
+keywords: "caregiver hotel program discharge, out of town family discharge planning, hospital policy catch-22, catastrophic care discharge delays"
 toc: true
 redirect_from:
   - /blog/posts/2026-01-03-flex-for-me-not-for-thee.html

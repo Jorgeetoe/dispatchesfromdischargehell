@@ -7,6 +7,9 @@ description: >-
   The Home Health Illusion — families expect continuity of hospital-level
   care. Reality: twice a week for 45 minutes. For catastrophic neuro
   patients, home…
+series: dispatches-from-discharge-hell
+series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
+series_part: 5
 excerpt: "The family heard 'home health' and exhaled. Finally, a plan that sounded like help. It isn't. Here's what home health actually looks like: a nurse twice a week for 45 minutes. Between those visits, the family is alone 23 hours a day. That gap is the single biggest source of post-discharge frustration in catastrophic care."
 keywords: "home health catastrophic care, home health after rehab discharge, home health inadequate neuro patients, post discharge home health reality"
 toc: true

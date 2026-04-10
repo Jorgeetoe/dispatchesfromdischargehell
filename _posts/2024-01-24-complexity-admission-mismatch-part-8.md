@@ -7,6 +7,9 @@ description: >-
   The Complexity-Admission Mismatch — the hospital's reputation attracts
   the hardest cases, but its financial model rewards throughput. When
   census pressure…
+series: dispatches-from-discharge-hell
+series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
+series_part: 8
 excerpt: "We take the cases nobody else will. The spreadsheet says we need to turn beds over in 21 days. Both statements are true. Neither one acknowledges the other. A top-tier rehabilitation hospital builds its reputation on complexity. But the financial model that keeps the hospital operational is built on throughput. The catastrophic patient who arrives in a coma and has no viable discharge destination is a financial drag on the model."
 keywords: "hospital census pressure admissions, complexity admission mismatch rehab, hospital bed turnover pressure, case mix complexity healthcare"
 toc: true

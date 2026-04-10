@@ -2,11 +2,12 @@
 layout: post
 title: "The Other Woman Had a Ramp"
 date: 2026-02-21
-categories: [dispatches]
+categories: [when-it-breaks]
 description: >-
-  When family structure gets messy — a lover surfaces, multiple partners
-  emerge, estranged relatives show up — the system treats it as a
-  complication.…
+  When catastrophic injury blows up the official family story, the awkward
+  person in the corner is sometimes the only discharge plan that can work.
+excerpt: "When catastrophic injury blows up the official family story, the awkward person in the corner is sometimes the only discharge plan that can actually work."
+keywords: "complex family discharge planning, nontraditional caregiver hospital discharge, catastrophic care family dynamics, caregiver wild card discharge"
 toc: true
 redirect_from:
   - /blog/posts/2026-02-21-the-other-woman-had-a-ramp.html

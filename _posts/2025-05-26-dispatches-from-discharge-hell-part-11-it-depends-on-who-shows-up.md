@@ -4,9 +4,13 @@ title: "Dispatches from Discharge Hell, Part 11: It Depends on Who Shows Up"
 date: 2025-05-26
 categories: [field-notes]
 description: >-
-  The Family Presence Variable — the same discharge plan succeeds or fails
-  based entirely on which family member shows up. Presence is the single
-  strongest…
+  The Family Presence Variable: the same discharge plan succeeds or fails
+  based on which family member keeps showing up, learning the skills, and
+  staying present.
+excerpt: "The same patient can go home or to a facility based less on diagnosis than on which family member keeps showing up, learning the skills, and staying in the room."
+series: dispatches-from-discharge-hell
+series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
+series_part: 11
 keywords: "family presence discharge planning, caregiver engagement hospital, inconsistent family involvement discharge, family variable discharge outcomes"
 toc: true
 redirect_from:

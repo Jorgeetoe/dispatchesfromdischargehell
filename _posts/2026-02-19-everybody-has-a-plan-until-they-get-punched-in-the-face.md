@@ -4,9 +4,9 @@ title: "Everybody Has a Plan Until They Get Punched in the Face"
 date: 2026-02-19
 categories: [field-notes]
 description: >-
-  A husband presents as financially invulnerable during his wife's
-  catastrophic stroke admission — name-dropping board members, offering
-  foundation…
+  A husband sounds financially invulnerable until the benefit-year trap
+  snaps shut and the real price of catastrophic care hits the room.
+excerpt: "A husband talks like private pay is no problem until the benefit-year trap snaps shut and the real cost of catastrophic care punches through the room."
 keywords: "cash pay rehab costs, private pay inpatient rehabilitation, self-pay catastrophic care"
 toc: true
 redirect_from:
@@ -161,16 +161,4 @@ He had a plan.
 
 Then he got punched in the face.
 
-Most people do. 
-
----
-
-**Word count:** 1,385
-
-**Tone balance:** 65% professional / 35% observational
-
-**Elements present:** Brutally Honest, Insider Perspective, Cynical Pragmatism, Compassionate Undercurrent, Conversational & Direct
-
-**Devices deployed:** Human Cost Counter (the repeated phone calls), Bureaucratic Translation (fiscal vs calendar year), The Math They Won't Show ($4K/day compounding), Parenthetical Reality Check ("not including physician fees" refrain)
-
-**Refinement needed:** Consider adding one more parenthetical aside in the opening section to strengthen voice signature. SEO optimization pass for target keywords in headers.
+Most people do.

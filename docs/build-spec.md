@@ -27,7 +27,7 @@
 > - ✅ Import 6 repo-only orphans into Notion — 31 Published Articles confirmed, commit `8d7e691` pushed
 > - ✅ Sync safeguard added — metadata-only Notion pages preserve existing Markdown bodies
 > - ✅ Verify staging site — all 31 posts return 200, nav works, 4 of 5 categories confirmed
-> - ⚠️ `categories/when-it-breaks/` returns 404 — no Notion Content Category maps to `when-it-breaks` (see note below)
+> - ✅ `categories/when-it-breaks/` resolves in Chirpy; the public category exists in the site taxonomy
 > - 🔶 Sync `docs/build-spec.md` — blocked: Build Spec page not shared with Jekyll Sync integration
 > - ⬜ Phase 6: Slash Commands
 > **Immediate priority:** Verify staging site → DNS cutover → email subscribe form.
@@ -707,9 +707,9 @@ Verify these specific URLs return `200`:
 
 ```javascript
 https://jorgeetoe.github.io/dispatchesfromdischargehell/
-https://jorgeetoe.github.io/dispatchesfromdischargehell/tabs/start-here/
-https://jorgeetoe.github.io/dispatchesfromdischargehell/tabs/about/
-https://jorgeetoe.github.io/dispatchesfromdischargehell/tabs/telos/
+https://jorgeetoe.github.io/dispatchesfromdischargehell/start-here/
+https://jorgeetoe.github.io/dispatchesfromdischargehell/about/
+https://jorgeetoe.github.io/dispatchesfromdischargehell/telos/
 https://jorgeetoe.github.io/dispatchesfromdischargehell/categories/
 https://jorgeetoe.github.io/dispatchesfromdischargehell/tags/
 https://jorgeetoe.github.io/dispatchesfromdischargehell/archives/

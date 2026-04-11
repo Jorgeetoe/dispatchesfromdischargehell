@@ -12,10 +12,11 @@ If someone you love is in a hospital bed right now and you don't understand why 
 ## Who This Is For
 
 You're probably:
-- Someone who was told "three weeks" by the doctor and "five days" by the insurance company
-- A person sitting in a hospital hallway at 11 PM, reading discharge paperwork, and wondering how this is legal
-- Someone who just heard the phrase "skilled nursing facility" and realized you don't know what that means
-- A family member googling "why is insurance denying rehab"
+- A family member wondering why the team is already talking about discharge when your loved one just got here
+- Someone who was told "two to three weeks" by the case manager and "unlimited" by the insurance company
+- Hearing six professionals use words like "appropriate level of care" and "medical necessity" and sensing that those words don't mean what you think they mean
+- A person being asked to learn catheter care or feeding tube flushes before Friday, and you've never done any of it
+- Googling "medical necessity" at midnight and finding the exact same phrase your case manager used, except now it's justifying a denial, and you can't tell whether the words changed or the rules did
 
 This site is written by someone who's been in these conversations for 20 years. Not as a family member. As the person in the room whose job is to explain to both sides why they're talking past each other.
 

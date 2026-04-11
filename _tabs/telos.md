@@ -2,7 +2,7 @@
 layout: page
 title: Telos
 icon: fas fa-compass
-order: 2
+order: 99
 permalink: /telos/
 description: "This site exists because the system depends on invisibility. The rules of discharge planning, documented from inside the machine."
 ---

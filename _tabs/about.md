@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 0.5
 description: "About Jorge Arenivar, a registered nurse and case manager documenting catastrophic care, discharge planning, and insurance reality for families and clinicians."
 ---
 

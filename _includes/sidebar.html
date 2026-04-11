@@ -12,8 +12,11 @@
     </a>
 
     <a class="site-title d-block" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <p class="site-byline mb-1">
+      {{ site.social.name | default: site.tagline }}
+    </p>
     <p class="site-subtitle fst-italic mb-0">
-      {{ page.sidebar_tagline | default: site.tagline }}
+      {{ page.sidebar_tagline | default: site.sidebar_tagline }}
     </p>
   </header>
   <!-- .profile-wrapper -->

@@ -70,11 +70,24 @@ a:hover {
   text-wrap: balance;
 }
 
+#sidebar .site-byline {
+  max-width: 12.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.35;
+  color: var(--heading-color);
+  text-wrap: balance;
+}
+
 #sidebar .site-subtitle {
   max-width: 12rem;
   margin-left: auto;
   margin-right: auto;
+  font-size: 0.95rem;
   line-height: 1.35;
+  color: var(--text-muted-color);
   text-wrap: balance;
 }
 

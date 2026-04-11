@@ -54,6 +54,36 @@ layout: default
   </div>
 {% endif %}
 
+<section class="home-guide px-xl-1" aria-labelledby="home-guide-title">
+  <div class="home-guide-header">
+    <p class="home-guide-eyebrow">Read first</p>
+    <h2 class="home-guide-title" id="home-guide-title">Start with the pieces that orient families fastest.</h2>
+    <p class="home-guide-copy">
+      If this is your first visit, these are the best entry points before you start browsing the full archive.
+    </p>
+  </div>
+
+  <div class="home-guide-grid">
+    <a class="series-nav-link" href="{{ '/start-here/' | relative_url }}">
+      <span class="series-nav-link-label">Start Here</span>
+      <span class="series-nav-link-title">The clearest first stop for rehab timelines, denials, and discharge reality.</span>
+    </a>
+
+    <a
+      class="series-nav-link"
+      href="{% post_url 2024-01-01-dispatches-from-discharge-hell-25-part-series %}"
+    >
+      <span class="series-nav-link-label">The Frame</span>
+      <span class="series-nav-link-title">Why these patterns repeat, and what families need to understand first.</span>
+    </a>
+
+    <a class="series-nav-link" href="{% post_url 2026-02-15-what-doc-rehab-actually-does %}">
+      <span class="series-nav-link-label">Practical Explainer</span>
+      <span class="series-nav-link-title">What rehab is actually doing when it does not look like active treatment.</span>
+    </a>
+  </div>
+</section>
+
 <div class="home-feed-header px-xl-1">
   <p class="home-feed-eyebrow">Latest posts</p>
 </div>

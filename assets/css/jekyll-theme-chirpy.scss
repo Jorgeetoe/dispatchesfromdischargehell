@@ -131,6 +131,47 @@ h6,
   color: var(--text-muted-color);
 }
 
+.home-guide {
+  margin-bottom: 1.35rem;
+}
+
+.home-guide-header {
+  max-width: 44rem;
+  margin-bottom: 0.9rem;
+}
+
+.home-guide-eyebrow {
+  margin-bottom: 0.35rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-muted-color);
+}
+
+.home-guide-title {
+  margin-bottom: 0.45rem;
+  font-size: clamp(1.1rem, 1rem + 0.4vw, 1.35rem);
+  line-height: 1.25;
+  text-wrap: balance;
+}
+
+.home-guide-copy {
+  margin-bottom: 0;
+  color: var(--text-muted-color);
+}
+
+.home-guide-grid {
+  display: grid;
+  gap: 0.75rem;
+}
+
+@media (min-width: 768px) {
+  .home-guide-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
 .home-feed-header {
   margin-bottom: 0.65rem;
 }

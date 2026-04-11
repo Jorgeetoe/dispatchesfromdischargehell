@@ -10,6 +10,12 @@
 
 /* append your custom style below */
 
+:root {
+  --dispatch-accent: #2d6670;
+  --dispatch-accent-strong: #1f4d56;
+  --dispatch-accent-soft: rgba(45, 102, 112, 0.1);
+}
+
 html,
 body,
 input,
@@ -33,6 +39,15 @@ h6,
 .home-feed-eyebrow,
 #post-list .card-title {
   font-family: "Manrope", sans-serif;
+}
+
+a {
+  text-underline-offset: 0.14em;
+  text-decoration-thickness: 0.08em;
+}
+
+a:hover {
+  color: var(--dispatch-accent-strong);
 }
 
 #sidebar .profile-wrapper {
@@ -61,6 +76,27 @@ h6,
   margin-right: auto;
   line-height: 1.35;
   text-wrap: balance;
+}
+
+#sidebar .nav-link {
+  border-radius: 0.8rem;
+  transition:
+    color 0.2s ease,
+    background-color 0.2s ease;
+}
+
+#sidebar .nav-link:hover,
+#sidebar .nav-item.active .nav-link {
+  color: var(--dispatch-accent-strong);
+  background: var(--dispatch-accent-soft);
+}
+
+#sidebar .sidebar-bottom a:hover {
+  color: var(--dispatch-accent-strong);
+}
+
+#topbar {
+  border-bottom: 1px solid var(--card-border-color);
 }
 
 .home-intro {
@@ -118,8 +154,8 @@ h6,
 }
 
 .home-intro-primary:hover {
-  border-color: var(--link-color);
-  color: var(--link-color);
+  border-color: var(--dispatch-accent);
+  color: var(--dispatch-accent-strong);
   transform: translateY(-1px);
   box-shadow: 0 0.35rem 1rem rgba(0, 0, 0, 0.08);
 }
@@ -236,6 +272,39 @@ h6,
   background: var(--main-bg);
 }
 
+#panel-wrapper .access section {
+  margin-bottom: 1rem;
+  padding: 1rem 1rem 0.85rem;
+  border: 1px solid var(--card-border-color);
+  border-radius: 0.95rem;
+  background: var(--card-bg);
+}
+
+#panel-wrapper .panel-heading {
+  margin-bottom: 0.35rem;
+  font-family: "Manrope", sans-serif;
+  font-size: 0.95rem;
+  letter-spacing: -0.01em;
+  color: var(--heading-color);
+}
+
+#panel-wrapper .access .content {
+  margin-bottom: 0;
+}
+
+#panel-wrapper .access li a {
+  display: block;
+  line-height: 1.4;
+}
+
+#access-firststeps a {
+  color: var(--heading-color);
+}
+
+#access-firststeps a:hover {
+  color: var(--dispatch-accent-strong);
+}
+
 .series-nav-card {
   padding: 1.25rem;
   border: 1px solid var(--card-border-color);
@@ -278,7 +347,7 @@ h6,
 
 .series-nav-primary:hover,
 .series-nav-link:hover {
-  border-color: var(--link-color);
+  border-color: var(--dispatch-accent);
   transform: translateY(-1px);
   box-shadow: 0 0.35rem 1rem rgba(0, 0, 0, 0.08);
 }

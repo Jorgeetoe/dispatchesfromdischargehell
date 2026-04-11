@@ -54,6 +54,10 @@ layout: default
   </div>
 {% endif %}
 
+<div class="home-feed-header px-xl-1">
+  <p class="home-feed-eyebrow">Latest posts</p>
+</div>
+
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
     <article class="card-wrapper card">
@@ -116,11 +120,9 @@ layout: default
 
                 <!-- categories -->
                 {% if post.categories.size > 0 %}
-                  <i class="far fa-folder-open fa-fw me-1"></i>
-                  <span class="categories">
+                  <span class="home-post-categories">
                     {% for category in post.categories %}
-                      {{ category }}
-                      {%- unless forloop.last -%},{%- endunless -%}
+                      <span class="home-post-category">{{ category | replace: '-', ' ' }}</span>
                     {% endfor %}
                   </span>
                 {% endif %}

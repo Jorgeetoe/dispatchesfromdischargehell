@@ -10,6 +10,31 @@
 
 /* append your custom style below */
 
+html,
+body,
+input,
+button,
+textarea,
+select {
+  font-family: "Source Sans 3", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#sidebar .site-title,
+#topbar-title,
+#sidebar .nav-link span,
+.home-intro-eyebrow,
+.home-intro-primary,
+.home-feed-eyebrow,
+#post-list .card-title {
+  font-family: "Manrope", sans-serif;
+}
+
 #sidebar .profile-wrapper {
   display: flex;
   flex-direction: column;
@@ -104,6 +129,70 @@
   font-size: 0.92rem;
   line-height: 1.45;
   color: var(--text-muted-color);
+}
+
+.home-feed-header {
+  margin-bottom: 0.65rem;
+}
+
+.home-feed-eyebrow {
+  margin-bottom: 0;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-muted-color);
+}
+
+#post-list .card-wrapper {
+  margin-bottom: 1rem;
+}
+
+#post-list .card {
+  border-radius: 1rem;
+}
+
+#post-list .card-body {
+  padding: 1.35rem 1.35rem 1.2rem;
+}
+
+#post-list .card-title {
+  font-size: clamp(1.15rem, 1.06rem + 0.42vw, 1.42rem);
+  line-height: 1.18;
+  letter-spacing: -0.015em;
+  text-wrap: balance;
+}
+
+#post-list .card-text {
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+#post-list .post-meta {
+  gap: 0.65rem;
+  font-size: 0.92rem;
+  color: var(--text-muted-color);
+}
+
+.home-post-categories {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-left: 0.75rem;
+  vertical-align: middle;
+}
+
+.home-post-category {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.5rem;
+  border: 1px solid var(--card-border-color);
+  border-radius: 999px;
+  font-size: 0.77rem;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--text-muted-color);
+  background: var(--main-bg);
 }
 
 .series-nav-card {

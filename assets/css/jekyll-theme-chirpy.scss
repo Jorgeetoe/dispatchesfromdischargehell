@@ -38,24 +38,6 @@
   text-wrap: balance;
 }
 
-.home-intro {
-  margin-bottom: 1.75rem;
-}
-
-.home-intro > :last-child {
-  margin-bottom: 0;
-}
-
-.home-tagline {
-  max-width: 34rem;
-  margin: 0;
-  font-size: clamp(1.08rem, 1rem + 0.45vw, 1.4rem);
-  font-weight: 500;
-  line-height: 1.45;
-  color: var(--text-color);
-  text-wrap: balance;
-}
-
 .series-nav-card {
   padding: 1.25rem;
   border: 1px solid var(--card-border-color);

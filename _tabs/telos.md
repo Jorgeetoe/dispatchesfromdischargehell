@@ -63,7 +63,7 @@ Case managers and discharge planners who have spent years solving the same probl
 
 Clinicians who know the system is broken but are too busy living inside it to articulate why
 
-This site is not written for anyone who benefits from the current system remaining opaque.
+*This site is not written for anyone who benefits from the current system remaining opaque.*
 
 ## The Voice
 

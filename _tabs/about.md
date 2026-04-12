@@ -37,16 +37,6 @@ I know when a discharge plan sounds reasonable in the chart but will collapse be
 
 This is not cynicism. It is field literacy - nursing intuition applied to institutional behavior.
 
-### Why This Is Personal
-
-I've made the discharge phone call a thousand times. I know the measured tone, the careful language, the timeline that sounds like a recommendation but functions like a deadline.
-
-Then the system called me about my own mother.
-
-The 48-hour Medicare appeal window feels manageable when you are the case manager building the file. It feels like nothing when you are the family member on the other end. Knowing the system does not give you leverage when your position shifts from clinician to caregiver.
-
-That dual perspective - the professional who designs these discharges and the family member who has lived one - is the lens this site is written from.
-
 ### This Is Not a Weapon
 
 This site is not a playbook for fighting your case manager. It is not ammunition to throw at your social worker.

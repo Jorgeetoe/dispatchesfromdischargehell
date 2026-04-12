@@ -33,7 +33,7 @@ I have been the clinician, the administrator, and the person standing between im
 
 I have learned to read payer behavior the way other nurses read vital signs. Which carriers deny first and approve on appeal as standard operating procedure. Which self-funded plans ghost on prior authorizations. Which skilled nursing facilities say yes on the phone and call back by end of day to say no.
 
-I know when a discharge plan sounds reasonable in the chart but will collapse before the patient reaches the parking lot.
+I know when a discharge plan sounds reasonable on the preadmission evaluation but will collapse before the patient reaches the parking lot.
 
 This is not cynicism. It is field literacy - nursing intuition applied to institutional behavior.
 
@@ -49,7 +49,7 @@ Information as empowerment. Not ammunition. That is the line.
 
 ### Why This Site Exists
 
-Families arrive at catastrophic care moments carrying assumptions the system never corrects. They paid their premiums. They read the benefits summary. They believe "covered" is a promise rather than a negotiating position.
+Families arrive at catastrophic care moments carrying assumptions the system never corrects. They have insurance. They've always had insurance. It covered the ER visit, the surgery, the ICU stay. Nobody told them that "covered" stops meaning what they think it means the moment the case becomes catastrophic. Nobody told them that authorization is a negotiation, not a guarantee. And nobody handed them the page in the benefits document that explains what happens when the days run out, because most families never knew that page existed.
 
 This site names what nobody warns families about before they need to know it. The goal is to give families the vocabulary and the frame before the system has a chance to disorient them - and to give clinicians a mirror that validates what they already know but rarely see documented.
 
@@ -62,6 +62,7 @@ I write under my own name, in my own voice, independent of any institution. Noth
 - **CCM** - Certified Case Manager
 - **CRRN** - Certified Rehabilitation Registered Nurse
 - 20+ years in catastrophic neurorehabilitation
+- Nurse Life Care Planner Certification Candidate
 
 ### Get in Touch
 

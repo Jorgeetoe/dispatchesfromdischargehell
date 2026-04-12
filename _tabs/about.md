@@ -27,7 +27,7 @@ That gap - between what the language promises and what the system delivers - is 
 
 ### What Twenty Years Teaches You
 
-I've sat in roughly 10,000 family conferences. That's not a metaphor. Over 20 years of inpatient rehabilitation case management, that's about what it comes to - 10,000 conversations where a family learns that the plan they expected is not the plan they are getting.
+I’ve sat in thousands of family conferences. That’s not a metaphor. Over 20 years of inpatient rehabilitation case management, that’s about what it comes to - thousands of conversations where a family learns that the plan they expected is not the plan they are getting.
 
 I have been the clinician, the administrator, and the person standing between impossible families and impossible systems. That combination gives you a kind of pattern recognition that does not come from textbooks.
 

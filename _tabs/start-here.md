@@ -68,7 +68,7 @@ Posts stand alone - you don't need to read them in order. But they connect. A di
 
 This site is not medical advice, legal counsel, or a facility recommendation guide. It's documentation - mechanics written down by someone who lives inside the system.
 
-I'm Jorge Arenivar - a registered nurse with 20+ years in catastrophic neurorehabilitation case management. I've sat in 10,000 family conferences, translated insurance language for families, and negotiated discharge plans at 6 PM on a Friday when someone needs to go somewhere on Monday. [More about me]({{ '/about/' | relative_url }}). [Why this publication exists]({{ '/telos/' | relative_url }}).
+I'm Jorge Arenivar - a registered nurse with 20+ years in catastrophic neurorehabilitation case management. I've sat in thousands of family conferences, translated insurance language for families, and negotiated discharge plans at 6 PM on a Friday when someone needs to go somewhere on Monday. [More about me]({{ '/about/' | relative_url }}). [Why this publication exists]({{ '/telos/' | relative_url }}).
 
 ## Your Next Step
 

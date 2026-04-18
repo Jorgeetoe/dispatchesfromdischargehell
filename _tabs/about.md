@@ -9,7 +9,7 @@ description: "About Jorge Arenivar, a registered nurse and case manager document
 
 > *I know which discharge plans collapse before the patient hits the parking lot - and I'm done staying quiet about why.*
 
-**Jorge Arenivar, BSN, RN, CCM, CRRN** is a registered nurse and board-certified case manager with more than two decades inside catastrophic care - first at the bedside with traumatic brain injury and spinal cord injury patients, then building and marketing the post-acute programs families rely on after discharge, and now planning the discharges themselves at one of the country's leading rehabilitation hospitals.
+**Jorge Arenivar, BSN, RN, CCM, CRRN** is a registered nurse and board-certified case manager with 20+ years in catastrophic care - first at the bedside with traumatic brain injury and spinal cord injury patients, then building and marketing the post-acute programs families rely on after discharge, and now planning the discharges themselves at one of the country's leading rehabilitation hospitals.
 
 This site exists because families should not have to learn how the system actually works during the worst week of their lives.
 

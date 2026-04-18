@@ -10,8 +10,6 @@ description: >-
 excerpt: "Caregiver guilt is different. It arrives before anyone earns it. A mother at the bedside, conditioned by catastrophic care, experiences stepping away as moral equivalent to abandonment. Here's what I learned about building trust infrastructure so families can actually rest."
 keywords: "caregiver guilt catastrophic injury, caregiver rest hospital, family burnout catastrophic care, case manager emotional support, permission to rest caregiver"
 toc: true
-redirect_from:
-  - /blog/posts/2025-02-21-permission-to-rest.html
 ---
 
 "It's not that I don't love her, Horhe'."

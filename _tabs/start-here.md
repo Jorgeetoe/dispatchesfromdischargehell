@@ -27,7 +27,7 @@ These five posts will tell you what this site is, how it thinks, and whether it'
 1. [**Dispatches from Discharge Hell: A 25-Part Series**]({% post_url 2024-01-01-dispatches-from-discharge-hell-25-part-series %}) - The frame. Why these patterns exist and why they keep repeating.
 2. [**The Family Readiness Mismatch (Part 1)**]({% post_url 2024-01-03-family-readiness-mismatch-part-1 %}) - The first dispatch. The hospital says "ready." The family says "for what?"
 3. [**She Knew and She Didn't Say Anything**]({% post_url 2026-02-26-she-knew-and-she-didnt-say-anything-when-payer-case-managers-weaponize-silence %}) - When silence is the strategy. How the system says "no" without ever saying "no."
-4. [**Catastrophic Case Management: Brutal Truths**]({% post_url 2025-03-26-catastrophic-case-management-brutal-truths-from-the-front-lines %}) - What this work actually looks like. No polish, no abstraction.
+4. [**A Stop at the Policy Line**]({% post_url 2026-04-11-a-stop-at-the-policy-line %}) - When warmth meets policy-bounded authority. How the system sounds like support and delivers something else.
 5. [**The Permission to Rest**]({% post_url 2025-02-21-permission-to-rest %}) - The human side. What 20 years inside this system does to the person solving the problems.
 
 ## What You'll Find Here

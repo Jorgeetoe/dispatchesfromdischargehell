@@ -47,7 +47,7 @@ The wife praised this case manager. Told our social worker how helpful she'd bee
 
 She had none of that. She had someone who answered the phone and sounded kind and withheld the one piece of information that mattered.
 
-I talk about the [Ignorance Premium](https://dispatchesfromdischargehell.com/blog/) — the gap between having insurance and understanding what it actually covers. But this isn't a family failing to read the fine print. This is a professional who understood the fine print, understood the family's plan, and chose to let them walk into a wall she could see and they couldn't.
+I talk about **the Ignorance Premium** — the gap between having insurance and understanding what it actually covers. But this isn't a family failing to read the fine print. This is a professional who understood the fine print, understood the family's plan, and chose to let them walk into a wall she could see and they couldn't.
 
 The trust didn't develop accidentally. Payer case managers are trained to build rapport with members. That rapport serves a real function when it's paired with honest guidance. When it's not, the rapport becomes the cover story. The family's gratitude becomes evidence that the system worked. *She was so helpful.* The file looks clean. The member was engaged. The case manager was present.
 

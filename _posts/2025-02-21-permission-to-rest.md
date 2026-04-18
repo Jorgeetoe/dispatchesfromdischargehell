@@ -14,8 +14,6 @@ redirect_from:
   - /blog/posts/2025-02-21-permission-to-rest.html
 ---
 
-> ✏️ **Draft — Ready for your edits.** LinkedIn teaser version to follow after you tighten this.
-
 "It's not that I don't love her, Horhe'."
 
 Roxanne said it before anyone asked. No one had questioned her love. No one had implied she was failing. But she said it anyway, a preemptive defense against an accusation that existed only in her own head all because she was asking permission to step away. To take a much needed and deserved breather. 

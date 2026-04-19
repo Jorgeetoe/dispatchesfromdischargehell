@@ -146,6 +146,48 @@ a:hover {
   color: var(--dispatch-accent-strong);
 }
 
+.cat-pill {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  padding: 3px 10px;
+  border-radius: 2px;
+  text-decoration: none;
+  transition: opacity 0.15s;
+}
+
+.cat-pill:hover {
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.cat-pill[data-category="dispatches"] {
+  color: var(--ddh-cat-dispatches);
+  background: var(--ddh-cat-dispatches-bg);
+}
+
+.cat-pill[data-category="field-notes"] {
+  color: var(--ddh-cat-field-notes);
+  background: var(--ddh-cat-field-notes-bg);
+}
+
+.cat-pill[data-category="the-machine"] {
+  color: var(--ddh-cat-machine);
+  background: var(--ddh-cat-machine-bg);
+}
+
+.cat-pill[data-category="when-it-breaks"] {
+  color: var(--ddh-cat-breaks);
+  background: var(--ddh-cat-breaks-bg);
+}
+
+.cat-pill[data-category="persona"] {
+  color: var(--ddh-cat-persona);
+  background: var(--ddh-cat-persona-bg);
+}
+
 article .content {
   max-width: 720px;
   margin-left: auto;

@@ -152,7 +152,29 @@ layout: default
                 {% if post.categories.size > 0 %}
                   <span class="home-post-categories">
                     {% for category in post.categories %}
-                      <span class="home-post-category">{{ category | replace: '-', ' ' }}</span>
+                      {% assign category_slug = category | slugify %}
+                      {% assign category_label = category %}
+
+                      {% case category_slug %}
+                        {% when 'dispatches' %}
+                          {% assign category_label = 'Dispatches' %}
+                        {% when 'field-notes' %}
+                          {% assign category_label = 'Field Notes' %}
+                        {% when 'the-machine' %}
+                          {% assign category_label = 'The Machine' %}
+                        {% when 'when-it-breaks' %}
+                          {% assign category_label = 'When It Breaks' %}
+                        {% when 'persona' %}
+                          {% assign category_label = 'Persona' %}
+                      {% endcase %}
+
+                      <a
+                        class="cat-pill"
+                        data-category="{{ category_slug }}"
+                        href="{{ site.baseurl }}/categories/{{ category_slug | url_encode }}/"
+                      >
+                        {{ category_label }}
+                      </a>
                     {% endfor %}
                   </span>
                 {% endif %}

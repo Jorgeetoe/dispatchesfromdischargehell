@@ -225,8 +225,29 @@ script_includes:
       <div class="post-meta mb-3">
         <i class="far fa-folder-open fa-fw me-1"></i>
         {% for category in page.categories %}
-          <a href="{{ site.baseurl }}/categories/{{ category | slugify | url_encode }}/">{{ category }}</a>
-          {%- unless forloop.last -%},{%- endunless -%}
+          {% assign category_slug = category | slugify %}
+          {% assign category_label = category %}
+
+          {% case category_slug %}
+            {% when 'dispatches' %}
+              {% assign category_label = 'Dispatches' %}
+            {% when 'field-notes' %}
+              {% assign category_label = 'Field Notes' %}
+            {% when 'the-machine' %}
+              {% assign category_label = 'The Machine' %}
+            {% when 'when-it-breaks' %}
+              {% assign category_label = 'When It Breaks' %}
+            {% when 'persona' %}
+              {% assign category_label = 'Persona' %}
+          {% endcase %}
+
+          <a
+            class="cat-pill"
+            data-category="{{ category_slug }}"
+            href="{{ site.baseurl }}/categories/{{ category_slug | url_encode }}/"
+          >
+            {{ category_label }}
+          </a>
         {% endfor %}
       </div>
     {% endif %}

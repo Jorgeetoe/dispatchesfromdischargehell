@@ -218,21 +218,26 @@ article .content {
   max-width: 13.5rem;
   margin-left: auto;
   margin-right: auto;
-  font-size: 0.95rem;
-  font-weight: 600;
+  font-family: var(--ddh-font-base);
+  font-size: 1.08rem;
+  font-weight: 700;
   line-height: 1.2;
-  color: var(--heading-color);
+  color: var(--ddh-text-1);
+  text-wrap: balance;
 }
 
 #sidebar .site-credentials {
-  max-width: 13.5rem;
+  max-width: 100%;
   margin-left: auto;
   margin-right: auto;
-  font-size: 0.82rem;
+  font-family: var(--ddh-font-base);
+  font-size: 0.72rem;
   font-weight: 600;
-  line-height: 1.25;
-  color: var(--text-muted-color);
-  text-wrap: balance;
+  line-height: 1.2;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: var(--ddh-text-2);
 }
 
 #sidebar .site-subtitle {

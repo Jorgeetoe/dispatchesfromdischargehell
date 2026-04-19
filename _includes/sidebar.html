@@ -16,7 +16,7 @@
       {{ site.sidebar_name | default: site.social.name | default: site.tagline }}
     </p>
     <p class="site-credentials mb-1">
-      {{ site.sidebar_credentials }}
+      {{ site.sidebar_credentials | replace: ', ', ' · ' }}
     </p>
     <p class="site-subtitle fst-italic mb-0">
       {{ page.sidebar_tagline | default: site.sidebar_tagline }}

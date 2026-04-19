@@ -1,0 +1,22 @@
+<div class="ddh-subscribe"{% if include.anchor %} id="subscribe"{% endif %}>
+  <p class="ddh-subscribe-lede">
+    New dispatches when there's something worth saying. Nothing in between.
+  </p>
+  <form
+    action="https://buttondown.email/api/emails/embed-subscribe/dispatchesfromdischargehell"
+    method="post"
+    target="popupwindow"
+    onsubmit="window.open('https://buttondown.email/dispatchesfromdischargehell', 'popupwindow')"
+    class="ddh-subscribe-form"
+  >
+    <input
+      type="email"
+      name="email"
+      id="bd-email"
+      placeholder="your@email.com"
+      required
+      autocomplete="email"
+    >
+    <button type="submit">Subscribe</button>
+  </form>
+</div>

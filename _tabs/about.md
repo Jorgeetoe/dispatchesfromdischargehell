@@ -64,6 +64,8 @@ I write under my own name, in my own voice, independent of any institution. Noth
 - 20+ years in catastrophic neurorehabilitation
 - Nurse Life Care Planner Certification Candidate
 
+{% include subscribe.html %}
+
 ### Get in Touch
 
 The best way to stay current is to subscribe to the newsletter - new dispatches when there is something worth saying, nothing in between. For direct correspondence: [jorge.arenivar@gmail.com](mailto:jorge.arenivar@gmail.com)

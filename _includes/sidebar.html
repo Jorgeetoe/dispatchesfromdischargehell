@@ -26,21 +26,21 @@
 
   <nav class="flex-column flex-grow-1 w-100 ps-0">
     <ul class="nav">
-      <!-- home -->
-      <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
-        <a href="{{ '/' | relative_url }}" class="nav-link">
-          <i class="fa-fw fas fa-home"></i>
-          <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
-        </a>
-      </li>
-      <!-- the real tabs -->
-      {% for tab in site.tabs %}
-        <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
-          <a href="{{ tab.url | relative_url }}" class="nav-link">
-            <i class="fa-fw {{ tab.icon }}"></i>
-            {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
+      {% for item in site.data.navigation %}
+        {% assign is_active = false %}
 
-            <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
+        {% if item.match_layout and page.layout == item.match_layout %}
+          {% assign is_active = true %}
+        {% elsif item.url == page.url %}
+          {% assign is_active = true %}
+        {% endif %}
+
+        <li class="nav-item{% if is_active %}{{ " active" }}{% endif %}">
+          <a href="{{ item.url | relative_url }}" class="nav-link">
+            {% if item.icon %}
+              <i class="fa-fw {{ item.icon }}"></i>
+            {% endif %}
+            <span>{{ item.title | upcase }}</span>
           </a>
         </li>
         <!-- .nav-item -->

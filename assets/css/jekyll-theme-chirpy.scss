@@ -10,7 +10,7 @@
 
 /* append your custom style below */
 
-html {
+:root {
   font-size: 17px;
 }
 
@@ -65,7 +65,7 @@ html {
 
   --ddh-size-body: 17px;
   --ddh-lh-body: 1.75;
-  --ddh-prose-max: 68ch;
+  --ddh-prose-max: 720px;
 
   /* Spacing scale */
   --ddh-sp-1: 4px;
@@ -147,7 +147,7 @@ a:hover {
 }
 
 article .content {
-  max-width: 68ch;
+  max-width: 720px;
   margin-left: auto;
   margin-right: auto;
 }

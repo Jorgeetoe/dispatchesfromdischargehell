@@ -144,3 +144,4 @@ The pillar posts that follow this one zoom in on specific angles:
 Each is a standalone piece. Read them in any order. They're all describing different angles of the same gravitational field.
 
 The field is invisible to the people inside it. That's why it works. Naming it is the first step in pushing against it.
+<!-- rebuild trigger -->

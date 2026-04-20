@@ -15,6 +15,9 @@
 
   <!-- Setup Open Graph image -->
 
+  {% assign fallback_og_src = site.og_default_image | default: site.social_preview_image %}
+  {% assign fallback_og_alt = site.og_default_alt | default: site.title %}
+
   {% if page.image %}
     {% assign src = page.image.path | default: page.image %}
 
@@ -29,18 +32,20 @@
       {% assign seo_tags = seo_tags | replace: old_url, new_url %}
     {% endunless %}
 
-  {% elsif site.social_preview_image %}
+  {% elsif fallback_og_src %}
     {%- capture img_url -%}
-      {% include media-url.html src=site.social_preview_image absolute=true %}
+      {% include media-url.html src=fallback_og_src absolute=true %}
     {%- endcapture -%}
 
     {%- capture og_image -%}
       <meta property="og:image" content="{{ img_url }}" />
+      <meta property="og:image:alt" content="{{ fallback_og_alt }}" />
     {%- endcapture -%}
 
     {%- capture twitter_image -%}
       <meta name="twitter:card" content="summary_large_image" />
       <meta property="twitter:image" content="{{ img_url }}" />
+      <meta name="twitter:image:alt" content="{{ fallback_og_alt }}" />
     {%- endcapture -%}
 
     {% assign old_meta_clip = '<meta name="twitter:card" content="summary" />' %}

@@ -12,12 +12,20 @@
 
 :root {
   font-size: 17px;
+  --bg-base: #111318;
+  --text-1: #e6e8ec;
+  --accent: #4d8fa8;
+  --dispatches: #cd5c5c;
+  --field-notes: #4ca882;
+  --the-machine: #5a90be;
+  --when-it-breaks: #d4894a;
+  --persona: #9d7fd4;
   --ddh-font-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, sans-serif;
   --ddh-font-mono: "SF Mono", "Cascadia Code", "Fira Mono", Consolas, monospace;
   --ddh-font-serif: Georgia, "Charter", "Bitstream Charter", "Sitka Text", serif;
   --ddh-size-body: 17px;
   --ddh-lh-body: 1.75;
-  --ddh-prose-max: 720px;
+  --ddh-prose-max: 68ch;
   --ddh-sp-1: 4px;
   --ddh-sp-2: 8px;
   --ddh-sp-3: 16px;
@@ -36,39 +44,39 @@
 /* --- Dark mode --- */
 html[data-mode="dark"] {
   /* Base surfaces */
-  --ddh-bg: #111318;
+  --ddh-bg: var(--bg-base);
   --ddh-surface: #1c1f27;
   --ddh-surface-2: #252830;
   --ddh-border: #2e3140;
   --ddh-border-light: #23262f;
 
   /* Text grades */
-  --ddh-text-1: #e6e8ec;
+  --ddh-text-1: var(--text-1);
   --ddh-text-2: #8f96a3;
   --ddh-text-3: #555d6b;
 
   /* Site accent */
-  --ddh-accent: #4d8fa8;
+  --ddh-accent: var(--accent);
   --ddh-accent-hover: #63a8c2;
 
   /* Category - Dispatches */
-  --ddh-cat-dispatches: #cd5c5c;
+  --ddh-cat-dispatches: var(--dispatches);
   --ddh-cat-dispatches-bg: rgba(205, 92, 92, 0.12);
 
   /* Category - Field Notes */
-  --ddh-cat-field-notes: #4ca882;
+  --ddh-cat-field-notes: var(--field-notes);
   --ddh-cat-field-notes-bg: rgba(76, 168, 130, 0.12);
 
   /* Category - The Machine */
-  --ddh-cat-machine: #5a90be;
+  --ddh-cat-machine: var(--the-machine);
   --ddh-cat-machine-bg: rgba(90, 144, 190, 0.12);
 
   /* Category - When It Breaks */
-  --ddh-cat-breaks: #d4894a;
+  --ddh-cat-breaks: var(--when-it-breaks);
   --ddh-cat-breaks-bg: rgba(212, 137, 74, 0.12);
 
   /* Category - Persona */
-  --ddh-cat-persona: #9d7fd4;
+  --ddh-cat-persona: var(--persona);
   --ddh-cat-persona-bg: rgba(157, 127, 212, 0.12);
 
 }
@@ -76,39 +84,39 @@ html[data-mode="dark"] {
 @media (prefers-color-scheme: dark) {
   html:not([data-mode]) {
     /* Base surfaces */
-    --ddh-bg: #111318;
+    --ddh-bg: var(--bg-base);
     --ddh-surface: #1c1f27;
     --ddh-surface-2: #252830;
     --ddh-border: #2e3140;
     --ddh-border-light: #23262f;
 
     /* Text grades */
-    --ddh-text-1: #e6e8ec;
+    --ddh-text-1: var(--text-1);
     --ddh-text-2: #8f96a3;
     --ddh-text-3: #555d6b;
 
     /* Site accent */
-    --ddh-accent: #4d8fa8;
+    --ddh-accent: var(--accent);
     --ddh-accent-hover: #63a8c2;
 
     /* Category - Dispatches */
-    --ddh-cat-dispatches: #cd5c5c;
+    --ddh-cat-dispatches: var(--dispatches);
     --ddh-cat-dispatches-bg: rgba(205, 92, 92, 0.12);
 
     /* Category - Field Notes */
-    --ddh-cat-field-notes: #4ca882;
+    --ddh-cat-field-notes: var(--field-notes);
     --ddh-cat-field-notes-bg: rgba(76, 168, 130, 0.12);
 
     /* Category - The Machine */
-    --ddh-cat-machine: #5a90be;
+    --ddh-cat-machine: var(--the-machine);
     --ddh-cat-machine-bg: rgba(90, 144, 190, 0.12);
 
     /* Category - When It Breaks */
-    --ddh-cat-breaks: #d4894a;
+    --ddh-cat-breaks: var(--when-it-breaks);
     --ddh-cat-breaks-bg: rgba(212, 137, 74, 0.12);
 
     /* Category - Persona */
-    --ddh-cat-persona: #9d7fd4;
+    --ddh-cat-persona: var(--persona);
     --ddh-cat-persona-bg: rgba(157, 127, 212, 0.12);
 
   }
@@ -116,63 +124,63 @@ html[data-mode="dark"] {
 
 /* --- Light mode --- */
 html[data-mode="light"] {
-  --ddh-bg: #f9f8f5;
+  --ddh-bg: var(--bg-base);
   --ddh-surface: #efede8;
   --ddh-surface-2: #e4e2dc;
   --ddh-border: #d0cec6;
   --ddh-border-light: #dddbd5;
 
-  --ddh-text-1: #161616;
+  --ddh-text-1: var(--text-1);
   --ddh-text-2: #5a5550;
   --ddh-text-3: #8a857f;
 
-  --ddh-accent: #2c6d87;
+  --ddh-accent: var(--accent);
   --ddh-accent-hover: #1f5470;
 
-  --ddh-cat-dispatches: #b84040;
+  --ddh-cat-dispatches: var(--dispatches);
   --ddh-cat-dispatches-bg: rgba(184, 64, 64, 0.09);
-  --ddh-cat-field-notes: #2e7a5a;
+  --ddh-cat-field-notes: var(--field-notes);
   --ddh-cat-field-notes-bg: rgba(46, 122, 90, 0.09);
-  --ddh-cat-machine: #2e6090;
+  --ddh-cat-machine: var(--the-machine);
   --ddh-cat-machine-bg: rgba(46, 96, 144, 0.09);
-  --ddh-cat-breaks: #b56830;
+  --ddh-cat-breaks: var(--when-it-breaks);
   --ddh-cat-breaks-bg: rgba(181, 104, 48, 0.09);
-  --ddh-cat-persona: #6d48b8;
+  --ddh-cat-persona: var(--persona);
   --ddh-cat-persona-bg: rgba(109, 72, 184, 0.09);
 }
 
 @media (prefers-color-scheme: light) {
   html:not([data-mode]) {
-    --ddh-bg: #f9f8f5;
+    --ddh-bg: var(--bg-base);
     --ddh-surface: #efede8;
     --ddh-surface-2: #e4e2dc;
     --ddh-border: #d0cec6;
     --ddh-border-light: #dddbd5;
 
-    --ddh-text-1: #161616;
+    --ddh-text-1: var(--text-1);
     --ddh-text-2: #5a5550;
     --ddh-text-3: #8a857f;
 
-    --ddh-accent: #2c6d87;
+    --ddh-accent: var(--accent);
     --ddh-accent-hover: #1f5470;
 
-    --ddh-cat-dispatches: #b84040;
+    --ddh-cat-dispatches: var(--dispatches);
     --ddh-cat-dispatches-bg: rgba(184, 64, 64, 0.09);
-    --ddh-cat-field-notes: #2e7a5a;
+    --ddh-cat-field-notes: var(--field-notes);
     --ddh-cat-field-notes-bg: rgba(46, 122, 90, 0.09);
-    --ddh-cat-machine: #2e6090;
+    --ddh-cat-machine: var(--the-machine);
     --ddh-cat-machine-bg: rgba(46, 96, 144, 0.09);
-    --ddh-cat-breaks: #b56830;
+    --ddh-cat-breaks: var(--when-it-breaks);
     --ddh-cat-breaks-bg: rgba(181, 104, 48, 0.09);
-    --ddh-cat-persona: #6d48b8;
+    --ddh-cat-persona: var(--persona);
     --ddh-cat-persona-bg: rgba(109, 72, 184, 0.09);
   }
 }
 
 :root {
-  --dispatch-accent: #2d6670;
-  --dispatch-accent-strong: #1f4d56;
-  --dispatch-accent-soft: rgba(45, 102, 112, 0.1);
+  --dispatch-accent: var(--accent);
+  --dispatch-accent-strong: var(--accent);
+  --dispatch-accent-soft: rgba(77, 143, 168, 0.12);
 }
 
 html,
@@ -306,9 +314,11 @@ a:hover {
 }
 
 article .content {
-  max-width: 720px;
+  max-width: var(--ddh-prose-max);
   margin-left: auto;
   margin-right: auto;
+  font-size: var(--ddh-size-body);
+  line-height: var(--ddh-lh-body);
 }
 
 #sidebar .profile-wrapper {

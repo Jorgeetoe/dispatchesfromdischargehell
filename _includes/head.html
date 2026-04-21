@@ -20,6 +20,7 @@
 
   {% if page.image %}
     {% assign src = page.image.path | default: page.image %}
+    {% assign page_image_alt = page.image.alt | default: page.title | default: site.title %}
 
     {% unless src contains '://' %}
       {%- capture img_url -%}
@@ -31,6 +32,18 @@
 
       {% assign seo_tags = seo_tags | replace: old_url, new_url %}
     {% endunless %}
+
+    {%- assign page_og_url = img_url | default: src -%}
+    {%- capture page_og_meta -%}
+      <meta property="og:image" content="{{ page_og_url }}" />
+      <meta property="og:image:alt" content="{{ page_image_alt }}" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta property="twitter:image" content="{{ page_og_url }}" />
+      <meta name="twitter:image:alt" content="{{ page_image_alt }}" />
+    {%- endcapture -%}
+
+    {% assign old_meta_clip = '<meta name="twitter:card" content="summary" />' %}
+    {% assign seo_tags = seo_tags | replace: old_meta_clip, page_og_meta %}
 
   {% elsif fallback_og_src %}
     {%- capture img_url -%}

@@ -50,6 +50,41 @@ PUBLIC_SITE_CATEGORIES = {
     "persona",
 }
 
+CORPUS_FIELD_PROPERTY_MAP = {
+    "intended_reader": "Intended Reader",
+    "content_tier": "Content Tier",
+    "extraction_mechanism": "Extraction Mechanism",
+}
+
+SAFETY_GATE_PROPERTY_MAP = {
+    "public_safety_reviewed": "Public Safety Reviewed",
+    "deidentified": "Deidentified",
+}
+
+TRUTHY_PROPERTY_VALUES = {
+    "approved",
+    "checked",
+    "complete",
+    "completed",
+    "done",
+    "pass",
+    "passed",
+    "reviewed",
+    "true",
+    "yes",
+    "y",
+}
+
+FALSY_PROPERTY_VALUES = {
+    "false",
+    "incomplete",
+    "n",
+    "no",
+    "not yet",
+    "pending",
+    "unchecked",
+}
+
 
 class NotionSyncError(RuntimeError):
     """Raised for fatal sync issues."""
@@ -237,6 +272,10 @@ def extract_property(properties: dict[str, Any], name: str) -> dict[str, Any]:
     return properties[name]
 
 
+def extract_optional_property(properties: dict[str, Any], name: str) -> dict[str, Any] | None:
+    return properties.get(name)
+
+
 def get_title(properties: dict[str, Any]) -> str:
     prop = extract_property(properties, "Content Title")
     return rich_text_plain(prop.get("title", [])).strip()
@@ -272,8 +311,163 @@ def get_publication_date(properties: dict[str, Any]) -> str:
     return start[:10]
 
 
+def ordered_multi_select_names(prop: dict[str, Any]) -> list[str]:
+    names: list[str] = []
+    for option in prop.get("multi_select", []):
+        name = (option.get("name") or "").strip()
+        if name and name not in names:
+            names.append(name)
+    return names
+
+
 def multi_select_names(prop: dict[str, Any]) -> set[str]:
     return {option.get("name") for option in prop.get("multi_select", []) if option.get("name")}
+
+
+def optional_text_property_value(prop: dict[str, Any], property_name: str) -> tuple[str | list[str] | None, str | None]:
+    prop_type = prop.get("type")
+
+    if prop_type == "title":
+        value = rich_text_plain(prop.get("title", [])).strip()
+        return value or None, None
+
+    if prop_type == "rich_text":
+        value = rich_text_plain(prop.get("rich_text", [])).strip()
+        return value or None, None
+
+    if prop_type == "select":
+        value = ((prop.get("select") or {}).get("name") or "").strip()
+        return value or None, None
+
+    if prop_type == "status":
+        value = ((prop.get("status") or {}).get("name") or "").strip()
+        return value or None, None
+
+    if prop_type == "multi_select":
+        values = ordered_multi_select_names(prop)
+        return values or None, None
+
+    if prop_type == "number":
+        value = prop.get("number")
+        if value is None:
+            return None, None
+        if isinstance(value, float) and value.is_integer():
+            return str(int(value)), None
+        return str(value), None
+
+    return None, f"Unsupported Notion property type for {property_name}: {prop_type or 'unknown'}"
+
+
+def parse_boolish_value(raw: str) -> bool | None:
+    normalized = raw.strip().lower()
+    if not normalized:
+        return None
+    if normalized in TRUTHY_PROPERTY_VALUES:
+        return True
+    if normalized in FALSY_PROPERTY_VALUES:
+        return False
+    return None
+
+
+def optional_boolean_property_value(prop: dict[str, Any], property_name: str) -> tuple[bool | None, str | None]:
+    prop_type = prop.get("type")
+
+    if prop_type == "checkbox":
+        return bool(prop.get("checkbox")), None
+
+    if prop_type == "formula":
+        formula = prop.get("formula") or {}
+        formula_type = formula.get("type")
+        if formula_type == "boolean":
+            value = formula.get("boolean")
+            return (bool(value), None) if value is not None else (None, None)
+        if formula_type == "string":
+            parsed = parse_boolish_value(formula.get("string") or "")
+            if parsed is None:
+                return None, f"Formula string for {property_name} must resolve to true/false"
+            return parsed, None
+        return None, f"Unsupported Notion formula result type for {property_name}: {formula_type or 'unknown'}"
+
+    text_value, issue = optional_text_property_value(prop, property_name)
+    if issue:
+        return None, issue
+    if isinstance(text_value, list):
+        return None, f"{property_name} must be a single true/false value, not a multi-select list"
+    if text_value is None:
+        return None, None
+
+    parsed = parse_boolish_value(text_value)
+    if parsed is None:
+        return None, f"{property_name} must resolve to true/false, got {text_value!r}"
+    return parsed, None
+
+
+def read_corpus_fields(
+    properties: dict[str, Any],
+    page_id: str,
+    warnings: list[str],
+    website_post: bool,
+) -> dict[str, str | list[str]]:
+    front_matter_fields: dict[str, str | list[str]] = {}
+
+    for front_matter_key, property_name in CORPUS_FIELD_PROPERTY_MAP.items():
+        prop = extract_optional_property(properties, property_name)
+        if prop is None:
+            if website_post:
+                warnings.append(
+                    f"{page_id}: missing Notion property {property_name}; leaving {front_matter_key} blank"
+                )
+            continue
+
+        value, issue = optional_text_property_value(prop, property_name)
+        if issue:
+            warnings.append(f"{page_id}: {issue}; leaving {front_matter_key} blank")
+            continue
+
+        if value is None:
+            continue
+
+        front_matter_fields[front_matter_key] = value
+
+    return front_matter_fields
+
+
+def read_safety_gates(properties: dict[str, Any], website_post: bool) -> dict[str, bool]:
+    front_matter_fields: dict[str, bool] = {}
+    failures: list[str] = []
+
+    for front_matter_key, property_name in SAFETY_GATE_PROPERTY_MAP.items():
+        prop = extract_optional_property(properties, property_name)
+        if prop is None:
+            if website_post:
+                failures.append(f"Missing Notion property: {property_name}")
+            continue
+
+        value, issue = optional_boolean_property_value(prop, property_name)
+        if issue:
+            if website_post:
+                failures.append(issue)
+            continue
+
+        if value is None:
+            if website_post:
+                failures.append(f"{property_name} is empty")
+            continue
+
+        front_matter_fields[front_matter_key] = value
+
+        if website_post and value is not True:
+            failures.append(f"{property_name} must be true for website sync")
+
+    if website_post and failures:
+        expected = ", ".join(SAFETY_GATE_PROPERTY_MAP.values())
+        details = "; ".join(failures)
+        raise NotionSyncError(
+            "Website sync blocked by public-safety gate. "
+            f"Expected Notion properties: {expected}. {details}"
+        )
+
+    return front_matter_fields
 
 
 def get_public_site_category(properties: dict[str, Any]) -> str:
@@ -287,13 +481,22 @@ def get_public_site_category(properties: dict[str, Any]) -> str:
     return name
 
 
-def is_website_post(properties: dict[str, Any]) -> bool:
+def target_platform_names(properties: dict[str, Any]) -> list[str]:
     prop = properties.get("Target Platform")
     if not prop or prop.get("type") != "multi_select":
-        return True
+        return []
+    return ordered_multi_select_names(prop)
 
-    platforms = multi_select_names(prop)
-    return not platforms or "Website" in platforms
+
+def is_website_post(properties: dict[str, Any]) -> bool:
+    return "Website" in target_platform_names(properties)
+
+
+def skip_reason_for_non_website(properties: dict[str, Any]) -> str:
+    platforms = target_platform_names(properties)
+    if platforms:
+        return f"Target Platform does not include Website ({', '.join(platforms)})"
+    return "Target Platform does not include Website"
 
 
 def map_category(properties: dict[str, Any], page_id: str, warnings: list[str]) -> str:
@@ -325,6 +528,11 @@ MANAGED_FRONT_MATTER_KEYS = {
     "date",
     "categories",
     "description",
+    "intended_reader",
+    "content_tier",
+    "extraction_mechanism",
+    "public_safety_reviewed",
+    "deidentified",
     "keywords",
     "toc",
     "redirect_from",
@@ -589,6 +797,8 @@ def build_front_matter(
     date: str,
     category: str,
     description: str,
+    corpus_fields: dict[str, str | list[str]],
+    safety_gates: dict[str, bool],
     keywords: str,
     redirect_from: str,
     preserved_blocks: list[str],
@@ -602,6 +812,23 @@ def build_front_matter(
         "description: >-",
         wrap_description(description),
     ]
+
+    for key in ("intended_reader", "content_tier", "extraction_mechanism"):
+        value = corpus_fields.get(key)
+        if not value:
+            continue
+        if isinstance(value, list):
+            rendered = ", ".join(yaml_quote(item) for item in value)
+            lines.append(f"{key}: [{rendered}]")
+        else:
+            lines.append(f"{key}: {yaml_quote(value)}")
+
+    for key in ("public_safety_reviewed", "deidentified"):
+        value = safety_gates.get(key)
+        if value is None:
+            continue
+        lines.append(f"{key}: {'true' if value else 'false'}")
+
     if preserved_blocks:
         lines.extend(preserved_blocks)
     if keywords:
@@ -642,7 +869,10 @@ def sync_page(
     output_path = POSTS_DIR / filename
     redirect_from = f"/blog/posts/{filename_stem}.html"
     warnings: list[str] = []
+    website_post = is_website_post(properties)
     category = map_category(properties, page_id, warnings)
+    corpus_fields = read_corpus_fields(properties, page_id, warnings, website_post)
+    safety_gates = read_safety_gates(properties, website_post)
 
     previous_path = Path(state[page_id]) if page_id in state else None
     source_path_for_preserve = output_path if output_path.exists() else previous_path
@@ -660,6 +890,8 @@ def sync_page(
         date=publication_date,
         category=category,
         description=description,
+        corpus_fields=corpus_fields,
+        safety_gates=safety_gates,
         keywords=keywords,
         redirect_from=redirect_from,
         preserved_blocks=preserved_blocks,
@@ -776,15 +1008,23 @@ def main() -> int:
 
     results: list[SyncResult] = []
     failures: list[str] = []
+    skipped_non_website = 0
 
     for page in pages:
+        properties = page["properties"]
+        try:
+            title = get_title(properties) or page["id"]
+        except NotionSyncError:
+            title = page["id"]
+
+        if not is_website_post(properties):
+            skipped_non_website += 1
+            print(f"[skip] {title}: {skip_reason_for_non_website(properties)}")
+            continue
+
         try:
             result = sync_page(page, client, state, dry_run=args.dry_run)
         except NotionSyncError as exc:
-            try:
-                title = get_title(page["properties"]) or page["id"]
-            except NotionSyncError:
-                title = page["id"]
             message = f"[error] {title}: {exc}"
             print(message, file=sys.stderr)
             failures.append(message)
@@ -801,17 +1041,21 @@ def main() -> int:
 
     if args.dry_run:
         print(f"Dry run complete. {len(results)} posts would be processed.")
+        if skipped_non_website:
+            print(f"Skipped {skipped_non_website} non-website page(s).")
         if failures:
             print(f"Skipped {len(failures)} invalid page(s).", file=sys.stderr)
-        return 0
+        return 1 if failures else 0
 
     if not args.no_state_update:
         write_json(STATE_FILE, state)
         LAST_SYNC_FILE.write_text(now_iso() + "\n")
     print(f"Sync complete. Processed {len(results)} posts.")
+    if skipped_non_website:
+        print(f"Skipped {skipped_non_website} non-website page(s).")
     if failures:
         print(f"Skipped {len(failures)} invalid page(s).", file=sys.stderr)
-    return 0
+    return 1 if failures else 0
 
 
 if __name__ == "__main__":

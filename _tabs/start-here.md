@@ -41,6 +41,7 @@ This site is written by Jorge Arenivar, BSN, RN, CCM, CRRN, a catastrophic neuro
 
 ### You are trying to decide SNF vs home
 
+- [**SNF or Home? A Real Decision Framework for Families After Catastrophic Injury**]({% post_url 2025-04-27-snf-or-home-decision-framework-catastrophic-injury %}) - Start here if the family is being asked to choose between a skilled nursing facility and home discharge.
 - [**The Ghost SNF**]({% post_url 2024-01-09-ghost-snf-part-3 %}) - Why a facility that sounds like an option may disappear after it reviews the actual referral.
 - [**The Home Health Illusion**]({% post_url 2024-01-15-home-health-illusion-part-5 %}) - Why "home health" does not mean hospital-level help at home.
 

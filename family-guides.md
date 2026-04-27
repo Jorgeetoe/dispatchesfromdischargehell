@@ -35,6 +35,7 @@ These guides are for families trying to understand what is driving a catastrophi
 
 ## If SNF vs Home Is the Decision
 
+- [**SNF or Home? A Real Decision Framework for Families After Catastrophic Injury**]({% post_url 2025-04-27-snf-or-home-decision-framework-catastrophic-injury %}) - A practical way to compare caregiver capacity, insurance timing, home health limits, SNF bridge realities, and hidden discharge traps.
 - [**The Ghost SNF**]({% post_url 2024-01-09-ghost-snf-part-3 %}) - Why a skilled nursing facility that sounds available may disappear after reviewing the actual referral.
 - [**The Home Health Illusion**]({% post_url 2024-01-15-home-health-illusion-part-5 %}) - Why home health is not the same as hospital-level support at home.
 

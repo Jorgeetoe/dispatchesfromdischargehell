@@ -20,33 +20,53 @@ You're probably:
 
 This site is written by someone who's been in these conversations for 20 years. Not as a family member. As the person in the room whose job is to explain to both sides why they're talking past each other.
 
-## If You Read Five Things
+## Start With What Is Happening Right Now
 
-These five posts will tell you what this site is, how it thinks, and whether it's for you:
+You do not need to read this site in order.
 
-1. [**Dispatches from Discharge Hell: A 25-Part Series**]({% post_url 2024-01-01-dispatches-from-discharge-hell-25-part-series %}) - The frame. Why these patterns exist and why they keep repeating.
-2. [**The Family Readiness Mismatch (Part 1)**]({% post_url 2024-01-03-family-readiness-mismatch-part-1 %}) - The first dispatch. The hospital says "ready." The family says "for what?"
-3. [**She Knew and She Didn't Say Anything**]({% post_url 2026-02-26-she-knew-and-she-didnt-say-anything-when-payer-case-managers-weaponize-silence %}) - When silence is the strategy. How the system says "no" without ever saying "no."
-4. [**A Stop at the Policy Line**]({% post_url 2026-04-11-a-stop-at-the-policy-line %}) - When warmth meets policy-bounded authority. How the system sounds like support and delivers something else.
-5. [**The Permission to Rest**]({% post_url 2026-02-21-permission-to-rest %}) - The human side. What 20 years inside this system does to the person solving the problems.
+Start with the problem in front of you.
+
+### If discharge is being discussed and you do not understand why
+
+- [**What Actually Drives the Discharge Date?**]({% post_url 2025-04-27-what-actually-drives-the-discharge-date %}) - Start here if the date feels sudden or nobody has explained what is pushing it.
+- [**Safe or Ready Does Not Mean Appropriate**]({% post_url 2025-04-30-safe-or-ready-does-not-mean-appropriate %}) - For the gap between what the system calls safe and what your family is being asked to survive.
+- [**The Family Readiness Mismatch**]({% post_url 2024-01-03-family-readiness-mismatch-part-1 %}) - The original pattern: the hospital has a timeline, and the family is still trying to understand the injury.
+
+### If you are trying to understand the case manager's role
+
+- [**What Your Case Manager Can and Cannot Do After Catastrophic Injury**]({% post_url 2025-04-26-what-your-case-manager-can-and-cannot-do-after-catastrophic-injury %}) - What the case manager can coordinate, what they can explain, and what they usually cannot control.
+
+### If discharge is happening this week
+
+- [**If Discharge Is Happening This Week: What Families Should Ask First**]({% post_url 2025-04-28-if-discharge-is-happening-this-week-what-families-should-ask-first %}) - The checklist for the final week: what is driving the date, what is missing, who owns it, and what happens if the plan fails.
+- [**Safe or Ready Does Not Mean Appropriate**]({% post_url 2025-04-30-safe-or-ready-does-not-mean-appropriate %}) - Use this when the team says the plan is safe but the real-life pieces still do not add up.
+
+### If AI gave you a list of options
+
+- [**Why AI Gives Families Plausible but Wrong Discharge Advice**]({% post_url 2025-05-01-why-ai-gives-families-plausible-but-wrong-discharge-advice %}) - AI can help you organize questions. It cannot confirm what your insurance covers, which facility will accept, or what the local system can actually do.
+
+### If you are trying to decide SNF vs home
+
+- [**The Ghost SNF**]({% post_url 2024-01-09-ghost-snf-part-3 %}) - Why a facility that sounds like an option may disappear after it reviews the actual referral.
+- [**The Home Health Illusion**]({% post_url 2024-01-15-home-health-illusion-part-5 %}) - Why "home health" does not mean hospital-level help at home.
 
 ## What You'll Find Here
 
 ### [Dispatches]({{ '/categories/dispatches/' | relative_url }}) - When the System Is So Broken You Have to Laugh
 
-Dark humor about system absurdity. Stories where the only sane response is sarcasm, because crying isn't getting anyone discharged. These aren't jokes - they're the actual mechanics, told the way they deserve to be told.
+Dark humor about system absurdity. These are not jokes. They are the actual mechanics, told the way they feel when you are watching a plan collapse in real time.
 
 Try [**Funny How That Works (Part 7)**]({% post_url 2024-01-21-funny-how-that-works-part-7 %}) or [**She Knew and She Didn't Say Anything**]({% post_url 2026-02-26-she-knew-and-she-didnt-say-anything-when-payer-case-managers-weaponize-silence %})
 
 ### [Field Notes]({{ '/categories/field-notes/' | relative_url }}) - What to Ask, What to Watch For, What They Won't Tell You
 
-Practical guidance. What questions to ask at team conferences. What documentation matters. What a "denial" actually means when it shows up on your phone. Survival guides, not inspiration.
+Practical guidance for families under pressure. What to ask at team conferences. What documentation matters. What a "denial" actually means when it shows up on your phone. Survival guides, not inspiration.
 
-Try [**When 'Affordable' Isn't**]({% post_url 2025-05-04-when-affordable-isnt-high-stakes-hdhp-catastrophic-care %}) or [**What DOC Rehab Actually Does**]({% post_url 2026-02-15-what-doc-rehab-actually-does %})
+Try [**If Discharge Is Happening This Week**]({% post_url 2025-04-28-if-discharge-is-happening-this-week-what-families-should-ask-first %}) or [**What Actually Drives the Discharge Date?**]({% post_url 2025-04-27-what-actually-drives-the-discharge-date %})
 
 ### [The Machine]({{ '/categories/the-machine/' | relative_url }}) - How Insurance Actually Decides Who Goes Where and When
 
-How payers calculate "appropriate level of care." Why discharge timelines don't match clinical recovery. What benefits your insurance actually purchased - and what they cut from the fine print. Understanding this means understanding why.
+How payers calculate "appropriate level of care." Why discharge timelines do not match clinical recovery. What benefits your insurance actually purchased - and what they cut from the fine print. This is the machinery behind the pressure.
 
 Try [**The Family Readiness Mismatch**]({% post_url 2024-01-03-family-readiness-mismatch-part-1 %}) or [**Rehabilitation vs. Catastrophic Care**]({% post_url 2026-02-15-rehabilitation-vs-catastrophic-care %})
 
@@ -64,7 +84,7 @@ Try [**Dispatches from Discharge Hell: A 25-Part Series**]({% post_url 2024-01-0
 
 ## How This Works
 
-Posts stand alone - you don't need to read them in order. But they connect. A dispatch might reference how the machine works. A field note might point to a pattern story. The [archives]({{ '/archives/' | relative_url }}) have everything.
+Posts stand alone - you don't need to read them in order. But they connect. A dispatch might show the pattern. A field note might give you the questions to ask tomorrow morning. The [archives]({{ '/archives/' | relative_url }}) have everything.
 
 This site is not medical advice, legal counsel, or a facility recommendation guide. It's documentation - mechanics written down by someone who lives inside the system.
 
@@ -72,6 +92,6 @@ I'm Jorge Arenivar - a registered nurse with 20+ years in catastrophic neuroreha
 
 ## Your Next Step
 
-Pick one of the five posts above. Or browse the [categories]({{ '/categories/' | relative_url }}).
+Pick the situation above that matches what is happening today. If none of them fit, browse the [categories]({{ '/categories/' | relative_url }}).
 
 You're not alone in this. And the system's behavior is not your fault.

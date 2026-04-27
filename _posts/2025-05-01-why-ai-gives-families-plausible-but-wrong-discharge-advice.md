@@ -300,7 +300,7 @@ That does not help you.
 
 Use this prompt:
 
-```plain text
+```text
 My loved one is in inpatient rehab after a catastrophic injury. I am not asking you to decide the discharge plan. Help me organize questions for the care team.
 
 Separate the questions into:

@@ -268,7 +268,7 @@ That is where the discharge plan has to be honest.
 - **Ask for the actual schedule.** "Home health ordered" is not the same as an accepted agency, start date, visit frequency, and after-hours plan.
 - **Training is the safety net.** For complex home discharge, hands-on caregiver competence matters more than the phrase "home health."
 - **Pattern note:** Families often hear "support at home" when the system means "intermittent visits."
-- **Related reading:** [SNF or Home? A Real Decision Framework for Families After Catastrophic Injury]({% post_url 2025-04-27-snf-or-home-decision-framework-catastrophic-injury %}); Family Training Is Not the Same as Family Readiness; The Discharge Plan Assumes a Family That Doesn't Exist; In-Home Neuro Rehab: The Service That Exists but Nobody Mentions.
+- **Related reading:** [SNF or Home? A Real Decision Framework for Families After Catastrophic Injury]({% post_url 2025-04-27-snf-or-home-decision-framework-catastrophic-injury %}); [Family Training Is Not the Same as Family Readiness]({% post_url 2025-04-23-family-training-is-not-family-readiness %}); The Discharge Plan Assumes a Family That Doesn't Exist; In-Home Neuro Rehab: The Service That Exists but Nobody Mentions.
 
 ## Selected evidence and practice references
 

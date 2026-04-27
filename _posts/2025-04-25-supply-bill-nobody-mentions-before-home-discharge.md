@@ -334,7 +334,7 @@ The bill nobody mentions is still a bill.
 - **Ask bedside staff what they use.** The most accurate supply list often comes from watching the daily care routine.
 - **Build a short bridge.** Families should know what they need for the first days or weeks if shipments are delayed.
 - **Pattern note:** The facility supply chain disappears at the door, and the family inherits the logistics.
-- **Related reading:** [SNF or Home? A Real Decision Framework for Families After Catastrophic Injury]({% post_url 2025-04-27-snf-or-home-decision-framework-catastrophic-injury %}); [Home Health Is Not Home Care]({% post_url 2025-04-26-home-health-is-not-home-care-before-discharge %}); Family Training Is Not the Same as Family Readiness; The Discharge Plan Assumes a Family That Doesn't Exist.
+- **Related reading:** [SNF or Home? A Real Decision Framework for Families After Catastrophic Injury]({% post_url 2025-04-27-snf-or-home-decision-framework-catastrophic-injury %}); [Home Health Is Not Home Care]({% post_url 2025-04-26-home-health-is-not-home-care-before-discharge %}); [Family Training Is Not the Same as Family Readiness]({% post_url 2025-04-23-family-training-is-not-family-readiness %}); The Discharge Plan Assumes a Family That Doesn't Exist.
 
 ## Selected evidence and practice references
 

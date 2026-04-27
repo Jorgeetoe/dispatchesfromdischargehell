@@ -81,7 +81,7 @@ Home health does not include help with turning, bathing, feeding, transferring, 
 
 Home health also is not an open-ended safety net. Under Medicare, home health plans are commonly certified and reviewed in **60-day periods**. They can continue beyond that if the patient still qualifies and the provider recertifies the need, but families should think in **review periods**, not guaranteed months of hands-on help. The visit schedule can shrink, services can end when skilled need is no longer documented, and the benefit does not replace long-term caregiving.
 
-For a deeper breakdown, see **Home Health Is Not Home Care: What Families Should Know Before Discharge**.
+For a deeper breakdown, see [**Home Health Is Not Home Care: What Families Should Know Before Discharge**]({% post_url 2025-04-26-home-health-is-not-home-care-before-discharge %}).
 
 ### Is private duty nursing covered?
 
@@ -216,7 +216,7 @@ This decision framework cannot carry every hidden trap without becoming impossib
 
 **Home health is not home care.**
 
-Home health can help, but it is usually intermittent visits, not continuous caregiving. If home is being considered, understand what home health does and does not provide before using it as the safety net. See **Home Health Is Not Home Care: What Families Should Know Before Discharge**.
+Home health can help, but it is usually intermittent visits, not continuous caregiving. If home is being considered, understand what home health does and does not provide before using it as the safety net. See [**Home Health Is Not Home Care: What Families Should Know Before Discharge**]({% post_url 2025-04-26-home-health-is-not-home-care-before-discharge %}).
 
 **The supply bill is real.**
 
@@ -243,7 +243,7 @@ Naming that honestly won't make the decision easier. But it will make the decisi
 - **Home is not automatically the better moral choice.** Home may be the goal, but unsupported home discharge can turn love into unpaid infrastructure.
 - **Ask the practical question early.** "What would have to be true for home to work, and what would have to be true for SNF to work?"
 - **Pattern note:** Families are often asked to choose between unsupported best and supported worse. Naming that tradeoff makes the decision clearer.
-- **Related reading:** Home Health Is Not Home Care; The Supply Bill Nobody Mentions Before Home Discharge; When SNF Becomes Long-Term Care; [What Actually Drives the Discharge Date?]({% post_url 2025-04-27-what-actually-drives-the-discharge-date %}); Family Training Is Not the Same as Family Readiness; Why No Facility Will Accept My Loved One; The Discharge Plan Assumes a Family That Doesn't Exist.
+- **Related reading:** [Home Health Is Not Home Care]({% post_url 2025-04-26-home-health-is-not-home-care-before-discharge %}); The Supply Bill Nobody Mentions Before Home Discharge; When SNF Becomes Long-Term Care; [What Actually Drives the Discharge Date?]({% post_url 2025-04-27-what-actually-drives-the-discharge-date %}); Family Training Is Not the Same as Family Readiness; Why No Facility Will Accept My Loved One; The Discharge Plan Assumes a Family That Doesn't Exist.
 
 ## Selected evidence and practice references
 

@@ -130,7 +130,7 @@ html[data-mode="light"] {
   --ddh-border: #d0cec6;
   --ddh-border-light: #dddbd5;
 
-  --ddh-text-1: var(--text-1);
+  --ddh-text-1: #161616;
   --ddh-text-2: #5a5550;
   --ddh-text-3: #8a857f;
 
@@ -157,7 +157,7 @@ html[data-mode="light"] {
     --ddh-border: #d0cec6;
     --ddh-border-light: #dddbd5;
 
-    --ddh-text-1: var(--text-1);
+    --ddh-text-1: #161616;
     --ddh-text-2: #5a5550;
     --ddh-text-3: #8a857f;
 
@@ -350,6 +350,7 @@ article .content {
   font-weight: 700;
   line-height: 1.3;
   color: var(--ddh-text-1) !important;
+  opacity: 1;
   text-wrap: balance;
 }
 
@@ -494,8 +495,9 @@ article .content {
 .home-intro-authority {
   margin-bottom: 0;
   font-size: 0.92rem;
+  font-weight: 600;
   line-height: 1.45;
-  color: var(--text-muted-color);
+  color: var(--ddh-text-1);
 }
 
 .home-guide {
@@ -601,6 +603,13 @@ article .content {
   line-height: 1;
   color: var(--text-muted-color);
   background: var(--main-bg);
+}
+
+.footer-disclaimer {
+  margin: 0.5rem 0 0;
+  font-size: 0.78rem;
+  line-height: 1.45;
+  color: var(--text-muted-color);
 }
 
 #panel-wrapper .access section {

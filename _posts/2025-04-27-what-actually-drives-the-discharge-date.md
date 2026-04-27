@@ -527,13 +527,18 @@ The better question is:
 
 > “What is driving the discharge right now, and which part of the plan can still be changed?”
 
+## Related reading
+
+- [What Your Case Manager Can and Cannot Do After Catastrophic Injury]({% post_url 2025-04-26-what-your-case-manager-can-and-cannot-do-after-catastrophic-injury %})
+- [Safe or Ready Does Not Mean Appropriate]({% post_url 2025-04-30-safe-or-ready-does-not-mean-appropriate %})
+- [If Discharge Is Happening This Week: What Families Should Ask First]({% post_url 2025-04-28-if-discharge-is-happening-this-week-what-families-should-ask-first %})
+
 ## Notes
 
 - **Benefits matter early.** Families should ask about rehab benefits before admission when possible. If that did not happen, ask as soon as discharge planning starts.
 - **Covered is not the same as authorized.** A service can be listed as a benefit and still require medical-necessity review, prior authorization, network approval, or continued-stay approval.
 - **Discharge is multi-driver.** Medical stability, rehab need, insurance authorization, family readiness, equipment, and destination availability can all point in different directions.
 - **Pattern note:** Families often look for the one person who “decided.” In reality, discharge usually happens when several systems converge — and the person explaining it may not be the person who controls the most important lever.
-- **Related reading:** [What Your Case Manager Can and Cannot Do After Catastrophic Injury]({% post_url 2025-04-26-what-your-case-manager-can-and-cannot-do-after-catastrophic-injury %}); Case Manager, Social Worker, Discharge Planner: Who Does What in Rehab?; Safe Does Not Mean Ready.
 
 ## Selected evidence and practice references
 

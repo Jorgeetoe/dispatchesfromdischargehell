@@ -409,13 +409,18 @@ The better question is:
 
 > “What part of this can we actually change, and what do we do next?”
 
+## Related reading
+
+- [What Actually Drives the Discharge Date?]({% post_url 2025-04-27-what-actually-drives-the-discharge-date %})
+- [If Discharge Is Happening This Week: What Families Should Ask First]({% post_url 2025-04-28-if-discharge-is-happening-this-week-what-families-should-ask-first %})
+- [Why AI Gives Families Plausible but Wrong Discharge Advice]({% post_url 2025-05-01-why-ai-gives-families-plausible-but-wrong-discharge-advice %})
+
 ## Notes
 
 - **Roles vary by facility.** Some rehab hospitals split case management and social work into separate roles. Others blend the work under one title.
 - **Benefits matter early.** Families should ask about rehab benefits, covered services, prior authorization, in-network requirements, and out-of-pocket supply needs as early as possible.
 - **Peer-to-peer availability varies.** Some commercial or managed care plans may allow peer-to-peer review. Traditional Medicare discharge disagreements usually follow a different appeal process.
 - **Pattern note:** Families often blame the person explaining the limit. The more useful move is to ask who controls the lever behind that limit.
-- **Related reading:** Case Manager, Social Worker, Discharge Planner: Who Does What in Rehab?; What Actually Drives the Discharge Date?; If Discharge Is Happening This Week: What Families Should Ask First.
 
 ## Selected evidence and practice references
 

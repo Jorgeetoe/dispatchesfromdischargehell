@@ -348,13 +348,18 @@ And an appropriate discharge is not just a date on a paper.
 
 It is a plan that can survive the first night.
 
+## Related reading
+
+- [What Actually Drives the Discharge Date?]({% post_url 2025-04-27-what-actually-drives-the-discharge-date %})
+- [If Discharge Is Happening This Week: What Families Should Ask First]({% post_url 2025-04-28-if-discharge-is-happening-this-week-what-families-should-ask-first %})
+- [What Your Case Manager Can and Cannot Do After Catastrophic Injury]({% post_url 2025-04-26-what-your-case-manager-can-and-cannot-do-after-catastrophic-injury %})
+
 ## Notes
 
 - **Traditional Medicare and Medicare Advantage are not identical.** Families should follow the instructions on the specific notice they receive. Medicare Advantage plans may have different appeal pathways and plan rules.
 - **Peer-to-peer language matters.** Traditional Medicare hospital discharge disagreements generally use the QIO appeal process, not the same peer-to-peer process families may hear about with commercial or managed care authorization denials.
 - **Caregiver readiness matters clinically even when it is hard to measure administratively.** AHRQ discharge-planning materials emphasize caregiver involvement, plain-language teaching, teach-back, follow-up appointments, and discussion of what life after discharge will actually require.
 - **Pattern note:** Families often appeal from the emotional truth — “we are not ready, and this is not appropriate.” The system often reviews the operational question — “is there a discharge plan?” The strongest family advocacy translates readiness and appropriateness concerns into concrete missing safety pieces.
-- **Related reading:** [What Actually Drives the Discharge Date?]({% post_url 2025-04-27-what-actually-drives-the-discharge-date %}); [If Discharge Is Happening This Week: What Families Should Ask First]({% post_url 2025-04-28-if-discharge-is-happening-this-week-what-families-should-ask-first %}); [What Your Case Manager Can and Cannot Do After Catastrophic Injury]({% post_url 2025-04-26-what-your-case-manager-can-and-cannot-do-after-catastrophic-injury %}).
 
 ## Selected evidence and practice references
 

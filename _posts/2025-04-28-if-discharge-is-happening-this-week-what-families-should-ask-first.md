@@ -457,6 +457,12 @@ But they keep the discharge conversation from turning into fog.
 
 When the system is moving fast, clarity is safety.
 
+## Related reading
+
+- [What Actually Drives the Discharge Date?]({% post_url 2025-04-27-what-actually-drives-the-discharge-date %})
+- [Safe or Ready Does Not Mean Appropriate]({% post_url 2025-04-30-safe-or-ready-does-not-mean-appropriate %})
+- [What Your Case Manager Can and Cannot Do After Catastrophic Injury]({% post_url 2025-04-26-what-your-case-manager-can-and-cannot-do-after-catastrophic-injury %})
+
 ## Notes
 
 - **Preparation is not agreement.** Families can prepare for discharge while still questioning whether the timeline is right.
@@ -465,7 +471,6 @@ When the system is moving fast, clarity is safety.
 - **Training is a safety issue.** A family being told something once is not the same as being ready to do it at home.
 - **Follow-up is part of the discharge plan.** Specialist referrals, pending studies, and remaining procedures need an owner and a timeline before the family leaves.
 - **Pattern note:** Many discharge crises are not caused by one bad decision. They happen when five small missing pieces all become urgent during the final week.
-- **Related reading:** [What Actually Drives the Discharge Date?]({% post_url 2025-04-27-what-actually-drives-the-discharge-date %}); [What Your Case Manager Can and Cannot Do After Catastrophic Injury]({% post_url 2025-04-26-what-your-case-manager-can-and-cannot-do-after-catastrophic-injury %}); Case Manager, Social Worker, Discharge Planner: Who Does What in Rehab?; Safe Does Not Mean Ready.
 
 ## Selected evidence and practice references
 

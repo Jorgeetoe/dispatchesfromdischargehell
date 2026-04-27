@@ -321,6 +321,11 @@ article .content {
   line-height: var(--ddh-lh-body);
 }
 
+#sidebar {
+  overflow-x: hidden;
+  overflow-x: clip;
+}
+
 #sidebar .profile-wrapper {
   display: flex;
   flex-direction: column;
@@ -366,6 +371,7 @@ article .content {
   text-transform: uppercase;
   white-space: nowrap;
   color: var(--ddh-text-2) !important;
+  opacity: 1;
 }
 
 #sidebar .site-subtitle {
@@ -392,17 +398,70 @@ article .content {
   text-underline-offset: 3px;
 }
 
-#sidebar .nav-link {
+#sidebar .nav-link,
+#sidebar ul li.nav-item a.nav-link {
+  max-width: 100%;
+  box-sizing: border-box;
   border-radius: 0.8rem;
   transition:
     color 0.2s ease,
     background-color 0.2s ease;
 }
 
+#sidebar .nav-item,
 #sidebar .nav-link:hover,
-#sidebar .nav-item.active .nav-link {
+#sidebar .nav-link:focus,
+#sidebar .nav-link.active,
+#sidebar .nav-item.active .nav-link,
+#sidebar ul li.nav-item a.nav-link:hover,
+#sidebar ul li.nav-item a.nav-link:focus,
+#sidebar ul li.nav-item.active .nav-link {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+#sidebar .nav-link::before,
+#sidebar .nav-link::after,
+#sidebar .nav-item::before,
+#sidebar .nav-item::after,
+#sidebar ul li.nav-item a.nav-link::before,
+#sidebar ul li.nav-item a.nav-link::after {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+#sidebar .nav-link:hover,
+#sidebar .nav-link:focus,
+#sidebar .nav-link.active,
+#sidebar .nav-item.active .nav-link,
+#sidebar ul li.nav-item a.nav-link:hover,
+#sidebar ul li.nav-item a.nav-link:focus,
+#sidebar ul li.nav-item.active .nav-link {
   color: var(--dispatch-accent-strong);
-  background: var(--dispatch-accent-soft);
+  background-color: rgba(143, 150, 163, 0.1);
+  border-radius: 4px;
+}
+
+html[data-mode="light"] #sidebar .nav-link:hover,
+html[data-mode="light"] #sidebar .nav-link:focus,
+html[data-mode="light"] #sidebar .nav-link.active,
+html[data-mode="light"] #sidebar .nav-item.active .nav-link,
+html[data-mode="light"] #sidebar ul li.nav-item a.nav-link:hover,
+html[data-mode="light"] #sidebar ul li.nav-item a.nav-link:focus,
+html[data-mode="light"] #sidebar ul li.nav-item.active .nav-link {
+  background-color: rgba(90, 85, 80, 0.08);
+}
+
+@media (prefers-color-scheme: light) {
+  html:not([data-mode]) #sidebar .nav-link:hover,
+  html:not([data-mode]) #sidebar .nav-link:focus,
+  html:not([data-mode]) #sidebar .nav-link.active,
+  html:not([data-mode]) #sidebar .nav-item.active .nav-link,
+  html:not([data-mode]) #sidebar ul li.nav-item a.nav-link:hover,
+  html:not([data-mode]) #sidebar ul li.nav-item a.nav-link:focus,
+  html:not([data-mode]) #sidebar ul li.nav-item.active .nav-link {
+    background-color: rgba(90, 85, 80, 0.08);
+  }
 }
 
 #sidebar .sidebar-bottom a:hover {

@@ -192,7 +192,7 @@ If the plan is "SNF first, then we'll see," ask what happens when skilled covera
 
 > "We'll see" is not a payer source.
 
-For the longer SNF-to-LTC pathway, see **When SNF Becomes Long-Term Care: Self-Pay, Medicaid Pending, and the Bridge Families Don't See**.
+For the longer SNF-to-LTC pathway, see [**When SNF Becomes Long-Term Care: Self-Pay, Medicaid Pending, and the Bridge Families Don’t See**]({% post_url 2025-04-25-when-snf-becomes-long-term-care %}).
 
 ## Three Questions to Make the Decision
 
@@ -224,7 +224,7 @@ Home discharge is also a supply chain. Briefs, gloves, wipes, trach supplies, fe
 
 **SNF can become long-term care.**
 
-If SNF is being used as a bridge, ask where the bridge lands when skilled coverage ends. See **When SNF Becomes Long-Term Care: Self-Pay, Medicaid Pending, and the Bridge Families Don't See**.
+If SNF is being used as a bridge, ask where the bridge lands when skilled coverage ends. See [**When SNF Becomes Long-Term Care: Self-Pay, Medicaid Pending, and the Bridge Families Don’t See**]({% post_url 2025-04-25-when-snf-becomes-long-term-care %}).
 
 ## The Truth Nobody Says Out Loud
 
@@ -243,7 +243,7 @@ Naming that honestly won't make the decision easier. But it will make the decisi
 - **Home is not automatically the better moral choice.** Home may be the goal, but unsupported home discharge can turn love into unpaid infrastructure.
 - **Ask the practical question early.** "What would have to be true for home to work, and what would have to be true for SNF to work?"
 - **Pattern note:** Families are often asked to choose between unsupported best and supported worse. Naming that tradeoff makes the decision clearer.
-- **Related reading:** [Home Health Is Not Home Care]({% post_url 2025-04-26-home-health-is-not-home-care-before-discharge %}); [The Supply Bill Nobody Mentions Before Home Discharge]({% post_url 2025-04-25-supply-bill-nobody-mentions-before-home-discharge %}); When SNF Becomes Long-Term Care; [What Actually Drives the Discharge Date?]({% post_url 2025-04-27-what-actually-drives-the-discharge-date %}); Family Training Is Not the Same as Family Readiness; Why No Facility Will Accept My Loved One; The Discharge Plan Assumes a Family That Doesn't Exist.
+- **Related reading:** [Home Health Is Not Home Care]({% post_url 2025-04-26-home-health-is-not-home-care-before-discharge %}); [The Supply Bill Nobody Mentions Before Home Discharge]({% post_url 2025-04-25-supply-bill-nobody-mentions-before-home-discharge %}); [When SNF Becomes Long-Term Care]({% post_url 2025-04-25-when-snf-becomes-long-term-care %}); [What Actually Drives the Discharge Date?]({% post_url 2025-04-27-what-actually-drives-the-discharge-date %}); Family Training Is Not the Same as Family Readiness; Why No Facility Will Accept My Loved One; The Discharge Plan Assumes a Family That Doesn't Exist.
 
 ## Selected evidence and practice references
 

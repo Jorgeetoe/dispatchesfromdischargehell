@@ -1,6 +1,8 @@
 {{- '©' }} {{ 'now' | date: '%Y' }} {% if site.social.links %}<a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.{% else %} {{ site.social.name }}. {% endif %}{% if site.data.locales[include.lang].copyright.brief %} {{- site.data.locales[include.lang].copyright.brief -}} {% endif %}
 
 <span class="footer-nav-separator">&bull;</span>
+<a href="{{ '/blog/' | relative_url }}">Blog</a>
+<span class="footer-nav-separator">&bull;</span>
 <a href="{{ '/archives/' | relative_url }}">Archives</a>
 
 <p class="footer-disclaimer">

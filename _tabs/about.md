@@ -5,7 +5,7 @@ order: 0.5
 description: "About Jorge Arenivar, a registered nurse and case manager documenting catastrophic care, discharge planning, and insurance reality for families and clinicians."
 ---
 
-### About Jorge Arenivar
+### About Jorge and This Site
 
 > *I know which discharge plans are likely to fail before the patient reaches the parking lot. Families deserve to understand why.*
 

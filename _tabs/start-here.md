@@ -7,11 +7,13 @@ permalink: /start-here/
 description: "Start here if you're trying to understand rehab discharge timelines, insurance denials, and catastrophic care after a life-changing injury."
 ---
 
-If someone you love is in a hospital bed right now and you do not understand why the discharge conversation is already moving, start with the situation in front of you.
+If someone you love has had a catastrophic injury and everyone is already talking about the next step before anyone has explained what is happening, this site was built for you.
 
-You do not need to understand the categories first. You do not need to read the archive in order.
+They may be in the ICU, a rehab hospital, an LTAC, a skilled nursing facility, back in the hospital, or already home with a plan that sounded safer on paper than it feels in real life.
 
-This site is written by Jorge Arenivar, BSN, RN, CCM, CRRN, a catastrophic neurorehabilitation case manager with 20+ years inside discharge planning, insurance pressure, and family conferences.
+Dispatches explains the mechanics families usually learn too late: why discharge dates move, who controls what, what insurance can and cannot decide, why "safe" does not always mean appropriate, and why the next step can feel settled before the pieces are actually in place.
+
+**What this is.** A plain-language reference system for families navigating catastrophic injury care transitions, built from inside discharge planning. Written by a rehab case manager. Grounded in patterns that repeat across hundreds of cases.
 
 ## What Are You Trying to Understand Today?
 

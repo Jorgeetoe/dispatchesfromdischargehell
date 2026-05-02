@@ -23,7 +23,7 @@ redirect_from:
 
 SNF versus home is not a moral test. It is a capacity question.
 
-The right answer depends on what care is required, what support actually exists, what insurance will authorize, what equipment and supplies are ready, and whether the family can safely sustain the plan after the discharge team leaves.
+The right answer depends on what care is required, what support actually exists, what insurance will [authorize]({{ '/glossary/#authorization' | relative_url }}), what equipment and supplies are ready, and whether the family can safely sustain the plan after the discharge team leaves.
 
 Home may be the goal. SNF may be a bridge. Either path can fail if the missing pieces are not named early.
 
@@ -69,7 +69,7 @@ Some plans have a hard cap on combined days with no ability to appeal once they'
 
 In many plans, discharging home pauses the benefit clock. If your loved one needs to return to rehab later in the benefit year, those remaining days would still be available. This sounds like a good deal until you realize it means accepting medical risk at home to preserve a benefit you might not need. It's a gamble, not a gift.
 
-### What does "home health" actually mean?
+### What does "[Home Health]({{ '/glossary/#home-health' | relative_url }})" actually mean?
 
 This is where most families get blindsided. "Home health" sounds like healthcare at home. Here's what it actually is:
 

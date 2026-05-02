@@ -39,9 +39,9 @@ With that map, the conversation gets clearer.
 
 Start here:
 
-> “What is driving the discharge date right now?”
+> "What is driving the discharge date right now?"
 
-Then ask which bucket is doing the most work:
+Then ask which bucket is doing the most work. Request a [family meeting]({{ '/glossary/#family-meeting' | relative_url }}) if the answers are unclear:
 
 - medical stability
 - rehab progress
@@ -70,14 +70,14 @@ If the date is driven by placement, you need to know who has accepted, who has d
 
 Do not argue with the date before understanding what is driving it.
 
-## Second: separate “covered” from “ready”
+## Second: separate "covered" from "ready"
 
-Families often hear “covered,” “authorized,” “accepted,” and “ready” as if they mean the same thing.
+Families often hear "covered," "[authorized]({{ '/glossary/#authorization' | relative_url }})," "accepted," and "ready" as if they mean the same thing.
 
 They do not.
 
 - **Covered** means a benefit may exist under the plan.
-- **Authorized** means the payer approved something right now.
+- **[Authorized]({{ '/glossary/#authorization' | relative_url }})** means the payer approved something right now.
 - **Accepted** means a provider or facility agreed to take the patient.
 - **Ready** means the plan can actually work in real life.
 
@@ -106,7 +106,7 @@ Ask for the actual list.
 Depending on the situation, the must-have list may include:
 
 - accepting facility
-- insurance authorization for the next setting
+- insurance [authorization]({{ '/glossary/#authorization' | relative_url }}) for the next setting
 - wheelchair
 - hospital bed
 - Hoyer lift
@@ -116,7 +116,7 @@ Depending on the situation, the must-have list may include:
 - wound care supplies
 - trach supplies
 - medication access
-- home health orders
+- [home health]({{ '/glossary/#home-health' | relative_url }}) orders
 - outpatient therapy referrals
 - primary care follow-up
 - specialist follow-up

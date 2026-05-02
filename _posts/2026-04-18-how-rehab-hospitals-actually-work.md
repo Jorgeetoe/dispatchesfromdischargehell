@@ -38,9 +38,9 @@ An inpatient rehabilitation facility isn't just a rehabilitation facility. It is
 
 The stack of benchmarks works like this:
 
-**CMG expected length of stay.** Every patient admitted to an IRF gets classified into a Case Mix Group based on diagnosis, functional status, and comorbidities. Each CMG has a relative weight (how much Medicare pays) and an average length of stay published by CMS. For FY 2026, the Medicare FFS IRF average LOS is 12.5 days. A stroke patient might have a CMG expected LOS of 13 days. A severe TBI, 18–22. Those numbers are population averages. Inside these facilities, they function as targets. For Medicare fee-for-service patients, there is no separate authorization cycle. No initial 5-day approval. No 3-day continued-stay reviews. The CMG expected LOS is the clock, applied from admission, visible on every dashboard the team checks.
+**[CMG]({{ '/glossary/#cmg' | relative_url }}) expected [length of stay]({{ '/glossary/#length-of-stay--los' | relative_url }}).** Every patient admitted to an [IRF]({{ '/glossary/#inpatient-rehabilitation-facility--irf' | relative_url }}) gets classified into a Case Mix Group based on diagnosis, functional status, and comorbidities. Each CMG has a relative weight (how much Medicare pays) and an average length of stay published by CMS. For FY 2026, the Medicare FFS IRF average LOS is 12.5 days. A stroke patient might have a CMG expected LOS of 13 days. A severe TBI, 18–22. Those numbers are population averages. Inside these facilities, they function as targets. For Medicare fee-for-service patients, there is no separate authorization cycle. No initial 5-day approval. No 3-day continued-stay reviews. The CMG expected LOS is the clock, applied from admission, visible on every dashboard the team checks.
 
-**Section GG functional scores.** The IRF-PAI captures self-care and mobility scores at admission and discharge. CMS publicly reports whether patients meet or exceed an "expected" discharge score. The numbers show up on Medicare Care Compare, visible to every referring physician and payer. When your loved one's gains are small, the number looks bad, regardless of whether the gain is clinically enormous for their injury. And regardless of any clinical complications encountered.
+**Section GG functional scores.** The IRF-PAI captures self-care and mobility scores at admission and discharge. CMS publicly reports whether patients meet or exceed an "expected" discharge score. The numbers show up on Medicare Care Compare, visible to every referring physician and payer. When your loved one's gains are small, the number looks bad, regardless of whether the gain is clinically enormous for their injury. And regardless of any clinical complications, [medical necessity]({{ '/glossary/#medical-necessity' | relative_url }}), or other factors.
 
 **Community discharge rate.** What percentage of patients go home versus to a SNF or other facility. Median: 67.2%. Publicly reported. Facilities track it because it's visible competitively.
 
@@ -56,7 +56,7 @@ Each of these measurements was built for Medicare patients. Each measurement als
 
 If the benchmarks are the long-term pressure, the authorization block is the daily mechanism.
 
-Every commercial and Medicare Advantage patient arrives with an initial authorization, usually 5 to 7 days of IRF-level care. That's all. The rest of the stay has to be earned in 3-to-7 day increments, one concurrent review at a time.
+Every commercial and Medicare Advantage patient arrives with an initial [authorization]({{ '/glossary/#authorization' | relative_url }}), usually 5 to 7 days of IRF-level care. That's all. The rest of the stay has to be earned in 3-to-7 day increments, one concurrent review at a time.
 
 The sequence:
 
@@ -64,7 +64,7 @@ The sequence:
 - **Day 4.** First concurrent review submitted. Packet includes functional gains, medical complexity, therapy tolerance, discharge planning status.
 - **Day 5.** Payer's UR nurse reviews against InterQual or MCG criteria. Authorizes 3 more days or denies.
 - **Day 6–7.** If authorized, repeat. If denied, physician-to-physician "peer review" is scheduled within 24–72 hours.
-- **Day 8.** Peer review. The IRF physician has fifteen minutes to convince a payer physician (often not a rehab specialist) that the stay is still medically necessary. Wins and losses both happen here.
+- **Day 8.** [Peer review]({{ '/glossary/#peer-to-peer--p2p' | relative_url }}). The IRF physician has fifteen minutes to convince a payer physician (often not a rehab specialist) that the stay is still medically necessary. Wins and losses both happen here.
 - **Every 3–7 days after that.** Same cycle, until the payer says no and the appeal chain exhausts or until the patient is discharged.
 Nothing about this is visible to the family. They hear "the insurance approved the stay" on day 1 and assume the stay is permanent until the hospital decides it's time to go home. What actually happens is a continuous negotiation, tracked in sub-weekly increments, governed by criteria calibrated to population averages that don't describe your loved one.
 

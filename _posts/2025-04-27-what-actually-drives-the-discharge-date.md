@@ -70,7 +70,7 @@ It is the collision between all of them.
 
 The first question is medical:
 
-> Is the patient stable enough to leave this level of care?
+> Is the patient stable enough to leave this [level of care]({{ '/glossary/#level-of-care' | relative_url }})?
 
 That does not mean recovered.
 
@@ -110,7 +110,7 @@ The next question is rehab-specific:
 
 Inpatient rehab is not just a place where people recover.
 
-It is a specific level of care.
+It is a specific [level of care]({{ '/glossary/#level-of-care' | relative_url }}).
 
 The patient usually has to need coordinated rehab services, be able to participate at some level, require an interdisciplinary team, and show that continued stay at that level is reasonable under the rules being applied.
 
@@ -126,7 +126,7 @@ But the system asks a narrower question:
 
 That other setting might be:
 
-- home with home health
+- home with [home health]({{ '/glossary/#home-health' | relative_url }})
 - outpatient therapy
 - skilled nursing facility
 - long-term acute care hospital

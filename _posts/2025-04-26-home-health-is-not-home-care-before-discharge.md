@@ -20,7 +20,7 @@ redirect_from:
 
 ## Short answer
 
-Home health is not home care.
+[Home health]({{ '/glossary/#home-health' | relative_url }}) is not home care.
 
 It usually means short, intermittent visits from clinicians. It does not mean someone is stationed in the home. It does not mean daily hands-on caregiving. It does not replace the nurses, therapists, call bell, respiratory support, or 24-hour structure of a hospital or rehab facility.
 
@@ -203,7 +203,7 @@ Get the answers in writing when possible.
 
 If home is being considered, do not treat home health as the training plan.
 
-Training needs to happen before the patient leaves.
+[Caregiver training]({{ '/glossary/#caregiver-training' | relative_url }}) needs to happen before the patient leaves.
 
 Depending on the situation, that may include:
 

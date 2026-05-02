@@ -21,7 +21,7 @@ redirect_from:
 
 ## Short answer
 
-A skilled nursing facility can be a bridge. But families need to know where the bridge is supposed to land.
+A [skilled nursing facility]({{ '/glossary/#skilled-nursing-facility--snf' | relative_url }}) can be a bridge. But families need to know where the bridge is supposed to land.
 
 Sometimes SNF is a bridge to home.
 
@@ -109,7 +109,7 @@ That does not mean the skilled benefit keeps paying.
 
 Ask the discharge team and the SNF:
 
-> "If my loved one goes to SNF and cannot safely come home when skilled coverage ends, can this facility convert them to long-term care?"
+> "If my loved one goes to [SNF]({{ '/glossary/#skilled-nursing-facility--snf' | relative_url }}) and cannot safely come home when skilled coverage ends, can this facility convert them to long-term care?"
 
 Then ask:
 

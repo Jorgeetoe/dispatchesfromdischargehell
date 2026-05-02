@@ -1,19 +1,6 @@
-<!-- Custom schema enhancement -->
-<!-- jekyll-seo-tag generates WebSite and BlogPosting schemas from site config. -->
-<!-- This section adds/corrects schemas for better E-E-A-T signals. -->
+<!-- Schema enhancements: Person schema for About page -->
 
-<!-- Correct WebSite schema name (jekyll-seo-tag uses site.social.name which is the author, not site name) -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "{{ site.title }}",
-  "alternateName": "{{ site.sidebar_tagline }}",
-  "url": "{{ site.url }}"
-}
-</script>
-
-{% if (page.layout == 'page' or page.layout == 'about') and (page.title == 'About' or page.title == 'About Jorge Arenivar') %}
+{% if page.layout == 'about' %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",

@@ -6,12 +6,16 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta
     name="viewport"
-    content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
+    content="width=device-width, user-scalable=no, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
   >
 
   {%- capture seo_tags -%}
     {% seo title=false %}
   {%- endcapture -%}
+
+  {%- if page.layout == 'page' or page.layout == 'about' -%}
+    {%- assign seo_tags = seo_tags | replace: 'og:type" content="article"', 'og:type" content="website"' -%}
+  {%- endif -%}
 
   <!-- Setup Open Graph image -->
 
@@ -68,6 +72,27 @@
 
   {{ seo_tags }}
 
+  <!-- Twitter Description -->
+  <meta name="twitter:description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | escape }}">
+
+  <!-- Add WebPage schema for static pages (to supplement jekyll-seo-tag's schemas) -->
+  {% if page.layout == 'page' or page.layout == 'about' %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "headline": "{{ page.title }}",
+      "description": "{{ page.description | default: site.description | strip_html | normalize_whitespace | escape }}",
+      "url": "{{ page.url | absolute_url }}",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "{{ site.title }}",
+        "url": "{{ site.url }}"
+      }
+    }
+    </script>
+  {% endif %}
+
   {%- if site.social.fediverse_handle %}
     <!-- Fediverse handle/creator -->
     <meta name="fediverse:creator" content="{{ site.social.fediverse_handle }}">
@@ -121,9 +146,17 @@
 
   <!-- Web Font -->
   <link
-    rel="stylesheet"
+    rel="preload"
+    as="style"
     href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Source+Sans+3:wght@400;500;600;700&display=swap"
   >
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Source+Sans+3:wght@400;500;600;700&display=swap"
+    media="print"
+    onload="this.media='all'"
+  >
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Source+Sans+3:wght@400;500;600;700&display=swap"></noscript>
 
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="{{ site.data.origin[type].fontawesome.css | relative_url }}">

@@ -15,6 +15,15 @@
 
   {%- if page.layout == 'page' or page.layout == 'about' -%}
     {%- assign seo_tags = seo_tags | replace: 'og:type" content="article"', 'og:type" content="website"' -%}
+    {%- comment -%} Remove entire BlogPosting script block for static pages {%- endcomment -%}
+    {%- capture blogposting_block %}<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting"{% endcapture -%}
+    {%- if seo_tags contains blogposting_block -%}
+      {%- assign temp = seo_tags | split: blogposting_block -%}
+      {%- assign before = temp[0] -%}
+      {%- assign after_block = temp[1] | split: '</script>' | slice: 1, 999 | join: '</script>' -%}
+      {%- assign seo_tags = before | append: after_block -%}
+    {%- endif -%}
   {%- endif -%}
 
   <!-- Setup Open Graph image -->

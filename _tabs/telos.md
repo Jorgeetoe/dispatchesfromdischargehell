@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Telos
+title: Why This Site Exists
 icon: fas fa-compass
 order: 99
 permalink: /telos/
-description: "This site exists because the system depends on invisibility. The rules of discharge planning, documented from inside the machine."
+description: "The mission and principles behind Dispatches from Discharge Hell — explaining the actual mechanics of discharge planning from inside the system."
 ---
 
 ## What Is Telos?

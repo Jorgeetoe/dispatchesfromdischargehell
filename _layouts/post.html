@@ -92,6 +92,8 @@ script_includes:
     </div>
   </header>
 
+  {% include post-disclaimer.html %}
+
   {% if enable_toc %}
     <div id="toc-bar" class="d-flex align-items-center justify-content-between invisible">
       <span class="label text-truncate">{{ page.title }}</span>
@@ -218,6 +220,10 @@ script_includes:
         </section>
       {% endif %}
     {% endif %}
+
+    {% include post-footer-cta.html %}
+
+    {% include subscribe.html anchor=true %}
   </div>
 
   <div class="post-tail-wrapper text-muted">

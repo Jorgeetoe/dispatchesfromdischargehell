@@ -97,6 +97,12 @@ You're not alone in this. And the system's behavior is not your fault.
 
 ---
 
+## Discharge Language Reference
+
+Families hear a lot of unfamiliar terms during discharge planning. The [**Glossary**]({{ '/glossary/' | relative_url }}) explains common discharge, rehab, insurance, and post-acute care terms in plain language.
+
+---
+
 ## Get Guides in Your Inbox
 
 {% include subscribe.html %}

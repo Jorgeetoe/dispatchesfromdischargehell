@@ -1,0 +1,74 @@
+<!-- Custom schema overrides for E-E-A-T signals -->
+
+{% if page.layout == 'post' %}
+  <!-- BlogPosting schema with author -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "{{ page.title | jsonify }}",
+    {% if page.description %}"description": "{{ page.description | jsonify }}",{% endif %}
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    {% if page.last_modified_at %}"dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",{% endif %}
+    "author": {
+      "@type": "Person",
+      "name": "Jorge Arenivar",
+      "jobTitle": "Registered Nurse, Certified Case Manager",
+      "description": "BSN, RN, CCM, CRRN; Catastrophic Neurorehabilitation Case Manager",
+      "url": "{{ site.url | append: '/about/' }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Dispatches from Discharge Hell",
+      "url": "{{ site.url }}"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "url": "{{ page.url | absolute_url }}"
+    }
+  }
+  </script>
+{% elsif page.layout == 'page' or page.title == 'About' or page.title == 'About Jorge Arenivar' %}
+  <!-- Person schema for About page -->
+  {% if page.title == 'About' or page.title == 'About Jorge Arenivar' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Jorge Arenivar",
+    "jobTitle": "Registered Nurse, Certified Case Manager",
+    "description": "Catastrophic neurorehabilitation case manager with 20+ years in discharge planning, insurance advocacy, and family conferences.",
+    "url": "{{ site.url | append: '/about/' }}",
+    "sameAs": [
+      "https://www.linkedin.com/in/jorgearenivar/",
+      "https://twitter.com/JorgeArenivar",
+      "https://www.facebook.com/jorge.arenivar"
+    ],
+    "knowsAbout": ["Discharge Planning", "Catastrophic Injury", "Neurorehabilitation", "Insurance Authorization", "Case Management"],
+    "credential": [
+      "BSN - Bachelor of Science in Nursing",
+      "RN - Registered Nurse",
+      "CCM - Certified Case Manager",
+      "CRRN - Certified Rehabilitation Registered Nurse"
+    ]
+  }
+  </script>
+  {% endif %}
+{% endif %}
+
+<!-- Override the WebSite schema name that jekyll-seo-tag generates -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Dispatches from Discharge Hell",
+  "alternateName": "Making complex discharges make sense",
+  "url": "{{ site.url }}",
+  "description": "{{ site.description | jsonify }}",
+  "creator": {
+    "@type": "Person",
+    "name": "Jorge Arenivar",
+    "url": "{{ site.url | append: '/about/' }}"
+  }
+}
+</script>

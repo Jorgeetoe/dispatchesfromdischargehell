@@ -83,7 +83,7 @@
             {%- assign tab_key = page.title | downcase -%}
             {{- site.data.locales[include.lang].tabs[tab_key] -}}
           {%- else -%}
-            {{- page.title -}}
+            {{- page.title | clean_seo_title -}}
           {%- endif -%}
         {%- endcapture -%}
         {{- title | append: ' | ' -}}

@@ -94,3 +94,11 @@ Posts stand alone. A dispatch might show the pattern. A field note might give yo
 Pick the situation above that matches what is happening today.
 
 You're not alone in this. And the system's behavior is not your fault.
+
+---
+
+## Get Guides in Your Inbox
+
+{% include subscribe.html %}
+
+New dispatches when there's something worth saying.

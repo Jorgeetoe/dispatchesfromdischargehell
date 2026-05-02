@@ -13,7 +13,7 @@
 }
 </script>
 
-{% if page.layout == 'page' and (page.title == 'About' or page.title == 'About Jorge Arenivar') %}
+{% if (page.layout == 'page' or page.layout == 'about') and (page.title == 'About' or page.title == 'About Jorge Arenivar') %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",

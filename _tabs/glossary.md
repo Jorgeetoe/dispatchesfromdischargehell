@@ -8,8 +8,6 @@ seo_title: Discharge Planning Glossary | Dispatches from Discharge Hell
 description: Plain-language definitions of discharge planning, rehab, insurance, and post-acute care terms families hear during complex hospital discharges.
 ---
 
-# Glossary
-
 Families are often expected to make decisions using language no one has explained. This glossary defines common discharge, rehab, insurance, and post-acute care terms in plain language.
 
 **Note:** This is educational, not medical or legal advice. Your care team and insurer are responsible for case-specific guidance.

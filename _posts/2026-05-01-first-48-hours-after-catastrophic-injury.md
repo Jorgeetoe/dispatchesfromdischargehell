@@ -23,7 +23,7 @@ The first 48 hours after a catastrophic injury are not just the first treatment 
 
 They are the first care transition.
 
-Your loved one has moved from ordinary life into an [ICU]({{ '/glossary/#icu--intensive-care-unit' | relative_url }}), trauma bay, neurocritical care unit, or emergency surgical pathway. At the same time, your family is being moved into a role nobody trained for.
+Your loved one has moved from ordinary life into an ICU, trauma bay, neurocritical care unit, or emergency surgical pathway. At the same time, your family is being moved into a role nobody trained for.
 
 You may become the decision-maker.
 
@@ -184,7 +184,7 @@ In the first 48 hours, you may hear from:
 - neurocritical care;
 - ICU nursing;
 - respiratory therapy;
-- [palliative care]({{ '/glossary/#palliative-care' | relative_url }});
+- palliative care;
 - social work;
 - case management;
 - chaplaincy;
@@ -238,9 +238,9 @@ But some decisions also open doors into future care pathways.
 
 For example:
 
-- continuing mechanical ventilation may lead to a later [tracheostomy]({{ '/glossary/#tracheostomy' | relative_url }}) discussion;
+- continuing mechanical ventilation may lead to a later tracheostomy discussion;
 - prolonged inability to eat safely may lead to a feeding tube discussion;
-- severe disability may lead to [LTACH]({{ '/glossary/#ltach--ltac' | relative_url }}), [inpatient rehab]({{ '/glossary/#inpatient-rehabilitation-facility--irf' | relative_url }}), [SNF]({{ '/glossary/#skilled-nursing-facility--snf' | relative_url }}), home care, or long-term care questions;
+- severe disability may lead to [LTACH / LTAC]({{ '/glossary/#ltach--ltac' | relative_url }}), [inpatient rehabilitation]({{ '/glossary/#inpatient-rehabilitation-facility--irf' | relative_url }}), [skilled nursing]({{ '/glossary/#skilled-nursing-facility--snf' | relative_url }}), home care, or long-term care questions;
 - survival with major care needs may shift the family into months or years of coordination;
 - choosing a time-limited trial may create a defined period to reassess what recovery is starting to look like.
 
@@ -316,7 +316,7 @@ Those questions may not be asked out loud yet.
 
 But they are coming.
 
-That is why the first 48 hours matter for Dispatches. They are not separate from [discharge planning]({{ '/glossary/#discharge-planning' | relative_url }}). They are the beginning of the same system story.
+That is why the first 48 hours matter for Dispatches. They are not separate from discharge planning. They are the beginning of the same system story.
 
 The family is thinking about survival.
 

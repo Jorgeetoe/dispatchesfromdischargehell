@@ -59,16 +59,63 @@ Not after the phrase "medically stable" has already hidden what the decision was
 
 ## What the research confirms
 
-- Federal guidelines for inpatient rehab require active participation, intensive therapy, and a reasonable expectation of improvement. They also require that the patient be stable enough at admission to actually benefit from that intensity.
+**Federal guidelines for inpatient rehab require active participation, intensive therapy, and a reasonable expectation of improvement. They also require that the patient be stable enough at admission to actually benefit from that intensity.**
 
-- Recent reviews show that post-acute care selection is often opaque. It is influenced not just by clinical need but also by caregiver support, geography, and insurance restrictions.
+<a href="https://www.cms.gov/training-education/medicare-learning-networkr-mln/compliance/medicare-provider-compliance-tips/inpatient-rehabilitation-hospitals" class="bookmark-card">
+  <strong>Inpatient Rehabilitation Hospitals & Units | CMS</strong>
+  <span class="url">cms.gov</span>
+</a>
 
-- Studies on care transitions find that safety failures often happen at organizational boundaries and after arriving home, where small misalignments early on stack up into real care failures.
+---
 
-- Qualitative work on complex patients shows that discharge plans can look comprehensive in the chart but fail in the context of patients' actual lives and social conditions after discharge.
+**Recent reviews show that post-acute care selection is often opaque. It is influenced not just by clinical need but also by caregiver support, geography, and insurance restrictions.**
 
-- Research on tracheostomy discharge identifies care coordination, communication, family education, home nursing, medical equipment, and emergency planning as major barriers to safe transition.
+<a href="https://doi.org/10.1001/jamainternmed.2025.7422" class="bookmark-card">
+  <strong>Navigating Postacute Care Options for Patients After Hospital Discharge</strong>
+  <span class="url">JAMA Internal Medicine</span>
+</a>
 
-- Studies show that involving caregivers in discharge planning can reduce readmissions, but caregiver burden stays high when preparation and support are inadequate.
+---
 
-- Recent ethics literature argues that discharge decisions are subjective. They are shaped by proportionality, risk, fairness, and resource limits. "Safe enough" judgments can hide scarcity and bias.
+**Studies on care transitions find that safety failures often happen at organizational boundaries and after arriving home, where small misalignments early on stack up into real care failures.**
+
+<a href="https://doi.org/10.1186/s12913-023-09832-7" class="bookmark-card">
+  <strong>Exploring interdependencies, vulnerabilities, gaps and bridges in care transitions</strong>
+  <span class="url">BMC Health Services Research</span>
+</a>
+
+---
+
+**Qualitative work on complex patients shows that discharge plans can look comprehensive in the chart but fail in the context of patients' actual lives and social conditions after discharge.**
+
+<a href="https://doi.org/10.1002/jhm.2671" class="bookmark-card">
+  <strong>The Lived Experience of the Hospital Discharge "Plan"</strong>
+  <span class="url">Journal of Hospital Medicine</span>
+</a>
+
+---
+
+**Research on tracheostomy discharge identifies care coordination, communication, family education, home nursing, medical equipment, and emergency planning as major barriers to safe transition.**
+
+<a href="https://doi.org/10.1513/annalsats.201910-780oc" class="bookmark-card">
+  <strong>"This Is How Hard It Is." Family Experience of Hospital-to-Home Transition with a Tracheostomy</strong>
+  <span class="url">Annals of the American Thoracic Society</span>
+</a>
+
+---
+
+**Studies show that involving caregivers in discharge planning can reduce readmissions, but caregiver burden stays high when preparation and support are inadequate.**
+
+<a href="https://doi.org/10.1111/jgs.14873" class="bookmark-card">
+  <strong>Caregiver Integration During Discharge Planning for Older Adults to Reduce Resource Use: A Metaanalysis</strong>
+  <span class="url">Journal of the American Geriatrics Society</span>
+</a>
+
+---
+
+**Recent ethics literature argues that discharge decisions are subjective. They are shaped by proportionality, risk, fairness, and resource limits. "Safe enough" judgments can hide scarcity and bias.**
+
+<a href="https://publications.aap.org/pediatrics/article/155/6/e2024067585/201897/Safe-Enough-Subjective-Determinations-in-Hospital" class="bookmark-card">
+  <strong>Safe Enough: Subjective Determinations in Hospital Discharge</strong>
+  <span class="url">Pediatrics</span>
+</a>

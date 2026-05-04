@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Covered" Is a Word That Means Five Different Things
+title: '"Covered" Is a Word That Means Five Different Things'
 date: 2026-05-03
 categories: [field-notes]
 author: Jorge Arenivar

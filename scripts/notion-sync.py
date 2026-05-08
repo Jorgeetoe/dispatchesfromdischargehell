@@ -15,7 +15,7 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
-from urllib.parse import urlparse
+from urllib.parse import urlparse, unquote
 
 import requests
 from dotenv import load_dotenv
@@ -226,7 +226,12 @@ def render_rich_text(items: list[dict[str, Any]]) -> str:
             continue
 
         if item.get("href"):
-            text = f"[{text}]({item['href']})"
+            href = item["href"]
+            # Notion URL-encodes Liquid braces in link hrefs ({% ... %} and {{ ... }}).
+            # Decode them so Jekyll can process the Liquid before markdown rendering.
+            if "%7B" in href or "%7D" in href:
+                href = unquote(href)
+            text = f"[{text}]({href})"
 
         annotations = item.get("annotations", {})
 
@@ -864,11 +869,34 @@ def sync_page(
     keywords = get_keywords(properties)
     repo_slug = get_repo_slug(properties)
     slug = slugify(title)
-    filename_stem = repo_slug or f"{publication_date}-{slug}"
+
+    # Use repo_slug if provided (user control), otherwise use auto-slugified title.
+    # Always prepend the publication date so Jekyll recognizes the file as a post.
+    slug_part = repo_slug or slug
+    filename_stem = f"{publication_date}-{slug_part}"
     filename = f"{filename_stem}.md"
     output_path = POSTS_DIR / filename
     redirect_from = f"/blog/posts/{filename_stem}.html"
     warnings: list[str] = []
+
+    # Clean up stale files: same slug but different (or missing) date prefix.
+    # Prevents duplicates when publication_date changes, or when files from
+    # before this fix (which lacked date prefixes) are re-synced.
+
+    # Strict pattern: match only YYYY-MM-DD-{slug}.md to avoid greedy glob.
+    date_slug_pattern = re.compile(rf"^\d{{4}}-\d{{2}}-\d{{2}}-{re.escape(slug_part)}\.md$")
+    for candidate in POSTS_DIR.iterdir():
+        if (candidate.is_file()
+            and date_slug_pattern.match(candidate.name)
+            and candidate != output_path):
+            candidate.unlink()
+            warnings.append(f"{page_id}: removed stale duplicate {candidate.name}")
+
+    # Also check for bare slug (no date prefix) — legacy files from before this fix.
+    bare_slug_file = POSTS_DIR / f"{slug_part}.md"
+    if bare_slug_file.exists() and bare_slug_file != output_path:
+        bare_slug_file.unlink()
+        warnings.append(f"{page_id}: removed Jekyll-invalid file {bare_slug_file.name} (missing date prefix)")
     website_post = is_website_post(properties)
     category = map_category(properties, page_id, warnings)
     corpus_fields = read_corpus_fields(properties, page_id, warnings, website_post)

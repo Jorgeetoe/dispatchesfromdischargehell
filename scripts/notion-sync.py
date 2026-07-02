@@ -870,10 +870,16 @@ def sync_page(
     repo_slug = get_repo_slug(properties)
     slug = slugify(title)
 
-    # Use repo_slug if provided (user control), otherwise use auto-slugified title.
-    # Always prepend the publication date so Jekyll recognizes the file as a post.
-    slug_part = repo_slug or slug
-    filename_stem = f"{publication_date}-{slug_part}"
+    # Use repo_slug if provided (user control), otherwise generate from title.
+    # repo_slug already includes publication date (YYYY-MM-DD-slug format).
+    # Only prepend date to auto-generated slugs.
+    if repo_slug:
+        filename_stem = repo_slug
+        # Extract slug-only part from repo_slug for orphan cleanup pattern
+        slug_part = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", repo_slug)
+    else:
+        filename_stem = f"{publication_date}-{slug}"
+        slug_part = slug
     filename = f"{filename_stem}.md"
     output_path = POSTS_DIR / filename
     redirect_from = f"/blog/posts/{filename_stem}.html"
@@ -882,6 +888,7 @@ def sync_page(
     # Clean up stale files: same slug but different (or missing) date prefix.
     # Prevents duplicates when publication_date changes, or when files from
     # before this fix (which lacked date prefixes) are re-synced.
+    # Only clean up during actual sync, not dry-run.
 
     # Strict pattern: match only YYYY-MM-DD-{slug}.md to avoid greedy glob.
     date_slug_pattern = re.compile(rf"^\d{{4}}-\d{{2}}-\d{{2}}-{re.escape(slug_part)}\.md$")
@@ -889,18 +896,25 @@ def sync_page(
         if (candidate.is_file()
             and date_slug_pattern.match(candidate.name)
             and candidate != output_path):
-            candidate.unlink()
-            warnings.append(f"{page_id}: removed stale duplicate {candidate.name}")
+            if not dry_run:
+                candidate.unlink()
+                warnings.append(f"{page_id}: removed stale duplicate {candidate.name}")
+            else:
+                warnings.append(f"{page_id}: would remove stale duplicate {candidate.name}")
 
     # Also check for bare slug (no date prefix) — legacy files from before this fix.
     bare_slug_file = POSTS_DIR / f"{slug_part}.md"
     if bare_slug_file.exists() and bare_slug_file != output_path:
-        bare_slug_file.unlink()
-        warnings.append(f"{page_id}: removed Jekyll-invalid file {bare_slug_file.name} (missing date prefix)")
+        if not dry_run:
+            bare_slug_file.unlink()
+            warnings.append(f"{page_id}: removed Jekyll-invalid file {bare_slug_file.name} (missing date prefix)")
+        else:
+            warnings.append(f"{page_id}: would remove Jekyll-invalid file {bare_slug_file.name} (missing date prefix)")
     website_post = is_website_post(properties)
+    # Check safety gates BEFORE orphan cleanup to avoid deleting files for gated pages
+    safety_gates = read_safety_gates(properties, website_post)
     category = map_category(properties, page_id, warnings)
     corpus_fields = read_corpus_fields(properties, page_id, warnings, website_post)
-    safety_gates = read_safety_gates(properties, website_post)
 
     previous_path = Path(state[page_id]) if page_id in state else None
     source_path_for_preserve = output_path if output_path.exists() else previous_path

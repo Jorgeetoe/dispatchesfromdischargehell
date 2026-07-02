@@ -7,9 +7,15 @@ description: >-
   A case manager gives an exhausted mother permission to step away from
   the bedside and builds the trust infrastructure that makes rest
   possible.
-excerpt: "Caregiver guilt is different. It arrives before anyone earns it. A mother at the bedside, conditioned by catastrophic care, experiences stepping away as moral equivalent to abandonment. Here's what I learned about building trust infrastructure so families can actually rest."
+intended_reader: ["Clinician Validation", "Family Education", "Peer Insight"]
+content_tier: "Tier 2: Manifestations in Discharge Planning"
+extraction_mechanism: "Caregiver Labor"
+public_safety_reviewed: true
+deidentified: true
 keywords: "caregiver guilt catastrophic injury, caregiver rest hospital, family burnout catastrophic care, case manager emotional support, permission to rest caregiver"
 toc: true
+redirect_from:
+  - /blog/posts/2025-02-21-permission-to-rest.html
 ---
 
 "It's not that I don't love her, Horhe'."
@@ -72,7 +78,7 @@ Families sometimes need permission to leave the building *and* permission to sto
 
 One moment from that call has stayed with me.
 
-Before she opened up, I told her: *"We'll never know that you had this conversation with me."*
+Before she opened up, I made her a promise: whatever she said would stay between us — no mention to the rest of the family, nothing in a hallway conversation.
 
 That wasn't a privacy disclosure. That was trust architecture.
 
@@ -109,5 +115,7 @@ We are the ones who deliver the hard news about coverage limits. We are also the
 The system calls us discharge planners. On the days that matter most, we are something else entirely.
 
 ---
+
+*Names and identifying details in this essay have been changed to protect privacy. Dialogue is reconstructed and paraphrased.*
 
 *Jorge Arenivar is a registered nurse and certified case manager with 20+ years in catastrophic neurorehabilitation. He writes about the gap between what the healthcare system promises and what it delivers at **[Dispatches from Discharge Hell](https://dispatchesfromdischargehell.com/)**.*

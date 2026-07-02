@@ -885,6 +885,50 @@ def sync_page(
     redirect_from = f"/blog/posts/{filename_stem}.html"
     warnings: list[str] = []
 
+    # ===== VALIDATION GUARD: Repo Slug + Publication Date consistency =====
+    # For existing files: check if front-matter date would change (URL move)
+    # For new files: verify repo_slug prefix matches publication_date
+    if repo_slug:
+        # Extract date prefix from repo_slug (should be YYYY-MM-DD)
+        date_match = re.match(r"^(\d{4}-\d{2}-\d{2})-", repo_slug)
+        if not date_match:
+            # Repo slug has no valid date prefix
+            raise NotionSyncError(
+                f"Invalid Repo Slug format (missing YYYY-MM-DD prefix): {repo_slug}"
+            )
+        repo_slug_date = date_match.group(1)
+
+        # Check if file already exists
+        if output_path.exists():
+            # Existing file: check if front-matter date would change (URL move warning)
+            existing_front_matter, _ = split_front_matter(output_path.read_text())
+            if existing_front_matter:
+                existing_blocks = parse_front_matter_blocks(existing_front_matter)
+                for key, lines in existing_blocks:
+                    if key == "date":
+                        existing_date_line = "\n".join(lines)
+                        existing_date = existing_date_line.split("date:")[1].strip() if "date:" in existing_date_line else None
+                        if existing_date and existing_date != publication_date:
+                            warnings.append(
+                                f"{page_id}: URL move detected for {title} — "
+                                f"front-matter date changing from {existing_date} to {publication_date}"
+                            )
+        else:
+            # New file: repo_slug prefix must match publication_date
+            if repo_slug_date != publication_date:
+                raise NotionSyncError(
+                    f"Repo Slug date prefix {repo_slug_date} does not match Publication Date {publication_date}"
+                )
+    else:
+        # No repo_slug provided
+        try:
+            publication_date  # Will raise if not available
+        except NotionSyncError:
+            raise NotionSyncError(
+                f"Cannot generate filename: no Repo Slug and no Publication Date"
+            )
+    # ===== END VALIDATION GUARD =====
+
     # Clean up stale files: same slug but different (or missing) date prefix.
     # Prevents duplicates when publication_date changes, or when files from
     # before this fix (which lacked date prefixes) are re-synced.

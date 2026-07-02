@@ -380,6 +380,26 @@ redirect_from:
 
 - If a post with the same filename already exists in `_posts/`, **overwrite it** (Notion is the source of truth for published content)
 - If a published post is set back to Draft or Archived in Notion, do NOT auto-delete the Jekyll post — log a warning instead
+
+### Validation Guard: Repo Slug & Publication Date Consistency
+
+Before writing any post file, the sync validates the Repo Slug and Publication Date:
+
+**For existing files** (matched by Repo Slug on disk):
+- If the front-matter `date:` differs from the Publication Date in Notion, log a warning (indicates a URL move)
+- Allow the update with the URL move warning
+
+**For new files** (Repo Slug provided, file doesn't exist):
+- The Repo Slug prefix (YYYY-MM-DD) must match the Publication Date
+- If they mismatch, skip the row and log a warning instead of creating a duplicate file
+- If Repo Slug has no valid date prefix (e.g., `what-happens-if-we-refuse-discharge`), skip and warn
+
+**For auto-generated filenames** (no Repo Slug provided):
+- Publication Date must be available to generate a valid Jekyll filename
+- If both are missing, skip and warn — never create a file without a date
+
+This guard prevents duplicate files when Repo Slugs are stale, and catches accidental URL moves.
+
 ### Dry Run Mode
 
 `python scripts/notion-sync.py --dry-run`

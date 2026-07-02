@@ -230,10 +230,18 @@ def render_rich_text(items: list[dict[str, Any]]) -> str:
 
         if item.get("href"):
             href = item["href"]
-            # Notion URL-encodes Liquid braces in link hrefs ({% ... %} and {{ ... }}).
-            # Decode them so Jekyll can process the Liquid before markdown rendering.
-            if "%7B" in href or "%7D" in href:
+            # Notion URL-encodes Liquid braces and special characters in link hrefs.
+            # Always decode so Jekyll can process Liquid and links render correctly.
+            if "%7B" in href or "%7D" in href or "%27" in href or "%20" in href or "%7C" in href:
                 href = unquote(href)
+            # Glossary links: Notion stores as '/glossary/#anchor' | relative_url pattern.
+            # Normalize to Liquid form for Jekyll processing.
+            if "/glossary/#" in href and "relative_url" in href:
+                # Extract the glossary anchor from the decoded pattern: '/glossary/#anchor' | relative_url
+                match = re.search(r"['\"]?(/glossary/#[^'\"]+)['\"]?\s*\|\s*relative_url", href)
+                if match:
+                    anchor = match.group(1)
+                    href = f"{{{{ '{anchor}' | relative_url }}}}"
             text = f"[{text}]({href})"
 
         annotations = item.get("annotations", {})
@@ -683,13 +691,13 @@ def render_block(
         return f"{pad}{text}\n\n" if text else "\n"
 
     if block_type == "heading_1":
-        return f"{pad}## {render_rich_text(data.get('rich_text', []))}\n\n"
+        return f"{pad}# {render_rich_text(data.get('rich_text', []))}\n\n"
 
     if block_type == "heading_2":
-        return f"{pad}### {render_rich_text(data.get('rich_text', []))}\n\n"
+        return f"{pad}## {render_rich_text(data.get('rich_text', []))}\n\n"
 
     if block_type == "heading_3":
-        return f"{pad}#### {render_rich_text(data.get('rich_text', []))}\n\n"
+        return f"{pad}### {render_rich_text(data.get('rich_text', []))}\n\n"
 
     if block_type == "bulleted_list_item":
         line = f"{pad}- {render_rich_text(data.get('rich_text', []))}\n"
@@ -866,12 +874,23 @@ def sync_page(
     properties = page["properties"]
     page_id = page["id"]
     title = get_title(properties)
-    publication_date = get_publication_date(properties)
     summary = get_summary(properties)
     description = truncate_description(summary or title)
     keywords = get_keywords(properties)
     repo_slug = get_repo_slug(properties)
     slug = slugify(title)
+
+    # Try to get publication_date; guard will report missing fields if needed
+    try:
+        publication_date = get_publication_date(properties)
+    except NotionSyncError as e:
+        # If both Repo Slug and Publication Date are missing, report both
+        if not repo_slug:
+            raise NotionSyncError(
+                f"Missing required fields: Repo Slug and Publication Date"
+            )
+        # Otherwise, re-raise the original error (Publication Date missing)
+        raise
 
     # Use repo_slug if provided (user control), otherwise generate from title.
     # repo_slug already includes publication date (YYYY-MM-DD-slug format).

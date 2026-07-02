@@ -6,6 +6,11 @@ categories: [when-it-breaks]
 description: >-
   When catastrophic injury blows up the official family story, the awkward
   person in the corner is sometimes the only discharge plan that can work.
+intended_reader: ["Clinician Validation", "Peer Insight"]
+content_tier: "Tier 2: Manifestations in Discharge Planning"
+extraction_mechanism: "Information Asymmetry"
+public_safety_reviewed: true
+deidentified: true
 excerpt: "When catastrophic injury blows up the official family story, the awkward person in the corner is sometimes the only discharge plan that can actually work."
 keywords: "complex family discharge planning, nontraditional caregiver hospital discharge, catastrophic care family dynamics, caregiver wild card discharge"
 toc: true
@@ -116,3 +121,7 @@ That phone call is the reason I keep widening the net. Not because the system as
 The intake form still doesn't have a box for that.
 
 But I know what to do when they walk through the door.
+
+---
+
+*The stories in this essay are composites drawn from many cases over 20+ years of practice; identifying details have been changed and dialogue is reconstructed to protect privacy.*

@@ -16,6 +16,7 @@ excerpt: "Clinical staff are expected to be infinitely flexible, creative, and s
 keywords: "caregiver hotel program discharge, out of town family discharge planning, hospital policy catch-22, catastrophic care discharge delays"
 toc: true
 redirect_from:
+  - /blog/posts/2026-02-21-flex-for-me-not-for-thee/
   - /blog/posts/2026-01-03-flex-for-me-not-for-thee.html
 ---
 
@@ -25,7 +26,7 @@ But ask *them* to bend? Suddenly there are rules.
 
 ---
 
-## The Setup
+### The Setup
 
 Out-of-town mom. Trach patient. Discharge target had already slipped from Sunday. By Wednesday, this caregiver had been living out of a hospital room for days, waiting for the green light to take her child home.
 
@@ -35,7 +36,7 @@ She didn't call.
 
 Wednesday afternoon, the bedside nurse calls me. The patient doesn't have a suction machine.
 
-## What Actually Happened
+### What Actually Happened
 
 Two things were going on, and neither one was negligence.
 
@@ -45,7 +46,7 @@ Second, and this is the one that matters: there were financial barriers she was 
 
 So she said she had it. Because saying she didn't meant explaining *why* she didn't.
 
-## The Fix (That Almost Worked)
+### The Fix (That Almost Worked)
 
 I called my vendor contact. He arranged payment. Problem solved, except the training couldn't happen until Thursday morning.
 
@@ -53,7 +54,7 @@ By Thursday, this mom was done. She'd been stuck since Sunday. She needed to get
 
 One more night. That's all we needed.
 
-## The Hotel
+### The Hotel
 
 Our hospital has a hotel program for out-of-town caregivers. It exists specifically for situations like this: families who've traveled for catastrophic care and need a place to stay during the final stretch before discharge.
 
@@ -69,7 +70,7 @@ Let me say that again: the system created the problem that delayed discharge. Th
 
 That's not a policy. That's a Catch-22 with a logo on it.
 
-## The Runaround
+### The Runaround
 
 I called the liaison who runs the hotel program. She didn't want to tell me no, so she punted to the regional liaison.
 
@@ -83,7 +84,7 @@ I offered to make the case myself. Because at that point, I'd already made it th
 
 Three layers of people who all had the authority to say yes. None of them wanted to own it.
 
-## The Real Issue
+### The Real Issue
 
 This isn't about a hotel room. A hotel room costs what, $150? Maybe $200?
 

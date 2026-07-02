@@ -15,7 +15,7 @@ deidentified: true
 keywords: "caregiver guilt catastrophic injury, caregiver rest hospital, family burnout catastrophic care, case manager emotional support, permission to rest caregiver"
 toc: true
 redirect_from:
-  - /blog/posts/2026-02-21-permission-to-rest.html
+  - /blog/posts/2025-02-21-permission-to-rest.html
 ---
 
 "It's not that I don't love her, Horhe'."
@@ -28,7 +28,7 @@ I've been in this field for over 20 years. I've sat across from hundreds of fami
 
 ---
 
-## What They Think My Job Is
+### What They Think My Job Is
 
 Most people think my job as a catastrophic discharge planner is to be the bad guy. The one who walks into the room with a clipboard and tells you your time is up. The one who points at a calendar and explains, carefully and diplomatically, that the insurance authorization runs out on Friday and we need to talk about next steps.
 
@@ -40,7 +40,7 @@ The side where the job is simply to give someone permission to rest.
 
 ---
 
-## The Call
+### The Call
 
 Roxanne hadn't slept properly since the injury. She'd been at the bedside for weeks: hyper-vigilant, present for every physician round, refreshing the MyChart portal for updates at 2 AM. She was running on adrenaline and guilt, in roughly equal measure.
 
@@ -56,7 +56,7 @@ What I was doing, whether I called it that or not, was a clinical intervention w
 
 ---
 
-## The Scaffold
+### The Scaffold
 
 What followed was something I've done so many times I almost don't notice I'm doing it anymore: building the communication infrastructure that makes rest psychologically possible.
 
@@ -74,7 +74,7 @@ Families sometimes need permission to leave the building *and* permission to sto
 
 ---
 
-## The Confidentiality Move
+### The Confidentiality Move
 
 One moment from that call has stayed with me.
 
@@ -90,7 +90,7 @@ That's not in the job description either.
 
 ---
 
-## After the Call
+### After the Call
 
 When it was over, I exhaled (the way you do after you've been holding something without realizing it) and said to no one in particular:
 
@@ -102,7 +102,7 @@ The word *"dynamics"* was doing a lot of work in that exhale. It was shorthand f
 
 ---
 
-## What the System Measures
+### What the System Measures
 
 The system measures my throughput. My denial reversal rate. My length-of-stay data. My authorization days per case.
 

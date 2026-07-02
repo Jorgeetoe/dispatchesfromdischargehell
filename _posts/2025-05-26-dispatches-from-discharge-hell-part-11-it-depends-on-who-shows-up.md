@@ -7,11 +7,6 @@ description: >-
   The Family Presence Variable: the same discharge plan succeeds or fails
   based on which family member keeps showing up, learning the skills, and
   staying present.
-intended_reader: ["Family Education", "Clinician Validation"]
-content_tier: "Tier 2: Manifestations in Discharge Planning"
-extraction_mechanism: "Caregiver Labor"
-public_safety_reviewed: true
-deidentified: true
 excerpt: "The same patient can go home or to a facility based less on diagnosis than on which family member keeps showing up, learning the skills, and staying in the room."
 series: dispatches-from-discharge-hell
 series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
@@ -22,7 +17,7 @@ redirect_from:
   - /blog/posts/2025-05-26-dispatches-from-discharge-hell-part-11-it-depends-on-who-shows-up.html
 ---
 
-## Part 11 of 25: The Family Presence Variable
+### Part 11 of 25: The Family Presence Variable
 
 *Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About*
 
@@ -93,17 +88,6 @@ We document family engagement meticulously. Not to blame the family. To protect 
 When we write "family unable to complete return demonstration of catheterization due to scheduling constraints," that is not a judgment. It is a clinical fact that changes the discharge plan. When we write "primary caregiver attended 2 of 8 scheduled training sessions," that is not an accusation. It is data that determines whether home discharge is safe.
 
 The chart tells the medical story. Family presence tells the discharge story. And in catastrophic care, the discharge story is the one that determines where the patient spends the next year of their life.
-
----
-
-**What families can do right now**
-
-- **Name your primary caregiver on day one.** Not on discharge day. Day one. Write the name down. Tell the nurse and the case manager.
-- **Name at least one backup.** One caregiver is not a plan. One caregiver is a bottleneck.
-- **Ask for the training schedule in writing.** Every required skill. Every date. Every shift. Ask which sessions have evening or weekend options.
-- **If you cannot make the 8-to-5 window, say so immediately.** We cannot build workarounds we do not know you need.
-- **Keep your own log of every training session you attend.** If the chart later reads *family unable to complete return demonstration*, your log is the second record.
-The system assumes you can be here. If you cannot, the plan has to change. Tell us early, not at discharge.
 
 ---
 

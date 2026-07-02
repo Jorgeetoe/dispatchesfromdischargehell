@@ -7,11 +7,6 @@ description: >-
   Families arrive expecting months. The case manager has weeks. Part 1
   introduces the Family Readiness Mismatch and the catastrophic-care
   reframe beneath it.
-intended_reader: ["Family Education", "Clinician Validation"]
-content_tier: "Tier 2: Manifestations in Discharge Planning"
-extraction_mechanism: "Information Asymmetry"
-public_safety_reviewed: true
-deidentified: true
 series: dispatches-from-discharge-hell
 series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
 series_part: 1
@@ -26,7 +21,7 @@ redirect_from:
   - /blog/posts/2024-01-03-family-readiness-mismatch-part-1.html
 ---
 
-## Part 1 of 25: The Family Readiness Mismatch
+### Part 1 of 25: The Family Readiness Mismatch
 
 *Dispatches from Discharge Hell — A 25-Part Series on the Patterns Nobody Warns You About*
 
@@ -85,17 +80,6 @@ That Monday mother? She was the Willing but Overwhelmed type. She meant every wo
 We can teach the skills. We can't teach the endurance.
 
 And the system gave us three weeks to try.
-
----
-
-**What families can do right now**
-
-- **Ask for the CMG-expected length of stay in writing on day one.** Not *how long will he be here* — ask for the Case Mix Group estimate. That number drives the timeline. Know it.
-- **Name your primary caregiver and at least one backup before the first family meeting.** Before the clock starts on training.
-- **Start documenting every training session you complete.** Date, skill, who trained you. If the chart later says you weren't ready, your log is the second record.
-- **Ask what *****safe discharge***** means at this facility.** *Safe* and *appropriate* are not the same word. Ask which one you're working toward.
-- **If you don't understand a CMG, an authorization, or a concurrent review — say so.** Every time. The team assumes you understand. They will not correct the assumption unless you interrupt it.
-The system will move on the CMG timeline whether you're ready or not. The only variable you control is how informed you are when it does.
 
 ---
 

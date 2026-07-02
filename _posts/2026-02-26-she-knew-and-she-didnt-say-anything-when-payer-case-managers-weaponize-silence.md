@@ -6,6 +6,11 @@ categories: [when-it-breaks]
 description: >-
   A payer case manager knew the wife was planning for SNF and said nothing
   about the missing SNF benefit. No denial letter. Just silence.
+intended_reader: ["Family Education", "Clinician Validation", "Policy Reckoning"]
+content_tier: "Tier 1: Extraction Mechanism Deep Dive"
+extraction_mechanism: "Information Asymmetry"
+public_safety_reviewed: true
+deidentified: true
 excerpt: "A payer case manager knew the wife was building a skilled-nursing plan the policy would never cover and stayed silent anyway. No denial letter. Just trust weaponized by omission."
 keywords: "insurance case manager withholding information, payer case manager not helping, SNF benefits denial, performative case management, insurance negligence by omission, healthcare information asymmetry"
 toc: true
@@ -47,7 +52,7 @@ The wife praised this case manager. Told our social worker how helpful she'd bee
 
 She had none of that. She had someone who answered the phone and sounded kind and withheld the one piece of information that mattered.
 
-I talk about **the Ignorance Premium** — the gap between having insurance and understanding what it actually covers. But this isn't a family failing to read the fine print. This is a professional who understood the fine print, understood the family's plan, and chose to let them walk into a wall she could see and they couldn't.
+I talk about the [Ignorance Premium](https://dispatchesfromdischargehell.com/blog/) — the gap between having insurance and understanding what it actually covers. But this isn't a family failing to read the fine print. This is a professional who understood the fine print, understood the family's plan, and chose to let them walk into a wall she could see and they couldn't.
 
 The trust didn't develop accidentally. Payer case managers are trained to build rapport with members. That rapport serves a real function when it's paired with honest guidance. When it's not, the rapport becomes the cover story. The family's gratitude becomes evidence that the system worked. *She was so helpful.* The file looks clean. The member was engaged. The case manager was present.
 
@@ -80,3 +85,7 @@ The wife will find out eventually. She always does. And when she does, she won't
 That's the design. The person who withheld the information stays clean. The person who delivers it takes the hit.
 
 We've seen it before. We'll see it again. The system doesn't need to deny you when it can just not tell you.
+
+---
+
+*Identifying details in this essay have been changed to protect privacy. Dialogue is reconstructed and paraphrased.*

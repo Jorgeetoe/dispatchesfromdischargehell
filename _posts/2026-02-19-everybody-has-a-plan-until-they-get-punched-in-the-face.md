@@ -24,7 +24,7 @@ I think about that every time a family starts talking cash pay for catastrophic 
 
 The daily rate at an inpatient rehab facility like ours runs **$3,500 to $5,000 per day**, and that doesn't include physician fees.[[1]](https://www.medpac.gov/wp-content/uploads/2024/10/MedPAC_Payment_Basics_25_IRF_FINAL_SEC.pdf) That's the punch. Most people blink. Some don't. But most do.
 
-### Mr. Cool
+## Mr. Cool
 
 The husband arrived calm. Laid back. Mr. Cool.
 
@@ -34,7 +34,7 @@ His concern wasn't the projected length of stay. It was having the ability to pa
 
 So I gave him the counterpunch.
 
-#### The Numbers
+### The Numbers
 
 "The daily rate is $3,500 to $5,000, not including physician fees. If you come in with insurance, you can't convert to self-pay mid-stay. That's our policy."
 
@@ -46,7 +46,7 @@ This didn't alarm me. I've done this for a while. But the calm, the name-droppin
 
 Then I called my boss.
 
-#### The Red Flag That Isn't
+### The Red Flag That Isn't
 
 "I need to flag something," I told him.
 
@@ -60,7 +60,7 @@ I hung up. The case proceeded. Mr. Cool stayed Mr. Cool.
 
 Until the new year hit.
 
-### The Call
+## The Call
 
 The patient had been admitted at least a month before the calendar flipped. When January arrived, the insurance UR nurse called me.
 
@@ -76,7 +76,7 @@ She said she would. I hung up.
 
 Then I called the husband.
 
-#### The Crack
+### The Crack
 
 He kept the Mr. Cool persona when he answered. But I could sense a crack in it. Humanness beyond what he'd displayed before.
 
@@ -98,7 +98,7 @@ The Mr. Cool persona was no longer at the forefront. Crumbs of it remained, but 
 
 The UR nurse did call back. She confirmed: calendar year plan. The 45 days had reset. We were good on authorization.
 
-#### The Reveal
+### The Reveal
 
 The sigh of relief from the husband told me everything.
 
@@ -114,7 +114,7 @@ $4,000 a day. Seven days left. That's $28,000. Not including physician fees. Not
 
 Mr. Cool had done that math before he ever walked in the door. He'd just hoped he'd never have to write the check.
 
-### The Aftermath
+## The Aftermath
 
 Afterward, he was so thankful I could barely stand to listen to it.
 
@@ -126,7 +126,7 @@ I wasn't.
 
 "That's just how it goes," I said, "until you present people with the bill. You always get a step back. Not always — I've worked with people who genuinely don't blink. But this guy did. Like most."
 
-### What the Numbers Actually Mean
+## What the Numbers Actually Mean
 
 Let me break it down the way I explained it to him on day one.
 
@@ -144,7 +144,7 @@ Which means if you *think* you might want to extend your stay beyond what insura
 
 Most families don't know that until I tell them. And by then, it's too late.
 
-### The Plan and The Punch
+## The Plan and The Punch
 
 Everybody has a plan.
 

@@ -40,7 +40,7 @@ It's not victory.
 
 It's injury.
 
-### What Moral Injury Actually Means
+## What Moral Injury Actually Means
 
 Moral injury was originally used to describe combat veterans: soldiers who witnessed or participated in actions that violated their moral code, often under orders or institutional pressure.[[1]](https://www.ptsd.va.gov/professional/treat/cooccurring/moral_injury_hcw.asp) The term migrated to healthcare around 2018, and COVID accelerated its visibility.
 
@@ -52,7 +52,7 @@ For case managers in catastrophic care, moral injury doesn't come from doing the
 
 It comes from doing the job correctly, and watching what that does to people.
 
-### The Conference Room
+## The Conference Room
 
 The family walks in convinced that if they fight hard enough, ask the right questions, escalate to the right person, something will change.
 
@@ -74,7 +74,7 @@ I know all of this before they walk in the door.
 
 And my job is to make them know it too.
 
-#### The Counters
+### The Counters
 
 When they finally pause, when they're tired, when the questions start repeating, I take my turn.
 
@@ -92,7 +92,7 @@ By the end of the meeting, they understand. The system isn't hiding an option I 
 
 And I'm the one who did it.
 
-### The Guilt
+## The Guilt
 
 There's a moment, usually near the end of the meeting, where I can see it happen.
 
@@ -118,7 +118,7 @@ Anger, because this meeting happens every week, and nothing about the structure 
 
 I would almost rather argue and be held at a different level of cruelty. Because sometimes that feeling, it's not a feeling of victory. It's a feeling of injury. Of disappointment in the system.
 
-### What Nobody Tells You About This Job
+## What Nobody Tells You About This Job
 
 Case management or social work in catastrophic care is described as **coordination**. Care coordination. Discharge coordination. Benefit coordination.
 
@@ -134,7 +134,7 @@ The system made this job cruel.
 
 I'm just the one holding the mirror.
 
-### The Meeting Room Is Where It Happens
+## The Meeting Room Is Where It Happens
 
 In the brochure, it's called "family education" or "expectation management." Care conferences. Interdisciplinary team meetings. Discharge planning sessions.
 
@@ -150,7 +150,7 @@ And the case manager and social worker sit there afterward, sometimes alone, won
 
 There isn't.
 
-### The Moral Injury Is That Succeeding Hurts
+## The Moral Injury Is That Succeeding Hurts
 
 Burnout is when the job exhausts you.
 

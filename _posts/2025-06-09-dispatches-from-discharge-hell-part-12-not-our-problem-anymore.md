@@ -7,6 +7,11 @@ description: >-
   The Hot Potato Protocol: a patient who fits no department cleanly gets
   transferred from unit to unit while rehab days burn and no one owns the
   whole problem.
+intended_reader: ["Clinician Validation", "Peer Insight"]
+content_tier: "Tier 2: Manifestations in Discharge Planning"
+extraction_mechanism: "Hospital Incentive"
+public_safety_reviewed: true
+deidentified: true
 excerpt: "A patient who fits no department cleanly gets transferred from unit to unit while authorized rehab days burn and no one department owns the whole problem."
 series: dispatches-from-discharge-hell
 series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
@@ -17,7 +22,7 @@ redirect_from:
   - /blog/posts/2025-06-09-dispatches-from-discharge-hell-part-12-not-our-problem-anymore.html
 ---
 
-### Part 12 of 25: The Hot Potato Protocol
+## Part 12 of 25: The Hot Potato Protocol
 
 *Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About*
 

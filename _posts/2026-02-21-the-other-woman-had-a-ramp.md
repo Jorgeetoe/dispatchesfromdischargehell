@@ -30,7 +30,7 @@ The awkward family member is sometimes the only real discharge option you have.
 
 ---
 
-### The System's Assumption
+## The System's Assumption
 
 Discharge planning runs on a model. Patient arrives. Family is notified. Primary caregiver is identified. That person is trained, educated, and eventually the patient goes home with them.
 
@@ -44,7 +44,7 @@ I've learned to see it as information.
 
 ---
 
-### Who Shows Up
+## Who Shows Up
 
 When someone is critically ill, people come out of the woodwork. An estranged sibling who hasn't spoken to the patient in a decade. A former partner who drove six hours because they heard about the accident on social media. A girlfriend who didn't know the patient was still legally married. A boyfriend the family didn't know existed.
 
@@ -66,7 +66,7 @@ I'm not suggesting we ignore family dynamics or route around legal relationships
 
 ---
 
-### What the Wild Card Caregiver Has
+## What the Wild Card Caregiver Has
 
 The person with something to prove is often the most reliable person in the building.
 
@@ -82,7 +82,7 @@ The discharge planner's job is not to adjudicate the family's relational history
 
 ---
 
-### The Part Nobody Says Out Loud
+## The Part Nobody Says Out Loud
 
 Here's what nobody says in the family meeting: *I know this situation is complicated. I know there are people in this room who didn't know about each other until last Tuesday. I know the legal family is the legal family and the actual-care-situation may be a different configuration entirely.*
 
@@ -94,7 +94,7 @@ Sometimes that person was standing in the back of the room while everyone else w
 
 ---
 
-### What I've Learned to Do
+## What I've Learned to Do
 
 I've learned to widen the net early. When the conventional family unit shows signs of fracture (the inconsistency, the conflict, the unanswered calls) I start paying attention to who else is present.
 

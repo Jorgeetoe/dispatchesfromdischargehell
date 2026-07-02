@@ -7,6 +7,11 @@ description: >-
   The Ghost SNF — facilities verbally accept complex patients and then
   reverse after 'reviewing the case.' The pattern of post-acute placement
   collapse.
+intended_reader: ["Family Education", "Clinician Validation"]
+content_tier: "Tier 2: Manifestations in Discharge Planning"
+extraction_mechanism: "Vendor/Payer Externalization"
+public_safety_reviewed: true
+deidentified: true
 series: dispatches-from-discharge-hell
 series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
 series_part: 3
@@ -17,7 +22,7 @@ redirect_from:
   - /blog/posts/2024-01-09-ghost-snf-part-3.html
 ---
 
-### Part 3 of 25: The Ghost SNF
+## Part 3 of 25: The Ghost SNF
 
 *Dispatches from Discharge Hell — A 25-Part Series on the Patterns Nobody Warns You About*
 

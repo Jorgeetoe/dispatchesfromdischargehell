@@ -20,11 +20,10 @@ notes:
 keywords: "disorders of consciousness misdiagnosis, DOC misdiagnosis rate, brain injury misdiagnosis, vegetative state misdiagnosis, insurance denial brain injury"
 toc: true
 redirect_from:
-  - /blog/posts/2026-02-21-the-misdiagnosis-tax/
   - /blog/posts/2025-12-12-the-misdiagnosis-tax.html
 ---
 
-### The Misdiagnosis Tax
+## The Misdiagnosis Tax
 
 Here's a number that should keep someone up at night: **23.5%.**
 
@@ -36,7 +35,7 @@ And it's wrong almost a quarter of the time.
 
 ---
 
-#### The Label Is the Leash
+### The Label Is the Leash
 
 In catastrophic care, the diagnosis isn't just a clinical finding. It's a financial instrument.
 
@@ -56,7 +55,7 @@ The system didn't fail to treat them. The system failed to *see* them. And then 
 
 ---
 
-#### Who Assigns the Label?
+### Who Assigns the Label?
 
 This is where it gets structural.
 
@@ -76,7 +75,7 @@ The patient got better. The label didn't.
 
 ---
 
-#### The Denial Feedback Loop
+### The Denial Feedback Loop
 
 Here's the architecture of the problem:
 
@@ -89,7 +88,7 @@ The system punishes accuracy. The initial misdiagnosis is treated as the baselin
 
 ---
 
-#### The Ones Who Never Get In
+### The Ones Who Never Get In
 
 That 23.5% misdiagnosis rate is from patients who *made it* to a specialized program. Ninety-seven admissions in a fiscal year. At one facility.
 
@@ -105,7 +104,7 @@ That's not a gap in the system. That's the system working exactly as designed.
 
 ---
 
-#### What the Data Actually Says
+### What the Data Actually Says
 
 A program with a Case Mix Index of 2.99, more than double the national average of 1.41, is taking the most complex patients in the country. Patients other facilities won't touch. Patients insurance companies have already written off.
 
@@ -130,7 +129,7 @@ Because the label is cheaper than the assessment. The denial is cheaper than the
 
 ---
 
-#### The Tax, Itemized
+### The Tax, Itemized
 
 The misdiagnosis isn't an accident. It's structural. The facilities that assign the wrong label don't have the tools to assign the right one. The payers who rely on the wrong label don't have the incentive to question it. The patients who carry the wrong label don't have the visibility to challenge it.
 
@@ -140,7 +139,7 @@ That's the tax. Paid in time, in denial appeals, in weeks or months of wrongly w
 
 ---
 
-### Sources & Data Log
+## Sources & Data Log
 
 <details><summary>Program Outcomes Data (FY25)</summary>
 

@@ -7,6 +7,10 @@ description: >-
   Series introduction to Dispatches from Discharge Hell: who it's for,
   what catastrophic discharge planning looks like, and the reframe
   families need first.
+content_tier: "Tier 1.5: Light Compositing"
+extraction_mechanism: "Information Asymmetry"
+public_safety_reviewed: true
+deidentified: true
 series: dispatches-from-discharge-hell
 series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
 excerpt: "Over 25 posts, I walk through the recurring patterns that unfold across hundreds of catastrophic discharges. These aren't isolated incidents. They're structural. Built into the system. Repeated so predictably I can predict the trajectory from the preadmission assessment."
@@ -23,7 +27,7 @@ redirect_from:
   - /blog/posts/2024-01-01-dispatches-from-discharge-hell-25-part-series.html
 ---
 
-### Introducing the Series
+## Introducing the Series
 
 ---
 
@@ -45,7 +49,7 @@ That's what this series does.
 
 ---
 
-#### What This Series Is
+### What This Series Is
 
 Over the next 25 posts, I'm going to walk through the recurring patterns I've watched play out across hundreds of catastrophic cases and discharges. These aren't isolated incidents. They're not bad luck. They're **structural**: built into the way the system operates, repeated so consistently that I can predict the trajectory from the preadmission assessment — before the first family meeting even happens.
 
@@ -55,7 +59,7 @@ This is not a policy paper. This is not an academic exercise. This is one case m
 
 ---
 
-#### The Reframe You Need First
+### The Reframe You Need First
 
 Before any of this makes sense, you need to understand one thing: **what the system calls "inpatient neuro rehab" is actually catastrophic care.**
 
@@ -73,7 +77,7 @@ And the people inside it — the families, the clinicians — we're human. Our h
 
 ---
 
-#### The Four Phases
+### The Four Phases
 
 The series follows the arc of my own evolution — from the early disorientation of realizing what this job actually is, to the point where I could name the system's architecture and call it what it is.
 
@@ -95,7 +99,7 @@ The full weight. The guardianship bottleneck. The system error that crystallizes
 
 ---
 
-#### Who This Is For
+### Who This Is For
 
 **Families** — the person sitting in the ICU waiting room at 2 AM searching for what happens next. Research shows that patients whose families attended **at least 10% of therapy time** had better community participation and cognitive outcomes at 3 and 9 months post-discharge. Your presence matters. Your knowledge matters more. You deserve to know what's coming before it blindsides you. These posts won't make the system less broken. But they'll help you see it clearly, ask better questions, and recognize the patterns before they become crises.
 
@@ -105,7 +109,7 @@ The full weight. The guardianship bottleneck. The system error that crystallizes
 
 ---
 
-#### Why I'm Writing This
+### Why I'm Writing This
 
 I always wanted to be a writer. I planned to be a nurse instead. Twenty years inside the machine changed the math. Watching the same patterns repeat. Watching families hit the same walls. Watching the system absorb its own dysfunction and call it normal. I couldn't not say it out loud.
 

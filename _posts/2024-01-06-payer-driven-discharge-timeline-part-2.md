@@ -7,6 +7,11 @@ description: >-
   The Payer-Driven Discharge Timeline — insurance sets the date based on
   financial benchmarks, not clinical reality. The CMG clock and what
   'plateaued' really…
+intended_reader: ["Family Education", "Policy Reckoning"]
+content_tier: "Tier 1: Extraction Mechanism Deep Dive"
+extraction_mechanism: "Insurance Authorization"
+public_safety_reviewed: true
+deidentified: true
 series: dispatches-from-discharge-hell
 series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
 series_part: 2
@@ -17,7 +22,7 @@ redirect_from:
   - /blog/posts/2024-01-06-payer-driven-discharge-timeline-part-2.html
 ---
 
-### Part 2 of 25: The Payer-Driven Discharge Timeline
+## Part 2 of 25: The Payer-Driven Discharge Timeline
 
 *Dispatches from Discharge Hell — A 25-Part Series on the Patterns Nobody Warns You About*
 

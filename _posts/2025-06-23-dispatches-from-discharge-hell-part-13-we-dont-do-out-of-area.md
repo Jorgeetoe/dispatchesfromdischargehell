@@ -7,6 +7,11 @@ description: >-
   The Out-of-Area Care Burden: destination-hospital patients go home to
   zip codes with thinner networks, fewer vendors, and weaker post-acute
   support.
+intended_reader: ["Family Education", "Clinician Validation"]
+content_tier: "Tier 2: Manifestations in Discharge Planning"
+extraction_mechanism: "Information Asymmetry"
+public_safety_reviewed: true
+deidentified: true
 excerpt: "Destination-hospital patients go home to zip codes with thinner networks, fewer vendors, and almost none of the post-acute infrastructure that made the admission possible."
 series: dispatches-from-discharge-hell
 series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
@@ -17,7 +22,7 @@ redirect_from:
   - /blog/posts/2025-06-23-dispatches-from-discharge-hell-part-13-we-dont-do-out-of-area.html
 ---
 
-### Part 13 of 25: The Out-of-Area Care Burden
+## Part 13 of 25: The Out-of-Area Care Burden
 
 *Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About*
 
@@ -82,6 +87,17 @@ The institution does not account for the out-of-area burden in workload. A local
 Nobody says, "This patient came from 400 miles away, so the case manager and social worker get extra time." The clock is the clock. The bed is the bed. The discharge is the discharge.
 
 Except it is not. And the case manager and social worker absorb the difference.
+
+---
+
+**What families can do right now**
+
+- **Tell the case manager your home zip code on day one.** Not on discharge day. Not at the family meeting. Day one. Geographic distance is a planning variable, not a surprise.
+- **Verify the insurance network in your home zip code before discharge.** *Covered in Houston* does not mean covered in your town. Call your insurer and ask which home health agencies, SNFs, and DME vendors are in-network at your home address.
+- **If your policy was issued in Texas, ask about Chapter 1352 post-acute brain injury benefits.** The mandate follows the policy, not the patient's address.
+- **Start calling home-area providers yourself.** The case manager is working the phones remotely. An extra set of calls from a family member who knows the community often opens doors the hospital cannot.
+- **Plan the transport home before you plan anything else.** Medical transport across state lines is rarely covered. A 400-mile stretcher ride with oxygen can cost thousands. Know the number before discharge day.
+The hospital is excellent at bringing you in. Getting home is your work, shared with a team that has never seen your community. Start early.
 
 ---
 

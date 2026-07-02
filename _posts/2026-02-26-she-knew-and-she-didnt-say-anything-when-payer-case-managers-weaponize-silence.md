@@ -34,7 +34,7 @@ And she said nothing.
 
 Not because she didn't know what the wife was planning. She told us the wife was "planning on doing something different." Which means she'd had the conversation. She understood the trajectory. She just chose not to correct it.
 
-### The Compliance Box
+## The Compliance Box
 
 Here's what the payer case manager did: she called. She asked about the discharge plan. She was available. She was warm. She checked every box that her employer requires to demonstrate member engagement.
 
@@ -44,7 +44,7 @@ That's not a denial. There's no letter. No peer-to-peer. No appeal process. It's
 
 The wife didn't get a "no." She got nothing. And nothing, when you're trusting someone to guide you, feels exactly like "yes."
 
-### Trust as a Weapon
+## Trust as a Weapon
 
 The part that makes this cruel isn't the silence. It's the relationship.
 
@@ -58,7 +58,7 @@ The trust didn't develop accidentally. Payer case managers are trained to build 
 
 Present and silent. 
 
-### The Rational Incentive
+## The Rational Incentive
 
 This isn't a story about a bad person. It's a story about a system that rewards exactly this behavior.
 
@@ -66,7 +66,7 @@ The payer case manager's job, as designed, is not to inform. It's to manage. And
 
 The silence isn't negligence in the way most people understand the word. It's strategy that looks like negligence. The case manager's rational incentive is to not inform, because informed families make demands. Uninformed families exhaust their options quietly.
 
-### What the Family Loses
+## What the Family Loses
 
 When the wife eventually finds out there are no SNF benefits, she won't just lose a placement option. She'll lose time she spent researching facilities that were never viable. She'll lose the emotional energy she invested in a plan that was dead before she started building it. She'll lose confidence in a relationship she thought was real.
 
@@ -74,7 +74,7 @@ And she'll lose trust. Not just in this case manager, but in the next one. The n
 
 This is a dependent patient. Mid-forties spouse. A wife who didn't choose this and is trying to navigate it with whatever tools the system gives her. The least the system can do — the absolute floor — is tell her the truth.
 
-### The Quiet Machine
+## The Quiet Machine
 
 We talk a lot about denials. The letter that arrives on a Friday. The peer-to-peer that goes nowhere. The authorization that expires without a response. Those are the loud failures. The ones families can see, can fight, can appeal.
 

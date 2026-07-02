@@ -7,6 +7,11 @@ description: >-
   The Complexity-Admission Mismatch — the hospital's reputation attracts
   the hardest cases, but its financial model rewards throughput. When
   census pressure…
+intended_reader: ["Clinician Validation", "Peer Insight"]
+content_tier: "Tier 1: Extraction Mechanism Deep Dive"
+extraction_mechanism: "Hospital Incentive"
+public_safety_reviewed: true
+deidentified: true
 series: dispatches-from-discharge-hell
 series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
 series_part: 8
@@ -17,7 +22,7 @@ redirect_from:
   - /blog/posts/2024-01-24-complexity-admission-mismatch-part-8.html
 ---
 
-### Part 8 of 25: The Complexity-Admission Mismatch
+## Part 8 of 25: The Complexity-Admission Mismatch
 
 *Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About*
 

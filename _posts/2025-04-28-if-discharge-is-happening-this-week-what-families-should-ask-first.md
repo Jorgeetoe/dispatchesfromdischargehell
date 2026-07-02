@@ -3,11 +3,15 @@ layout: post
 title: "If Discharge Is Happening This Week: What Families Should Ask First"
 date: 2025-04-28
 categories: [field-notes]
-author: Jorge Arenivar
 description: >-
-  Urgent family-facing checklist for the final week before discharge, organized
-  around what is driving the date, what insurance has authorized, what must be
-  in place, what the family owns, and what backup plan exists.
+  Urgent family-facing checklist for the final week before discharge,
+  organized around what is driving the date, what insurance has
+  authorized, what must be in…
+intended_reader: ["Family Education", "Clinician Validation"]
+content_tier: "Tier 3: Actionable Resources/Family Guides"
+public_safety_reviewed: true
+deidentified: true
+author: Jorge Arenivar
 excerpt: "If discharge is happening this week, do not try to solve everything at once. Start by separating the plan into four buckets."
 tags: [discharge-planning, inpatient-rehab, family-discharge-checklist, insurance-authorization, rehab-benefits, specialist-follow-up, peg-removal, cranioplasty-follow-up, family-training, discharge-safety]
 keywords: "discharge happening this week, hospital discharge checklist family, inpatient rehab discharge checklist, what to ask before discharge, family discharge planning checklist, specialist follow-up after discharge, PEG removal follow-up, cranioplasty follow-up, rehab benefits, insurance authorization, discharge safety"
@@ -16,7 +20,7 @@ redirect_from:
   - /blog/posts/2025-04-28-if-discharge-is-happening-this-week-what-families-should-ask-first.html
 ---
 
-> **Educational note:** This article is general education. It is not medical advice, legal advice, insurance advice, or a substitute for your care team, payer, attorney, or state-specific resources. If discharge is happening soon, ask your care team which steps apply to your loved one.
+> ⚠️ **Educational note:** This article is general education. It is not medical advice, legal advice, insurance advice, or a substitute for your care team, payer, attorney, or state-specific resources. If discharge is happening soon, ask your care team which steps apply to your loved one.
 
 ## Short answer
 
@@ -25,10 +29,9 @@ If discharge is happening this week, do not try to solve everything at once. A g
 During the last week, your job is to separate and finalize the discharge plan into four buckets:
 
 1. **What must be true before discharge can safely happen**
-2. **What insurance has actually authorized**
-3. **What the family must learn or arrange**
-4. **What backup plan exists if the preferred plan fails**
-
+1. **What insurance has actually authorized**
+1. **What the family must learn or arrange**
+1. **What backup plan exists if the preferred plan fails**
 That is the map.
 
 Without that map, families get pulled into panic.
@@ -39,7 +42,7 @@ With that map, the conversation gets clearer.
 
 Start here:
 
-> "What is driving the discharge date right now?"
+> “What is driving the discharge date right now?”
 
 Then ask which bucket is doing the most work. Request a [family meeting]({{ '/glossary/#family-meeting' | relative_url }}) if the answers are unclear:
 
@@ -55,7 +58,6 @@ Then ask which bucket is doing the most work. Request a [family meeting]({{ '/gl
 - transportation
 - medication readiness
 - home health or outpatient therapy setup
-
 This matters because the answer changes your next move.
 
 If the date is driven by medical stability, you need the physician’s rationale.
@@ -70,9 +72,9 @@ If the date is driven by placement, you need to know who has accepted, who has d
 
 Do not argue with the date before understanding what is driving it.
 
-## Second: separate "covered" from "ready"
+## Second: separate “covered” from “ready”
 
-Families often hear "covered," "[authorized]({{ '/glossary/#authorization' | relative_url }})," "accepted," and "ready" as if they mean the same thing.
+Families often hear “covered,” “[authorized]({{ '/glossary/#authorization' | relative_url }}),” “accepted,” and “ready” as if they mean the same thing.
 
 They do not.
 
@@ -80,7 +82,6 @@ They do not.
 - **[Authorized]({{ '/glossary/#authorization' | relative_url }})** means the payer approved something right now.
 - **Accepted** means a provider or facility agreed to take the patient.
 - **Ready** means the plan can actually work in real life.
-
 A discharge plan can still fail if any one of those pieces is missing.
 
 Covered, but not authorized.
@@ -125,7 +126,6 @@ Depending on the situation, the must-have list may include:
 - family training
 - home accessibility
 - caregiver availability
-
 Then ask:
 
 > “Which of these are completed, which are pending, and which are blocking discharge?”
@@ -163,7 +163,6 @@ The answer may include:
 - choosing a home health or outpatient provider when options exist
 - calling insurance to clarify benefits
 - providing documents for Medicaid, disability, FMLA, or financial assistance
-
 This is not about blaming the family.
 
 It is about not losing time.
@@ -175,16 +174,15 @@ If something belongs to you, you need to know that today, not the morning of dis
 Ask the case manager:
 
 1. **What has insurance authorized so far?**
-2. **When does the current authorization end?**
-3. **Is another review pending?**
-4. **Has anything been denied?**
-5. **Is a peer-to-peer available or already completed?**
-6. **Is there an appeal option?**
-7. **What benefits are still available for SNF, home health, outpatient therapy, equipment, transportation, or private duty nursing?**
-8. **Does the plan require prior authorization for the next setting?**
-9. **Is the recommended provider in network?**
-10. **What would happen financially if we refuse the discharge plan?**
-
+1. **When does the current authorization end?**
+1. **Is another review pending?**
+1. **Has anything been denied?**
+1. **Is a peer-to-peer available or already completed?**
+1. **Is there an appeal option?**
+1. **What benefits are still available for SNF, home health, outpatient therapy, equipment, transportation, or private duty nursing?**
+1. **Does the plan require prior authorization for the next setting?**
+1. **Is the recommended provider in network?**
+1. **What would happen financially if we refuse the discharge plan?**
 That last question is uncomfortable.
 
 Ask it anyway.
@@ -218,7 +216,6 @@ Ask:
 - What follow-up appointments are already scheduled?
 - What do we do if home health does not show up?
 - Who do we call first if something goes wrong?
-
 ### If the plan is SNF or another facility
 
 Ask:
@@ -232,7 +229,6 @@ Ask:
 - Can the facility manage trach, feeding tube, wound care, behaviors, medications, or complex equipment?
 - When is transport expected?
 - What happens if the facility backs out?
-
 ### If the plan is outpatient therapy
 
 Ask:
@@ -244,7 +240,6 @@ Ask:
 - Is transportation realistic?
 - What happens if there is a waitlist?
 - Who manages medical issues between appointments?
-
 A discharge destination is not real until the operational details are real.
 
 ## Seventh: ask for the follow-up and remaining-procedure timeline
@@ -263,7 +258,6 @@ For catastrophic injury, important decisions may happen after discharge:
 - wound care follow-up
 - repeat imaging, labs, or swallow studies
 - future procedures such as PEG removal, trach changes, bone flap replacement, or cranioplasty
-
 Ask:
 
 > “What is still medically unfinished, who owns each follow-up, and what timeline are we supposed to follow?”
@@ -282,7 +276,6 @@ The better questions are:
 - Who decides removal: GI, surgery, primary care, rehab, or another team?
 - Is there a minimum time from placement before removal is considered?
 - What problems should trigger an urgent call?
-
 The same logic applies to cranioplasty.
 
 The question is not only:
@@ -297,7 +290,6 @@ It is:
 - What factors could delay surgery, such as swelling, wound healing, infection, hydrocephalus, CSF leak, anticoagulation, or other medical issues?
 - What helmet or activity precautions apply until then?
 - What symptoms should trigger urgent evaluation?
-
 Families need a visible owner, a rough timeline, the criteria for the next step, and the number to call if the plan changes.
 
 ## Eighth: ask for training by task, not by discipline
@@ -327,17 +319,15 @@ The list may include:
 - skin checks
 - behavior redirection
 - emergency warning signs
-
 Then ask:
 
 1. Who will train us?
-2. When will training happen?
-3. Who in the family must attend?
-4. Do we need to demonstrate the skill?
-5. What happens if we are not comfortable after one session?
-6. Can we get written instructions?
-7. Who do we call after discharge if we forget something?
-
+1. When will training happen?
+1. Who in the family must attend?
+1. Do we need to demonstrate the skill?
+1. What happens if we are not comfortable after one session?
+1. Can we get written instructions?
+1. Who do we call after discharge if we forget something?
 Training is not a box.
 
 Training is the difference between a plan that holds and a plan that collapses.
@@ -363,7 +353,6 @@ It should answer:
 - What are the warning signs?
 - Who do we call first?
 - What is the backup plan?
-
 If nobody can explain the plan in one page, the plan may not be clear enough yet.
 
 ## Tenth: know when to escalate
@@ -384,7 +373,6 @@ Consider asking for a family meeting if:
 - insurance has denied more time
 - you believe the discharge is unsafe
 - you need the physician to explain the medical rationale directly
-
 Ask for the physician, case manager, social worker, nursing, and therapy when possible.
 
 Keep the question focused:
@@ -416,21 +404,20 @@ It gives you clearer facts, better questions, and fewer surprises.
 If discharge is happening this week, ask:
 
 1. **What is driving the discharge date?**
-2. **What has insurance authorized?**
-3. **What benefits remain?**
-4. **Where is my loved one going next?**
-5. **Is that destination confirmed?**
-6. **What equipment is ordered, approved, and delivered?**
-7. **What supplies are covered, and what do we need to buy?**
-8. **What medications must be picked up before discharge?**
-9. **What training must be completed?**
-10. **Who in the family must be trained?**
-11. **What specialist referrals and follow-up appointments are already scheduled?**
-12. **What procedures or medical decisions are still pending after discharge?**
-13. **Who owns the timeline for PEG removal, trach changes, cranioplasty, imaging, labs, or other remaining items?**
-14. **Who do we call if something goes wrong?**
-15. **What is the backup plan if the preferred plan fails?**
-
+1. **What has insurance authorized?**
+1. **What benefits remain?**
+1. **Where is my loved one going next?**
+1. **Is that destination confirmed?**
+1. **What equipment is ordered, approved, and delivered?**
+1. **What supplies are covered, and what do we need to buy?**
+1. **What medications must be picked up before discharge?**
+1. **What training must be completed?**
+1. **Who in the family must be trained?**
+1. **What specialist referrals and follow-up appointments are already scheduled?**
+1. **What procedures or medical decisions are still pending after discharge?**
+1. **Who owns the timeline for PEG removal, trach changes, cranioplasty, imaging, labs, or other remaining items?**
+1. **Who do we call if something goes wrong?**
+1. **What is the backup plan if the preferred plan fails?**
 Print that list if needed.
 
 Bring it to the next meeting.
@@ -459,10 +446,9 @@ When the system is moving fast, clarity is safety.
 
 ## Related reading
 
-- [What Actually Drives the Discharge Date?]({% post_url 2025-04-27-what-actually-drives-the-discharge-date %})
-- [Safe or Ready Does Not Mean Appropriate]({% post_url 2025-04-30-safe-or-ready-does-not-mean-appropriate %})
-- [What Your Case Manager Can and Cannot Do After Catastrophic Injury]({% post_url 2025-04-26-what-your-case-manager-can-and-cannot-do-after-catastrophic-injury %})
-
+- [What Actually Drives the Discharge Date?](https://dispatchesfromdischargehell.com/blog/posts/2025-04-27-what-actually-drives-the-discharge-date/)
+- [Safe or Ready Does Not Mean Appropriate](https://dispatchesfromdischargehell.com/blog/posts/2025-04-30-safe-or-ready-does-not-mean-appropriate/)
+- [What Your Case Manager Can and Cannot Do After Catastrophic Injury](https://dispatchesfromdischargehell.com/blog/posts/2025-04-26-what-your-case-manager-can-and-cannot-do-after-catastrophic-injury/)
 ## Notes
 
 - **Preparation is not agreement.** Families can prepare for discharge while still questioning whether the timeline is right.
@@ -471,7 +457,6 @@ When the system is moving fast, clarity is safety.
 - **Training is a safety issue.** A family being told something once is not the same as being ready to do it at home.
 - **Follow-up is part of the discharge plan.** Specialist referrals, pending studies, and remaining procedures need an owner and a timeline before the family leaves.
 - **Pattern note:** Many discharge crises are not caused by one bad decision. They happen when five small missing pieces all become urgent during the final week.
-
 ## Selected evidence and practice references
 
 - Agency for Healthcare Research and Quality. [IDEAL Discharge Planning overview](https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html).

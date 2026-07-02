@@ -7,6 +7,11 @@ description: >-
   Satirical manual exposing the unspoken mechanics of P2P (peer-to-peer)
   insurance reviews — the timing exploitation, authority hijack tactics,
   compliance fear…
+intended_reader: ["Clinician Validation", "Peer Insight"]
+content_tier: "Tier 1: Extraction Mechanism Deep Dive"
+extraction_mechanism: "Insurance Authorization"
+public_safety_reviewed: true
+deidentified: true
 keywords: "peer to peer review, P2P insurance review, medical gaslighting, insurance authorization, case management, inpatient rehab authorization"
 toc: true
 redirect_from:
@@ -23,7 +28,7 @@ After enough of these calls, a pattern appears. Not because the injuries change,
 
 This piece is the public-facing version of that pattern recognition. If it reads like satire, that's because the underlying system already is.
 
-### The Launch
+## The Launch
 
 After 100+ analyzed P2P calls, I kept coming back to the same uncomfortable truth: some of what determines approval has very little to do with the patient's actual need and far too much to do with how that need lands on a recorded line.
 
@@ -38,7 +43,7 @@ What's inside that pattern library?
 - The authority-hijack language that bypasses critical thinking
 - Compliance phrases that make denial feel riskier than approval
 - The strange way urgency, timing, and human fatigue shape outcomes
-### Moneyball for Medical Necessity
+## Moneyball for Medical Necessity
 
 Officially, the P2P is a clinical review. Unofficially, it's sabermetrics for suffering.
 
@@ -50,32 +55,32 @@ Years ago, I started tracking these calls the way a sports analyst tracks at-bat
 
 When a medically defensible request loses to vague policy language or performative certainty, you either accept the strikeout or learn the strike zone.
 
-### The "Background" Variables We Pretend Don't Matter
+## The "Background" Variables We Pretend Don't Matter
 
 I started logging non-clinical noise. Literally.
 
-#### Background animal acoustics
+### Background animal acoustics
 
 - **Dog bark (muffled):** Signals family life, normalcy, caretaking, and domestic reality
 - **Cat meow (distant):** Reads bookish, calm, and unintentionally disarming
 - **Rooster crow (rare, rural):** A niche variable, but memorable when it lands
-#### Musical underscoring
+### Musical underscoring
 
 - **Soft classical:** Calm, evidence-forward, competent energy
 - **Corporate lo-fi:** Operational, organized, polished
 - **Country radio bleed:** Oddly effective in the right regional context
-#### Call pacing
+### Call pacing
 
 - Fast cadence + crisp numbers = prepared
 - Slow cadence + hedging = uncertain ask
-#### Temporal choreography
+### Temporal choreography
 
 - **11:52 AM** = hungry people move
 - **Top of the hour** = worst time for flexibility
 - **Bottom of the hour** = best chance they're already running late
 Yes, it sounds ridiculous. It is ridiculous. It's also familiar to anyone who's done enough of these calls to stop pretending they're purely objective.
 
-### The Authority Hijack
+## The Authority Hijack
 
 One of the oldest tricks in the room is also the simplest: don't just say *the patient needs more rehab.* Say something that makes the reviewer feel procedural exposure.
 
@@ -85,7 +90,7 @@ A line like *"Discontinuation at this juncture would be inconsistent with establ
 
 That's the architecture beneath the joke. The P2P is supposed to be a neutral review. In practice, it often rewards whoever understands the emotional and institutional pressure points better.
 
-### The Inconvenient Reality
+## The Inconvenient Reality
 
 Every seasoned case manager knows the same thing: reviewers are not machines. They're humans with bladders, mortgage payments, email backlogs, weekend plans, and varying tolerance for friction.
 

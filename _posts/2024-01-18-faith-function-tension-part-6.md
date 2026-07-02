@@ -7,6 +7,11 @@ description: >-
   The Faith-Function Tension — when a family's spiritual framework
   conflicts with the medical timeline and clinical options. Houston's
   diversity makes this a…
+intended_reader: ["Clinician Validation", "Family Education"]
+content_tier: "Tier 2: Manifestations in Discharge Planning"
+extraction_mechanism: "Information Asymmetry"
+public_safety_reviewed: true
+deidentified: true
 series: dispatches-from-discharge-hell
 series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
 series_part: 6
@@ -17,7 +22,7 @@ redirect_from:
   - /blog/posts/2024-01-18-faith-function-tension-part-6.html
 ---
 
-### Part 6 of 25: The Faith-Function Tension
+## Part 6 of 25: The Faith-Function Tension
 
 *Dispatches from Discharge Hell — A 25-Part Series on the Patterns Nobody Warns You About*
 

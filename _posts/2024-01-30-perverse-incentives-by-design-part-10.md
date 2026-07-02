@@ -7,6 +7,11 @@ description: >-
   Perverse Incentives by Design — every actor in the discharge ecosystem
   is responding rationally to their incentives. The patient just isn't the
   one the…
+intended_reader: ["Policy Reckoning", "Clinician Validation"]
+content_tier: "Tier 1: Extraction Mechanism Deep Dive"
+extraction_mechanism: "Regulatory Capture"
+public_safety_reviewed: true
+deidentified: true
 series: dispatches-from-discharge-hell
 series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
 series_part: 10
@@ -17,7 +22,7 @@ redirect_from:
   - /blog/posts/2024-01-30-perverse-incentives-by-design-part-10.html
 ---
 
-### Part 10 of 25: Perverse Incentives by Design
+## Part 10 of 25: Perverse Incentives by Design
 
 *Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About*
 

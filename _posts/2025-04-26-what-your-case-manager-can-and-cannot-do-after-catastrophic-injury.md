@@ -3,11 +3,15 @@ layout: post
 title: "What Your Case Manager Can and Cannot Do After Catastrophic Injury"
 date: 2025-04-26
 categories: [field-notes]
-author: Jorge Arenivar
 description: >-
-  Family-facing cornerstone guide explaining what case managers can coordinate,
-  influence, and explain — and what they cannot control during catastrophic
-  discharge planning.
+  Family-facing cornerstone guide explaining what case managers can
+  coordinate, influence, and explain — and what they cannot control during
+  catastrophic…
+intended_reader: ["Family Education"]
+content_tier: "Tier 3: Actionable Resources/Family Guides"
+public_safety_reviewed: true
+deidentified: true
+author: Jorge Arenivar
 excerpt: "Your case manager can help you understand the discharge plan, identify barriers, coordinate referrals, communicate with the team, and explain what options are realistic."
 tags: [case-management, discharge-planning, rehab-benefits, insurance-authorization, family-education, catastrophic-care]
 keywords: "what does a hospital case manager do, case manager discharge planning, what can a case manager do, catastrophic injury discharge planning, family guide case manager rehab, rehab benefits, insurance authorization, family education"
@@ -16,7 +20,7 @@ redirect_from:
   - /blog/posts/2025-04-26-what-your-case-manager-can-and-cannot-do-after-catastrophic-injury.html
 ---
 
-> **Educational note:** This article is general education based on catastrophic discharge-planning patterns. It is not medical advice, legal advice, or a substitute for your care team, insurance plan documents, or state-specific rules.
+> ⚠️ **Educational note:** This article is general education based on catastrophic discharge-planning patterns. It is not medical advice, legal advice, or a substitute for your care team, insurance plan documents, or state-specific rules.
 
 ## Evidence anchor
 
@@ -53,7 +57,6 @@ The case manager is usually the one talking about:
 - transportation
 - appeals
 - barriers
-
 So it is natural for families to think:
 
 > “If this person is coordinating everything, they must be able to fix everything.”
@@ -79,7 +82,6 @@ A case manager can explain:
 - what the next step is
 - what insurance benefits and limits are known so far
 - what still has to be authorized before the plan is real
-
 A good case manager should be able to say, in plain language:
 
 > “Here is what we are trying to do. Here is what is blocking it. Here is what we control. Here is what we do not control.”
@@ -88,7 +90,6 @@ They should also be able to help you separate two things families often hear as 
 
 - **Your rehab benefit:** what your plan says is covered in general.
 - **Your authorization:** what the payer has approved for this stay, this level of care, and this point in time.
-
 Those are not the same thing.
 
 You can have a rehab benefit and still be denied more inpatient rehab days.
@@ -109,7 +110,6 @@ A case manager can send referrals to:
 - transport companies
 - community resources
 - medical supply companies
-
 But sending a referral is not the same as securing acceptance.
 
 A facility can say no.
@@ -144,7 +144,6 @@ Families need to know the difference between:
 - whether services require prior authorization
 - whether the provider has to be in network
 - whether benefits reset by calendar year, plan year, episode, or not at all
-
 Those details shape what options are actually available.
 
 They also explain why two families with similar injuries can face completely different discharge pathways.
@@ -160,7 +159,6 @@ A case manager can help sort options into buckets:
 - not clinically appropriate
 - not available in the area
 - dependent on family capacity
-
 This can feel harsh.
 
 But clear sorting protects families from spending all their energy chasing a path that does not exist.
@@ -190,7 +188,6 @@ That may include:
 - transportation barrier
 - pending physician decision
 - appeal in progress
-
 Documentation matters because the system often only believes what is written.
 
 ## What a case manager usually cannot do
@@ -237,7 +234,6 @@ A skilled nursing facility may decline because of:
 - weight
 - transportation distance
 - perceived risk
-
 Some reasons are stated clearly.
 
 Some are not.
@@ -272,7 +268,6 @@ That person may need to manage:
 - equipment
 - transportation
 - insurance calls
-
 The case manager can help identify what the caregiver needs to learn.
 
 They cannot make an unavailable, unsafe, exhausted, or unwilling caregiver into a complete discharge plan.
@@ -309,15 +304,7 @@ But it is real.
 
 ## Who controls what?
 
-| Issue | Who may influence it | Who usually controls it |
-| --- | --- | --- |
-| Insurance approval | Clinical team, case manager, physician | Insurance plan / payer criteria / appeal process |
-| SNF acceptance | Case manager, family, referral packet | Receiving facility |
-| Home health acceptance | Case manager, physician orders | Home health agency and payer benefit |
-| Equipment or supply delivery | Therapy, case manager, vendor, payer | Vendor timeline, payer authorization, product availability |
-| Family training | Therapy, nursing, family, case manager | Clinical team and family availability |
-| Peer-to-peer / discharge appeal | Family, physician, clinical team | Payer reviewer / appeal reviewer / QIO process |
-| Caregiver availability | Family system | Family reality |
+<!-- Unsupported Notion block type: table -->
 
 ## What to ask your case manager
 
@@ -326,19 +313,18 @@ If you are in the middle of a catastrophic discharge plan, ask direct questions.
 ### Start here
 
 1. **What is the current recommended discharge plan?**
-2. **What are the active barriers?**
-3. **Which barriers are clinical?**
-4. **Which barriers are insurance-related?**
-5. **Which barriers are because no facility or service has accepted yet?**
-6. **What does insurance currently say?**
-7. **What are the specific rehab benefits and limits under this plan?**
-8. **Does “covered” mean already authorized, or only potentially covered if criteria are met?**
-9. **What happens if insurance stops paying before the plan is ready?**
-10. **What are the realistic backup plans?**
-11. **What are we waiting on today?**
-12. **What is the next decision point?**
-13. **What supplies and medical equipment are covered, and what will we need to buy ourselves?**
-
+1. **What are the active barriers?**
+1. **Which barriers are clinical?**
+1. **Which barriers are insurance-related?**
+1. **Which barriers are because no facility or service has accepted yet?**
+1. **What does insurance currently say?**
+1. **What are the specific rehab benefits and limits under this plan?**
+1. **Does “covered” mean already authorized, or only potentially covered if criteria are met?**
+1. **What happens if insurance stops paying before the plan is ready?**
+1. **What are the realistic backup plans?**
+1. **What are we waiting on today?**
+1. **What is the next decision point?**
+1. **What supplies and medical equipment are covered, and what will we need to buy ourselves?**
 ### Then ask the control question
 
 > “Which parts of this plan do you control, which parts can you influence, and which parts are outside your authority?”
@@ -364,7 +350,6 @@ Do not assume:
 - the physician can force a payer to pay
 - a denial means the team agrees with the denial
 - a discharge date means everyone thinks the plan is perfect
-
 The system uses words that sound more complete than they are.
 
 That is part of the problem.
@@ -411,17 +396,15 @@ The better question is:
 
 ## Related reading
 
-- [What Actually Drives the Discharge Date?]({% post_url 2025-04-27-what-actually-drives-the-discharge-date %})
-- [If Discharge Is Happening This Week: What Families Should Ask First]({% post_url 2025-04-28-if-discharge-is-happening-this-week-what-families-should-ask-first %})
-- [Why AI Gives Families Plausible but Wrong Discharge Advice]({% post_url 2025-05-01-why-ai-gives-families-plausible-but-wrong-discharge-advice %})
-
+- [What Actually Drives the Discharge Date?](https://dispatchesfromdischargehell.com/blog/posts/2025-04-27-what-actually-drives-the-discharge-date/)
+- [If Discharge Is Happening This Week: What Families Should Ask First](https://dispatchesfromdischargehell.com/blog/posts/2025-04-28-if-discharge-is-happening-this-week-what-families-should-ask-first/)
+- [Why AI Gives Families Plausible but Wrong Discharge Advice](https://dispatchesfromdischargehell.com/blog/posts/2025-05-01-why-ai-gives-families-plausible-but-wrong-discharge-advice/)
 ## Notes
 
 - **Roles vary by facility.** Some rehab hospitals split case management and social work into separate roles. Others blend the work under one title.
 - **Benefits matter early.** Families should ask about rehab benefits, covered services, prior authorization, in-network requirements, and out-of-pocket supply needs as early as possible.
 - **Peer-to-peer availability varies.** Some commercial or managed care plans may allow peer-to-peer review. Traditional Medicare discharge disagreements usually follow a different appeal process.
 - **Pattern note:** Families often blame the person explaining the limit. The more useful move is to ask who controls the lever behind that limit.
-
 ## Selected evidence and practice references
 
 - [AHRQ — IDEAL Discharge Planning](https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html): supports including the patient and family as full partners, discussing home realities, educating throughout the stay, assessing understanding, and listening to family goals and concerns.

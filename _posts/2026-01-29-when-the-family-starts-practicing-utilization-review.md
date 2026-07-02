@@ -26,7 +26,7 @@ If you have started saying things like *"she still needs rehab, so she still qua
 
 Most families do not realize they have crossed that line. **It feels like advocacy. It is usually something else.**
 
-### The moment the rules switch sides
+## The moment the rules switch sides
 
 There is a point in many catastrophic illnesses when families stop asking what the criteria are and start announcing them.
 
@@ -40,7 +40,7 @@ The problem is that **visible need is not the same thing as level-of-care criter
 
 At some point, families stop arguing with the plan and start performing their own version of utilization review. With the wrong manual.
 
-### Four questions that sound like one question
+## Four questions that sound like one question
 
 Discharge planning is full of questions that sound similar but are not the same:
 
@@ -54,15 +54,15 @@ You can see this every day in the rehab hospital. Families hear *rehab* and tran
 
 The question is not whether the patient would benefit from rehabilitation in some general sense. The question is whether, at this moment, there is a reasonable expectation that the patient can actively participate in and measurably benefit from an intensive, interdisciplinary program that requires this setting.[[1]](https://www.cms.gov/training-education/medicare-learning-networkr-mln/compliance/medicare-provider-compliance-tips/inpatient-rehabilitation-hospitals)[[2]](https://www.cms.gov/regulations-and-guidance/guidance/manuals/downloads/bp102c01.pdf)
 
-### Two traps families fall into
+## Two traps families fall into
 
-#### The baseline trap
+### The baseline trap
 
 *"Not back to baseline"* feels like a discharge standard. It is not.
 
 If it were, many patients would stay in hospitals and rehab facilities indefinitely. Most settings are not designed to keep patients until baseline is restored. They are designed to do one specific job, and then hand the patient to the next setting that does the next job.
 
-#### The safety trap
+### The safety trap
 
 *"I do not feel safe with this plan"* feels like the same sentence as *"this plan is medically inappropriate."* It is not.
 
@@ -70,7 +70,7 @@ Family fears matter. They absolutely should matter. But they are not identical t
 
 **And sometimes it is simply a family trying to use the only language they have left when no one has clearly told them how these decisions are actually being made.**
 
-### Why ICU families are especially exposed to this
+## Why ICU families are especially exposed to this
 
 If you came out of an ICU, the ground is still moving under you. The patient lived. The ventilator came off. The transfer happened. Those are enormous events.
 
@@ -84,7 +84,7 @@ That sentence sounds harsher than it is. It is not a dismissal of need. It is an
 
 Once you can hold that distinction, discharge planning becomes less like moral combat and more like actual problem-solving.
 
-### Better questions to ask
+## Better questions to ask
 
 Stop asking:
 
@@ -106,7 +106,7 @@ You are allowed to be afraid. You are allowed to think the patient still looks f
 
 You are not helped when fear becomes criteria, when baseline becomes a benefit standard, or when visible need becomes automatic proof that the current setting must continue.
 
-### What to do today
+## What to do today
 
 **In the next hour.** Write down the four questions and answer each one separately. If you can only answer the first one, you are not yet at a planning conversation. You are still in the emotional one. Both are valid. They are not the same.
 
@@ -124,18 +124,18 @@ That is the question the system is answering, whether you know it or not. The fa
 
 ---
 
-### Notes for the reader
+## Notes for the reader
 
 1. **Still needing help is not the same as still qualifying for the current setting.** A patient can remain weak, dependent, cognitively impaired, or medically complicated and still no longer meet criteria for acute care or the rehab hospital. Rehab admission decisions are narrower: can the patient actively participate, benefit measurably, and justify this level of interdisciplinary intensity *now*?
 1. **Your fear may be valid without being the same thing as medical necessity.** *"We do not feel safe"* matters. It should not be dismissed. But it is not identical to authorization criteria, continued-stay criteria, or level-of-care criteria. Sometimes it signals a bad plan. Sometimes it signals poor explanation. Sometimes both.
 1. **"Not back to baseline" is not a discharge standard.** Many families understandably use return to baseline as their private threshold for continued stay or transfer. But most hospital and post-acute settings are not designed to keep patients until baseline is restored.
 1. **The right question is usually not "Does my loved one still have needs?"** The answer is often obviously yes. The more useful question is: **what setting is built for those needs now?**
 1. **If the plan does not make sense to you, ask the team to separate four different questions.** What needs does the patient still have? Does the patient still meet criteria for this setting? Is this stay still authorized or covered? What is the safest and most realistic next setting? A lot of discharge conflict comes from mixing those questions together.
-### Quick decision guide for families
+## Quick decision guide for families
 
 Before you argue about discharge, transfer, or continued stay, walk through these six steps.
 
-#### Step 1. What are the patient's current needs?
+### Step 1. What are the patient's current needs?
 
 Ask:
 
@@ -144,7 +144,7 @@ Ask:
 - What skilled services are still required?
 *This tells you what problems are still real.*
 
-#### Step 2. Does the patient still meet criteria for this setting?
+### Step 2. Does the patient still meet criteria for this setting?
 
 Ask:
 
@@ -153,7 +153,7 @@ Ask:
 - Is the issue medical stability, therapy tolerance, nursing needs, or something else?
 *This tells you whether the patient still belongs in this level of care.*
 
-#### Step 3. Is the issue really about coverage or authorization?
+### Step 3. Is the issue really about coverage or authorization?
 
 Ask:
 
@@ -162,7 +162,7 @@ Ask:
 - Has authorization been requested, denied, limited, or appealed?
 *This tells you whether the barrier is clinical, financial, or both.*
 
-#### Step 4. What is the next setting, and why is it the next setting?
+### Step 4. What is the next setting, and why is it the next setting?
 
 Ask:
 
@@ -171,7 +171,7 @@ Ask:
 - What can that setting do that matches the patient's current phase of recovery?
 *This tells you whether the plan is actually a step-down, a setting change, or just a discharge without a real next step.*
 
-#### Step 5. What are we, as a family, reacting to?
+### Step 5. What are we, as a family, reacting to?
 
 Ask yourselves:
 
@@ -181,7 +181,7 @@ Ask yourselves:
 - Are we using our own emotional threshold as if it were the medical threshold?
 *This is the step most families skip.*
 
-#### Step 6. What would make the next plan more credible?
+### Step 6. What would make the next plan more credible?
 
 Ask:
 
@@ -197,7 +197,7 @@ Then ask:
 - Which of those can the family actually improve this week?
 *This is where families move from panic to problem-solving.*
 
-### Quick family tool
+## Quick family tool
 
 Before arguing about discharge, transfer, or continued stay, name what you are actually disagreeing with. There are usually only five options.
 
@@ -214,11 +214,11 @@ Before arguing about discharge, transfer, or continued stay, name what you are a
 > ❓ **Best next question to ask the team and each other:**
 > *"What part of this are we actually disputing: the facts, the criteria, the coverage, or the plan?"*
 
-### Related reading
+## Related reading
 
 - [The admission criteria you don't know you're being judged against]({% post_url 2026-04-03-the-admission-criteria-you-dont-know-youre-being-judged-against %}) — what the formal level-of-care logic actually looks like, in plain language.
 - [Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About]({% post_url 2024-01-01-dispatches-from-discharge-hell-25-part-series %}) — the larger map this post sits inside.
-### References
+## References
 
 - Centers for Medicare & Medicaid Services. *[Inpatient Rehabilitation Hospitals & Inpatient Rehabilitation Units: Medicare Provider Compliance Tips](https://www.cms.gov/training-education/medicare-learning-networkr-mln/compliance/medicare-provider-compliance-tips/inpatient-rehabilitation-hospitals)*. Includes 2024 denial reasons and medical-necessity requirements.
 - Centers for Medicare & Medicaid Services. *[Medicare Benefit Policy Manual, Chapter 1, Section 110: Inpatient Rehabilitation Facility (IRF) Services](https://www.cms.gov/regulations-and-guidance/guidance/manuals/downloads/bp102c01.pdf)* (PDF).

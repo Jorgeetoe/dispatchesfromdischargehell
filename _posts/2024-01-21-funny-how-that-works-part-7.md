@@ -7,6 +7,11 @@ description: >-
   The Friday Afternoon Denial — payers use timing as a weapon. Denials
   arrive when offices are closing and appeals windows shrink. The pattern
   behind the timing.
+intended_reader: ["Clinician Validation", "Policy Reckoning"]
+content_tier: "Tier 1: Extraction Mechanism Deep Dive"
+extraction_mechanism: "Insurance Authorization"
+public_safety_reviewed: true
+deidentified: true
 series: dispatches-from-discharge-hell
 series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
 series_part: 7
@@ -17,7 +22,7 @@ redirect_from:
   - /blog/posts/2024-01-21-funny-how-that-works-part-7.html
 ---
 
-### Part 7 of 25: Funny How That Works
+## Part 7 of 25: Funny How That Works
 
 *Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About*
 

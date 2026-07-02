@@ -7,6 +7,11 @@ description: >-
   The DME Delivery Black Hole — equipment ordered weeks before discharge
   operates on its own timeline. The case manager is accountable for delays
   they cannot…
+intended_reader: ["Family Education", "Clinician Validation"]
+content_tier: "Tier 2: Manifestations in Discharge Planning"
+extraction_mechanism: "Vendor/Payer Externalization"
+public_safety_reviewed: true
+deidentified: true
 series: dispatches-from-discharge-hell
 series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
 series_part: 4
@@ -17,7 +22,7 @@ redirect_from:
   - /blog/posts/2024-01-12-dme-delivery-black-hole-part-4.html
 ---
 
-### Part 4 of 25: The DME Delivery Black Hole
+## Part 4 of 25: The DME Delivery Black Hole
 
 *Dispatches from Discharge Hell — A 25-Part Series on the Patterns Nobody Warns You About*
 

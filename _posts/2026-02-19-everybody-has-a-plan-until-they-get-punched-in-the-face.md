@@ -6,6 +6,11 @@ categories: [field-notes]
 description: >-
   A husband sounds financially invulnerable until the benefit-year trap
   snaps shut and the real price of catastrophic care hits the room.
+intended_reader: ["Family Education", "Peer Insight"]
+content_tier: "Tier 2: Manifestations in Discharge Planning"
+extraction_mechanism: "Information Asymmetry"
+public_safety_reviewed: true
+deidentified: true
 excerpt: "A husband talks like private pay is no problem until the benefit-year trap snaps shut and the real cost of catastrophic care punches through the room."
 keywords: "cash pay rehab costs, private pay inpatient rehabilitation, self-pay catastrophic care"
 toc: true
@@ -23,7 +28,7 @@ The daily rate at an inpatient rehab facility like ours runs **$3,500 to $5,000 
 
 The husband arrived calm. Laid back. Mr. Cool.
 
-His wife had a severe stroke. I gave him the standard rundown: three, maybe four weeks depending on recovery trajectory. Medical necessity determinations were up to us. He agreed without flinching.
+His wife had suffered a catastrophic neurological injury. I gave him the standard rundown: three, maybe four weeks depending on recovery trajectory. Medical necessity determinations were up to us. He agreed without flinching.
 
 His concern wasn't the projected length of stay. It was having the ability to pay *beyond* that time — because he believed his wife needed more than insurance would cover.
 
@@ -35,7 +40,7 @@ So I gave him the counterpunch.
 
 He didn't flinch at that either.
 
-Instead, he dropped names. Foundation board members — not just the rehab hospital, but the entire parent system. Said he'd talked to C-suite level people at the mothership. He was prepared to pay for the stay at that price for as long as necessary. He'd also make sizable contributions to both foundations.
+Instead, he dropped names. People with influence in the hospital's orbit. Said he'd talked to leadership. He was prepared to pay for the stay at that price for as long as necessary. He'd also make a sizable donation.
 
 This didn't alarm me. I've done this for a while. But the calm, the name-dropping, the confidence... it made me pay closer attention. I listened. Didn't get cynical. Re-explained everything.
 
@@ -49,7 +54,7 @@ He was more rattled than I was, not at the situation itself, but at the fact tha
 
 It doesn't look good. Even when it's legitimate.
 
-"I know," I said. "But this guy's way too calm. He's dropping names of two foundation boards, offering sizable contributions. Just letting you know in case something comes up."
+"I know," I said. "But this guy's way too calm. He's dropping influential names, offering a sizable donation. Just letting you know in case something comes up."
 
 I hung up. The case proceeded. Mr. Cool stayed Mr. Cool.
 
@@ -99,7 +104,7 @@ The sigh of relief from the husband told me everything.
 
 **He didn't have it like he said he did.**
 
-The plan was money, access, influence. Board seats. C-suite connections. Sizable contributions. The whole performance.
+The plan was money, access, influence. Connections. Donations. The whole performance.
 
 The punch in the face was the daily rate, not the benefit verification scare. The *money*. The actual cost when catastrophic care becomes real and the calendar doesn't care about your connections.
 
@@ -113,7 +118,7 @@ Mr. Cool had done that math before he ever walked in the door. He'd just hoped h
 
 Afterward, he was so thankful I could barely stand to listen to it.
 
-I liked the Mr. Cool persona better. The confident version. The grateful version revealed what the confident version was hiding: that the money was real, the threat was real, and nobody, not even someone with foundation board seats, wants to be the person writing $120,000 in checks for a single month of inpatient rehab.
+I liked the Mr. Cool persona better. The confident version. The grateful version revealed what the confident version was hiding: that the money was real, the threat was real, and nobody, not even someone with connections like that, wants to be the person writing $120,000 in checks for a single month of inpatient rehab.
 
 My social worker and physician were equally puzzled. He'd presented the same calm, name-dropping persona to them. They were shocked when I told them how it turned out.
 
@@ -147,7 +152,7 @@ The plan is: we'll pay if we have to. We'll make it work. We'll figure it out.
 
 The punch is: **$4,000 a day, starting now, no insurance buffer, for as long as it takes.**
 
-I've watched millionaires blink at that number. I've watched people with family wealth, with foundation seats, with portfolios and properties and all the markers of financial security — I've watched them do the math in real time and realize that catastrophic care costs *catastrophic money.*
+I've watched millionaires blink at that number. I've watched people with family wealth, with connections, with portfolios and properties and all the markers of financial security — I've watched them do the math in real time and realize that catastrophic care costs *catastrophic money.*
 
 And I've watched them realize, sometimes for the first time, that the real safety net in American healthcare isn't wealth.
 
@@ -162,3 +167,7 @@ He had a plan.
 Then he got punched in the face.
 
 Most people do.
+
+---
+
+*Identifying details in this essay have been changed to protect privacy. Dialogue is reconstructed and paraphrased.*

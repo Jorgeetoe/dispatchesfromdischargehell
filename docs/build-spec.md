@@ -259,7 +259,7 @@ A `Repo Slug` text property has been added to the Master Content Pipeline in Not
 ### How It Works
 
 1. A Python script (`scripts/notion-sync.py`) queries the Notion API
-1. It pulls posts from the Master Content Pipeline where `Content Status` = "Published" AND `Content Type` = "Article"
+1. It pulls posts from the Master Content Pipeline where `Content Status` = "Published" AND `Content Type` in ("Article", "Caregiver Resource")
 1. It converts Notion blocks to Jekyll-compatible Markdown with YAML front matter
 1. It writes files to `_posts/`
 1. It commits and pushes to GitHub

@@ -163,7 +163,10 @@ class NotionClient:
     def query_data_source(self, data_source_id: str, last_sync: str | None) -> list[dict[str, Any]]:
         filters: list[dict[str, Any]] = [
             {"property": "Content Status", "status": {"equals": "Published"}},
-            {"property": "Content Type", "select": {"equals": "Article"}},
+            {"or": [
+                {"property": "Content Type", "select": {"equals": "Article"}},
+                {"property": "Content Type", "select": {"equals": "Caregiver Resource"}},
+            ]},
         ]
 
         if last_sync:

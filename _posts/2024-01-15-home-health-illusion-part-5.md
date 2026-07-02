@@ -7,6 +7,11 @@ description: >-
   The Home Health Illusion — families expect continuity of hospital-level
   care. Reality: twice a week for 45 minutes. For catastrophic neuro
   patients, home…
+intended_reader: ["Family Education", "Peer Insight"]
+content_tier: "Tier 2: Manifestations in Discharge Planning"
+extraction_mechanism: "Information Asymmetry"
+public_safety_reviewed: true
+deidentified: true
 series: dispatches-from-discharge-hell
 series_title: "Dispatches from Discharge Hell: A 25-Part Series on the Patterns Nobody Warns You About"
 series_part: 5
@@ -17,7 +22,7 @@ redirect_from:
   - /blog/posts/2024-01-15-home-health-illusion-part-5.html
 ---
 
-### Part 5 of 25: The Home Health Illusion
+## Part 5 of 25: The Home Health Illusion
 
 *Dispatches from Discharge Hell — A 25-Part Series on the Patterns Nobody Warns You About*
 
@@ -78,6 +83,17 @@ I set expectations early now: *Home health will not replicate what you've had he
 Families don't want to hear this. They want to believe the system has a plan for what comes next. They want to believe that "home health" means what it sounds like — health care, at home.
 
 What it means is: you're mostly on your own. Here's a phone number for when things go wrong. Good luck.
+
+---
+
+**What families can do right now**
+
+- **Do not build your home plan around home health.** Home health is a twice-weekly check-in, not a care team. Build the plan for the 23 hours a day when nobody is coming.
+- **Ask to see the frequency and duration of home health visits in writing before discharge.** *Twice a week, 45 minutes* is a different plan than what most families imagine when they hear *home health.*
+- **Ask specifically: is a home health aide covered?** Medicare does not cover aides. Many commercial plans do not either. Know this before discharge day.
+- **Identify your after-hours phone number before you leave the hospital.** When the feeding pump alarms at 2 AM on a Saturday, that number is the whole plan.
+- **Treat the inpatient training as the real safety net.** Every return demonstration is a dress rehearsal for the night you will be alone with the equipment.
+*Home health* sounds like the hospital coming home with you. It is not. Plan for what it actually is.
 
 ---
 

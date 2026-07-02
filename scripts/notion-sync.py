@@ -878,15 +878,13 @@ def sync_page(
     # HARD EXCLUSION: Posts with Notion blocks the converter cannot emit (e.g., tables).
     # These files contain critical table markup on disk that would be lost in sync.
     # Do not sync until the converter adds table support.
-    # See: https://github.com/Jorgeetoe/dispatchesfromdischargehell/issues/TABLE_SUPPORT
     excluded_titles = {
         "What Your Case Manager Can and Cannot Do After Catastrophic Injury",
         "Safe or Ready Does Not Mean Appropriate",
     }
     if title in excluded_titles:
-        return SyncResult(
-            status="skip",
-            message=f"{title}: excluded until converter supports Notion table blocks",
+        raise NotionSyncError(
+            f"{title}: excluded until converter supports Notion table blocks"
         )
     summary = get_summary(properties)
     description = truncate_description(summary or title)

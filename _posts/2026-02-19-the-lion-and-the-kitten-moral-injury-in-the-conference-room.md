@@ -7,6 +7,10 @@ description: >-
   A family enters roaring for more time and leaves understanding the
   system cannot give it. This is moral injury on the case-manager side of
   discharge.
+intended_reader: ["Clinician Validation", "Peer Insight"]
+extraction_mechanism: "Caregiver Labor"
+public_safety_reviewed: true
+deidentified: true
 excerpt: "A family enters the conference room roaring for more time and leaves understanding the system cannot give it. This is what moral injury looks like on the case-manager side of catastrophic discharge planning."
 keywords: "moral injury case management, healthcare worker burnout, discharge planning emotional toll"
 toc: true
@@ -165,5 +169,9 @@ That's the injury.
 Not that I'm failing.
 
 That I'm succeeding.
+
+---
+
+*The scenes in this essay are composites drawn from many family conferences over 20+ years of practice; identifying details have been changed to protect privacy.*
 
 I think I'm up for a good argument.

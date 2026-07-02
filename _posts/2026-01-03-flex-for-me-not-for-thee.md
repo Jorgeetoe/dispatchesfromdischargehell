@@ -7,6 +7,11 @@ description: >-
   Clinical staff are expected to solve every discharge mess creatively,
   until they ask administration to bend one policy for the caregiver the
   system stranded.
+intended_reader: ["Clinician Validation", "Peer Insight"]
+content_tier: "Tier 2: Manifestations in Discharge Planning"
+extraction_mechanism: "Caregiver Labor"
+public_safety_reviewed: true
+deidentified: true
 excerpt: "Clinical staff are expected to be infinitely flexible, creative, and solution-oriented. But ask administration to bend a policy for a caregiver caught in a system-created mess? Suddenly there are rules, chains of command, and nobody willing to own a decision."
 keywords: "caregiver hotel program discharge, out of town family discharge planning, hospital policy catch-22, catastrophic care discharge delays"
 toc: true
@@ -103,3 +108,7 @@ I'm not asking for much. A vendor who answers the phone after hours. An insurer 
 That's a short list. You'd think it would be easy.
 
 *Flex for me, not for thee* isn't a policy. But it might as well be.
+
+---
+
+*Identifying details in this essay have been changed to protect privacy. Dialogue is reconstructed and paraphrased.*

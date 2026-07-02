@@ -7,6 +7,11 @@ description: >-
   Nearly 1 in 4 DOC patients arrives misdiagnosed. The system denies care
   for patients it never correctly identified — then uses that failure as
   justification…
+intended_reader: ["Clinician Validation", "Policy Reckoning"]
+content_tier: "Tier 1: Extraction Mechanism Deep Dive"
+extraction_mechanism: "Insurance Authorization"
+public_safety_reviewed: true
+deidentified: true
 excerpt: "23.5% of patients admitted to leading DOC programs arrive with the wrong diagnosis. It's not a rounding error. It's a system that uses clinical impressions instead of standardized assessment, then denies care based on the wrong label."
 notes:
   - "For the classic standardized-assessment versus clinical-consensus finding, see [Schnakers et al. (2009)](https://pubmed.ncbi.nlm.nih.gov/19622138/), which found that 41% of patients diagnosed clinically as vegetative state were reclassified as minimally conscious state using the CRS-R."
@@ -136,13 +141,13 @@ That's the tax. Paid in time, in denial appeals, in weeks or months of wrongly w
 
 ### Sources & Data Log
 
-<details><summary>Internal Program Data</summary>
+<details><summary>Program Outcomes Data (FY25)</summary>
 
-- **23.5% misdiagnosis rate at admission** — FY25 outcomes data, DOC Core Group Meeting 2/19/26. Source: internal program report presented at DOC Core Group.
-  - **53% arrive UWS → 61% leave emerged → 2% leave UWS** — FY25 outcomes data, same source.
-  - **CMI 2.99** (vs. national average 1.41) — FY25 program data, DOC Core Group Meeting 2/19/26.
-  - **67% community discharge rate** (vs. national average 68%) — FY25 program data, same source.
-  - **97 admissions/year, average age 39, average LOS 40 days** — FY25 program data, same source.
+- **23.5% misdiagnosis rate at admission** — FY25 program outcomes, publicly reported by the program.
+  - **53% arrive UWS → 61% leave emerged → 2% leave UWS** — FY25 program outcomes, same source.
+  - **CMI 2.99** (vs. national average 1.41) — FY25 program outcomes, same source.
+  - **67% community discharge rate** (vs. national average 68%) — FY25 program outcomes, same source.
+  - **97 admissions/year, average age 39, average LOS 40 days** — FY25 program outcomes, same source.
 
 </details>
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flex for Me, Not for Thee"
-date: 2026-02-21
+date: 2026-01-03
 categories: [when-it-breaks]
 description: >-
   Clinical staff are expected to solve every discharge mess creatively,
@@ -16,6 +16,7 @@ excerpt: "Clinical staff are expected to be infinitely flexible, creative, and s
 keywords: "caregiver hotel program discharge, out of town family discharge planning, hospital policy catch-22, catastrophic care discharge delays"
 toc: true
 redirect_from:
+  - /blog/posts/2026-02-21-flex-for-me-not-for-thee/
   - /blog/posts/2026-01-03-flex-for-me-not-for-thee.html
 ---
 

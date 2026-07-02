@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Misdiagnosis Tax: 23.5% of DOC Patients Arrive With the Wrong Label"
-date: 2026-02-21
+date: 2025-12-12
 categories: [dispatches]
 description: >-
   Nearly 1 in 4 DOC patients arrives misdiagnosed. The system denies care
@@ -20,6 +20,7 @@ notes:
 keywords: "disorders of consciousness misdiagnosis, DOC misdiagnosis rate, brain injury misdiagnosis, vegetative state misdiagnosis, insurance denial brain injury"
 toc: true
 redirect_from:
+  - /blog/posts/2026-02-21-the-misdiagnosis-tax/
   - /blog/posts/2025-12-12-the-misdiagnosis-tax.html
 ---
 

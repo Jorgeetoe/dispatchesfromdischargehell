@@ -173,5 +173,3 @@ That I'm succeeding.
 ---
 
 *The scenes in this essay are composites drawn from many family conferences over 20+ years of practice; identifying details have been changed to protect privacy.*
-
-I think I'm up for a good argument.
